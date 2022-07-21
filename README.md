@@ -22,13 +22,40 @@
   
   Литература для более подробного ознакомления:
   1. [DOCTYPE: история и варианты применения](https://htmlacademy.ru/blog/articles/doctype)
-  2. [то за загадочный доктайп и зачем он вообще нужен?](https://doka.guide/html/doctype/)
+  2. [Что за загадочный доктайп и зачем он вообще нужен?](https://doka.guide/html/doctype/)
   3. [Document type declaration](https://en.wikipedia.org/wiki/Document_type_declaration)
   
   &nbsp;
   
 </details>
-  <details><summary>Сколько нужно тегов чтобы собрать html страницу?</summary></details>
+  <details><summary>Обязательно ли писать теги head, body и html?</summary>
+
+  &nbsp;
+  
+  [Согласно спецификации HTML](https://html.spec.whatwg.org/multipage/syntax.html#optional-tags) эти теги могут быть пропущены. 
+  Кроме того, например, в [руководстве по стилю HTML](https://google.github.io/styleguide/htmlcssguide.html#HTML_Validity) от Google указано, что в целях оптимизации размера файла можно рассмотреть возможность исключения необязательных тегов:
+   ```
+<!-- Not recommended -->
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Spending money, spending bytes</title>
+   </head>
+   <body>
+      <p>Sic.</p>
+    </body>
+  </html>
+   ```
+  ```
+  <!-- Recommended -->
+  <!DOCTYPE html>
+  <title>Saving money, saving bytes</title>
+  <p>Qed.
+  ```
+  
+  &nbsp;
+  
+</details>
   <details><summary>Кто придумывает названия html тегам? </summary></details>
   <details><summary> Есть ли у HTML элементов свои дефолтные специфичные стили?</summary></details>
   <details><summary>В чем отличие атрибутов от свойств в HTML тегах?</summary></details>
