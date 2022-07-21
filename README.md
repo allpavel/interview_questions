@@ -12,9 +12,22 @@
   2. [Основы HTML](https://html5book.ru/osnovy-html/)
   3. [Learn HTML Basics for Beginners in Just 15 Minutes](https://www.freecodecamp.org/news/html-basics-for-beginners/)
   
+  &nbsp;
+</details>
+  <details><summary>Что такое doctype и зачем он нужен?</summary>
+  
+  &nbsp;
+  
+  Тег DOCTYPE сообщает браузеру какую версию HTML вы используете. DOCTYPE должен находиться на первой строке каждого HTML документа. В HTML5 декларация типа документа выглядит очень просто: ```<!DOCTYPE html>```
+  
+  Литература для более подробного ознакомления:
+  1. [DOCTYPE: история и варианты применения](https://htmlacademy.ru/blog/articles/doctype)
+  2. [то за загадочный доктайп и зачем он вообще нужен?](https://doka.guide/html/doctype/)
+  3. [Document type declaration](https://en.wikipedia.org/wiki/Document_type_declaration)
+  
+  &nbsp;
   
 </details>
-  <details><summary>Что такое doctype и зачем он нужен?</summary></details>
   <details><summary>Сколько нужно тегов чтобы собрать html страницу?</summary></details>
   <details><summary>Кто придумывает названия html тегам? </summary></details>
   <details><summary> Есть ли у HTML элементов свои дефолтные специфичные стили?</summary></details>
