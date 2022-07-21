@@ -1,69 +1,69 @@
 # Вопросы для собеседования на позицию фронтенд разработчик
 
 ## Секция 1. Вопросы по HTML
-  - Что такое и зачем нужен HTML?
-  - Что такое doctype и зачем он нужен?
-  - Сколько нужно тегов чтобы собрать html страницу?
-  - Кто придумывает названия html тегам? 
-  - Есть ли у HTML элементов свои дефолтные специфичные стили?
-  - В чем отличие атрибутов от свойств в HTML тегах?
-  - Как получается так что на всех элементах есть одни теже свойства(class, id, etc)
-  - Что такое мета-тэги?
-  - Что описывается в тэге <head>?
-  - Расскажите о meta-теге с name="viewport"?
-  - Что такое html entities?
-  - Где можно найти списки с html entities? 
-  - Что такое data атрибуты? 
-  - Откуда берутся пробелы в HTML?
-  - Типы input элементов в HTML?
-  - Какие глобальные атрибуты есть в HTML?
-  - В чем смысл семантических тегов?
-  - Есть ли проблема если всю верстку делать на дивах?
-  - Чем семантика отличается от доступности(a11y)?
-  - Как мы можем семантически разделять контент на странице?
-  - Почему это не очень правильно вместо тегов section и header использовать обычный div?
-  - в чём отличие article от section
-  - Как семантически правильно сверстать картинку с подписью?
-  - Зачем для картинок нужен атрибут alt?
-  - Если у нас есть CSS, зачем существуют теги strong, center, etc?
-  - В чем разница между тегами b и strong?
-  - Откуда тег b или strong берут свою "жирность"?
-  - Почему плохо верстать кнопки не с button, а с помощью div
-  - зачем aria role button, если есть тэг button
-  - Когда нужно использовать кнопки а когда ссылки?
-  - Можем ли мы использовать h1 несколько раз на странице?
-  - Можем ли мы использовать тег header в нескольких местах?
-  - Что ты знаешь о тэге picture?
-  - Что такое srcset? Как работает srcset?
-  - Как работает HTML форма и что нужно чтобы ее отправить?
-  - С помощью каких тегов ты будешь делать html форму?
-  - Можем ли сделать html форму без тега form?
-  - Что значит type submit на форме
-  - Как очистить форму?
-  - Особенности whitespace в HTML?
-  - Что такое и зачем нужен iframe?
-  - Что произойдет если мы напишем невалидную разметку?
-  - Что такое HTML валидация? И какие типы проверок HTML документа вы знаете?
-  - Как проверить правильную иерархию html заголовков?
-  - рассказать об аттрибутах тега script
-  - почему тег script нужно ставить перед закрывающим боди
-  - Как скрыть элемент с помощью HTML
-  - что такое якорные ссылки
-  - Что такое атрибут target? Какие значения он принимает?
-  - какие проблемы есть у _target
-  - Расскажи про опенграф и схема орг  разметку
-  - Что такое элемент canvas? И для чего он используется?
-  - Для чего используется элемент datalist?
-  - Что такое SVG и canvas и в чём между ними разница?
-  - Когда использоваьб canvas, а когда SVG?
-  - Плюсы и минусы canvas и SVG?
-  - Для чего нужен атрибут autocomplete?
-  - Для чего используют атрибут novalidate?
-  - Что такое свойство valueAsNumber?
-  - Что такое ApplicationCache в HTML5?
-  - Как можно сгруппировать опции внутри тэга select?
-  - Для чего используют атрибут inputmode?
-  - Что такое #shadow-root в инспекторе HTML-страницы?
+  <details><summary>Что такое и зачем нужен HTML?</summary></details>
+  <details><summary>Что такое doctype и зачем он нужен?</summary></details>
+  <details><summary>Сколько нужно тегов чтобы собрать html страницу?</summary></details>
+  <details><summary>Кто придумывает названия html тегам? </summary></details>
+  <details><summary> Есть ли у HTML элементов свои дефолтные специфичные стили?</summary></details>
+  <details><summary>В чем отличие атрибутов от свойств в HTML тегах?</summary></details>
+  <details><summary>Как получается так что на всех элементах есть одни теже свойства(class, id, etc)</summary></details>
+  <details><summary>Что такое мета-тэги?</summary></details>
+  <details><summary>Что описывается в тэге <head>?</summary></details>
+  <details><summary>Расскажите о meta-теге с name="viewport"?</summary></details>
+  <details><summary>Что такое html entities?</summary></details>
+  <details><summary>Где можно найти списки с html entities? </summary></details>
+  <details><summary>Что такое data атрибуты? </summary></details>
+  <details><summary>Откуда берутся пробелы в HTML?</summary></details>
+  <details><summary>Типы input элементов в HTML?</summary></details>
+  <details><summary>Какие глобальные атрибуты есть в HTML?</summary></details>
+  <details><summary>В чем смысл семантических тегов?</summary></details>
+  <details><summary>Есть ли проблема если всю верстку делать на дивах?</summary></details>
+  <details><summary> Чем семантика отличается от доступности(a11y)?</summary></details>
+  <details><summary>Как мы можем семантически разделять контент на странице?</summary></details>
+  <details><summary> Почему это не очень правильно вместо тегов section и header использовать обычный div?</summary></details>
+  <details><summary>в чём отличие article от section</summary></details>
+  <details><summary>Как семантически правильно сверстать картинку с подписью?</summary></details>
+  <details><summary>Зачем для картинок нужен атрибут alt?</summary></details>
+  <details><summary>Если у нас есть CSS, зачем существуют теги strong, center, etc?</summary></details>
+  <details><summary>В чем разница между тегами b и strong?</summary></details>
+  <details><summary>Откуда тег b или strong берут свою "жирность"?</summary></details>
+  <details><summary>Почему плохо верстать кнопки не с button, а с помощью div</summary></details>
+  <details><summary>зачем aria role button, если есть тэг button</summary></details>
+  <details><summary>Когда нужно использовать кнопки а когда ссылки?</summary></details>
+  <details><summary>Можем ли мы использовать h1 несколько раз на странице?</summary></details>
+  <details><summary>Можем ли мы использовать тег header в нескольких местах?</summary></details>
+  <details><summary>Что ты знаешь о тэге picture?</summary></details>
+  <details><summary>Что такое srcset? Как работает srcset?</summary></details>
+  <details><summary>Как работает HTML форма и что нужно чтобы ее отправить?</summary></details>
+  <details><summary>С помощью каких тегов ты будешь делать html форму?</summary></details>
+  <details><summary>Можем ли сделать html форму без тега form?</summary></details>
+  <details><summary>Что значит type submit на форме</summary></details>
+  <details><summary>Как очистить форму?</summary></details>
+  <details><summary>Особенности whitespace в HTML?</summary></details>
+  <details><summary>Что такое и зачем нужен iframe?</summary></details>
+  <details><summary>Что произойдет если мы напишем невалидную разметку?</summary></details>
+  <details><summary>Что такое HTML валидация? И какие типы проверок HTML документа вы знаете?</summary></details>
+  <details><summary>Как проверить правильную иерархию html заголовков?</summary></details>
+  <details><summary>рассказать об аттрибутах тега script</summary></details>
+  <details><summary>почему тег script нужно ставить перед закрывающим боди</summary></details>
+  <details><summary>Как скрыть элемент с помощью HTML</summary></details>
+  <details><summary>что такое якорные ссылки</summary></details>
+  <details><summary>Что такое атрибут target? Какие значения он принимает?</summary></details>
+  <details><summary>какие проблемы есть у _target</summary></details>
+  <details><summary>Расскажи про опенграф и схема орг  разметку</summary></details>
+  <details><summary>Что такое элемент canvas? И для чего он используется?</summary></details>
+  <details><summary>Для чего используется элемент datalist?</summary></details>
+  <details><summary>Что такое SVG и canvas и в чём между ними разница?</summary></details>
+  <details><summary>Когда использоваьб canvas, а когда SVG?</summary></details>
+  <details><summary>Плюсы и минусы canvas и SVG?</summary></details>
+  <details><summary>Для чего нужен атрибут autocomplete?</summary></details>
+  <details><summary>Для чего используют атрибут novalidate?</summary></details>
+  <details><summary>Что такое свойство valueAsNumber?</summary></details>
+  <details><summary>Что такое ApplicationCache в HTML5?</summary></details>
+  <details><summary>Как можно сгруппировать опции внутри тэга select?</summary></details>
+  <details><summary>Для чего используют атрибут inputmode?</summary></details>
+  <details><summary>Что такое #shadow-root в инспекторе HTML-страницы?</summary></details>
   
 
 
