@@ -1,7 +1,19 @@
 # Вопросы для собеседования на позицию фронтенд разработчик
 
 ## Секция 1. Вопросы по HTML
-  <details><summary>Что такое и зачем нужен HTML?</summary></details>
+
+  <details><summary>Что такое и зачем нужен HTML?</summary>
+  &nbsp;
+
+  HTML (от англ. *HyperText Markup Language* — «язык гипертекстовой разметки») - это код, который используется для структурирования веб-страницы и её контента. HTML предоставляет средства для создания заголовков, абзацев, списков, ссылок, цитат и других элементов. Элементы HTML выделяются тегами, записанными с использованием угловых скобок. Например, ```<img />```, ```<input />``` или ```<p>```.
+  
+  Литература для более подробного ознакомления:
+  1. [Основы HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
+  2. [Основы HTML](https://html5book.ru/osnovy-html/)
+  3. [Learn HTML Basics for Beginners in Just 15 Minutes](https://www.freecodecamp.org/news/html-basics-for-beginners/)
+  
+  
+</details>
   <details><summary>Что такое doctype и зачем он нужен?</summary></details>
   <details><summary>Сколько нужно тегов чтобы собрать html страницу?</summary></details>
   <details><summary>Кто придумывает названия html тегам? </summary></details>
