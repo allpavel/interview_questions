@@ -52,15 +52,54 @@
   <title>Saving money, saving bytes</title>
   <p>Qed.
   ```
+  Литература для более подробного ознакомления:
+    1. [Cпецификация HTML](https://html.spec.whatwg.org/multipage/syntax.html#optional-tags)
+    2. [Руководство по стилю HTML (Google)](https://google.github.io/styleguide/htmlcssguide.html#HTML_Validity)
+  &nbsp;
+  
+</details>
+  <details><summary>В чем отличие атрибутов от свойств в HTML тегах?</summary>
+
+  &nbsp;
+  
+  Атрибут элемента HTML — это сущность, которая используется для определения поведения или отображения html-элемента. Атрибуты указываются в открывающем HTML теге и состоят из двух частей:
+  1. Имя атрибута (например, id, type, style и т.д.)
+  2. Значение атрибута (например, для атрибута type значением может быть "text")
+  
+  Примеры: 
+  ```
+    <tag_name attribute_name="value">Content</tag_name>
+  ```
+  ```
+    <input id="input" type="text">
+  ```
+  ```
+    <h1 style="font-size:40px;color:green;">Hello World</h1>
+  ```
+  
+  В то же время теги являются объектами (в соответствии с DOM). Поэтому, когда браузер парсит HTML документ атрибуты тегов становятся свойствами объектов DOM.
+  
+  Литература для более подробного ознакомления:
+  1. [Атрибуты и свойства](https://learn.javascript.ru/dom-attributes-and-properties)
+  2. [Атрибуты и свойства элементов документа ](https://flagman.top/css/atributy-i-svojstva)
+  3. [Element](https://doka.guide/js/element/)
   
   &nbsp;
   
 </details>
-  <details><summary>Кто придумывает названия html тегам? </summary></details>
-  <details><summary> Есть ли у HTML элементов свои дефолтные специфичные стили?</summary></details>
-  <details><summary>В чем отличие атрибутов от свойств в HTML тегах?</summary></details>
-  <details><summary>Как получается так что на всех элементах есть одни теже свойства(class, id, etc)</summary></details>
-  <details><summary>Что такое мета-тэги?</summary></details>
+  <details><summary>Что такое мета-теги?</summary>
+
+  &nbsp;
+  
+  Мета-теги позволяют передавать поисковым системам дополнительную информацию о страницах, на которых они размещены.
+  
+  1. [Meta Tags for SEO: A Simple Guide for Beginners](https://ahrefs.com/blog/seo-meta-tags/)
+  2. [Meta Tags: The Definitive Guide to Meta-Data for SEO (2021)](https://seosherpa.com/meta-tags/)
+  2. [meta](https://doka.guide/html/meta/)
+  
+  &nbsp;
+
+</details>
   <details><summary>Что описывается в тэге <head>?</summary></details>
   <details><summary>Расскажите о meta-теге с name="viewport"?</summary></details>
   <details><summary>Что такое html entities?</summary></details>
