@@ -52,9 +52,11 @@
   <title>Saving money, saving bytes</title>
   <p>Qed.
   ```
+    
   Почитать:
-    1. [Cпецификация HTML](https://html.spec.whatwg.org/multipage/syntax.html#optional-tags)
-    2. [Руководство по стилю HTML (Google)](https://google.github.io/styleguide/htmlcssguide.html#HTML_Validity)
+  1. [Cпецификация HTML](https://html.spec.whatwg.org/multipage/syntax.html#optional-tags)
+  2. [Руководство по стилю HTML от Google](https://google.github.io/styleguide/htmlcssguide.html#HTML_Validity)
+    
   &nbsp;
   
 </details>
@@ -101,7 +103,7 @@
   &nbsp;
 
 </details>
-  <details><summary>Что описывается в тэге <head>?</summary>
+  <details><summary>Что описывается в теге ```head```?</summary>
   
   &nbsp;
   
@@ -144,9 +146,40 @@
   &nbsp;
  
   </details>
-  <details><summary>Где можно найти списки с html entities? </summary></details>
-  <details><summary>Что такое data атрибуты? </summary></details>
-  <details><summary>Откуда берутся пробелы в HTML?</summary></details>
+  <details><summary>Где можно найти списки с html entities? </summary>
+  
+  
+    Списки html сущностей можно найти [в спецификации](https://html.spec.whatwg.org/multipage/named-characters.html) или [в Википедии](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B2_HTML).
+    
+  
+  </details>
+  <details><summary>Что такое data атрибуты?</summary>
+
+  &nbsp;
+  
+  data-* атрибуты позволяют хранить дополнительную информацию в стандартных элементах HTML без визуального представления. 
+  
+  Почитать:
+  1. [Полное руководство по HTML-атрибутам data-*](https://habr.com/ru/company/ruvds/blog/490626/)
+  2. [.dataset](https://doka.guide/js/element-dataset/)
+  
+  &nbsp;
+
+</details>
+  <details><summary>Откуда берутся пробелы в HTML?</summary>
+
+  &nbsp;
+  
+    inline-block ведет себя, как обычная буква и простой текст — имеет пробелы между словами. Браузер создаёт пустой текстовый узел, который, по сути, может являться переводом строки, пробелом или табом. Все и эти перечисленные вещи превращаются в один единственный пробел и описывается следующей сущностью: &#x0020. Удалить пробелы можно удалив пробелы между HTML элементами.
+  
+  Прочитать:
+  1. [«Загадочные отступы» между инлайн-элементами (+прочитать обсуждение под статьей)](https://habr.com/ru/post/137582/)
+  1. [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+  2. [How whitespace is handled by HTML, CSS, and in the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Whitespace)
+  
+  &nbsp;
+  
+</details>
   <details><summary>Типы input элементов в HTML?</summary></details>
   <details><summary>Какие глобальные атрибуты есть в HTML?</summary></details>
   <details><summary>В чем смысл семантических тегов?</summary></details>
