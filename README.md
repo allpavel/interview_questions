@@ -7,7 +7,7 @@
 
   HTML (от англ. *HyperText Markup Language* — «язык гипертекстовой разметки») - это код, который используется для структурирования веб-страницы и её контента. HTML предоставляет средства для создания заголовков, абзацев, списков, ссылок, цитат и других элементов. Элементы HTML выделяются тегами, записанными с использованием угловых скобок. Например, ```<img />```, ```<input />``` или ```<p>```.
   
-  Литература для более подробного ознакомления:
+  Почитать:
   1. [Основы HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
   2. [Основы HTML](https://html5book.ru/osnovy-html/)
   3. [Learn HTML Basics for Beginners in Just 15 Minutes](https://www.freecodecamp.org/news/html-basics-for-beginners/)
@@ -20,7 +20,7 @@
   
   Тег DOCTYPE сообщает браузеру какую версию HTML вы используете. DOCTYPE должен находиться на первой строке каждого HTML документа. В HTML5 декларация типа документа выглядит очень просто: ```<!DOCTYPE html>```
   
-  Литература для более подробного ознакомления:
+  Почитать:
   1. [DOCTYPE: история и варианты применения](https://htmlacademy.ru/blog/articles/doctype)
   2. [Что за загадочный доктайп и зачем он вообще нужен?](https://doka.guide/html/doctype/)
   3. [Document type declaration](https://en.wikipedia.org/wiki/Document_type_declaration)
@@ -52,7 +52,7 @@
   <title>Saving money, saving bytes</title>
   <p>Qed.
   ```
-  Литература для более подробного ознакомления:
+  Почитать:
     1. [Cпецификация HTML](https://html.spec.whatwg.org/multipage/syntax.html#optional-tags)
     2. [Руководство по стилю HTML (Google)](https://google.github.io/styleguide/htmlcssguide.html#HTML_Validity)
   &nbsp;
@@ -79,7 +79,7 @@
   
   В то же время теги являются объектами (в соответствии с DOM). Поэтому, когда браузер парсит HTML документ атрибуты тегов становятся свойствами объектов DOM.
   
-  Литература для более подробного ознакомления:
+  Почитать:
   1. [Атрибуты и свойства](https://learn.javascript.ru/dom-attributes-and-properties)
   2. [Атрибуты и свойства элементов документа ](https://flagman.top/css/atributy-i-svojstva)
   3. [Element](https://doka.guide/js/element/)
@@ -93,16 +93,57 @@
   
   Мета-теги позволяют передавать поисковым системам дополнительную информацию о страницах, на которых они размещены.
   
+  Почитать:
   1. [Meta Tags for SEO: A Simple Guide for Beginners](https://ahrefs.com/blog/seo-meta-tags/)
   2. [Meta Tags: The Definitive Guide to Meta-Data for SEO (2021)](https://seosherpa.com/meta-tags/)
-  2. [meta](https://doka.guide/html/meta/)
+  3. [meta](https://doka.guide/html/meta/)
   
   &nbsp;
 
 </details>
-  <details><summary>Что описывается в тэге <head>?</summary></details>
-  <details><summary>Расскажите о meta-теге с name="viewport"?</summary></details>
-  <details><summary>Что такое html entities?</summary></details>
+  <details><summary>Что описывается в тэге <head>?</summary>
+  
+  &nbsp;
+  
+  Тег ```head``` предназначен для хранения служебной информации о странице. Он располагается перед ```body```. Внутри ```head``` обычно содержится заголовок и описание страницы, подключаются внешние ресурсы, например, стили. Содержимое этого тега не отображается на странице напрямую.
+  
+  Почитать:
+  1. [Что можно положить в тег head](https://habr.com/ru/company/htmlacademy/blog/563894/)
+  2. [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Расскажите о meta-теге с name="viewport"?</summary>
+  
+  &nbsp;
+  
+  Viewport — это область, которую видит пользователь на экране, когда заходит на страницу сайта. Чтобы пользоваться сайтами было удобно, нужно правильно масштабировать страницы. Для этого используется метатег viewport. Он не делает верстку адаптивной. Его предназначение — контроль масштаба отображения страницы.
+  
+  Например:
+  ```
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  ```
+  
+  1. [Метатег viewport: почему он важен и как его правильно использовать](https://timeweb.com/ru/community/articles/metateg-viewport-pochemu-on-vazhen-i-kak-ego-pravilno-ispolzovat)
+  2. [Viewport meta tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
+  
+  &nbsp;
+ 
+  </details>
+  <details><summary>Что такое html entities?</summary>
+    
+  &nbsp;
+  
+  HTML-сущности — это части текста ("строки"), которые начинаются с символа амперсанда (&) и заканчиваются точкой с запятой (;). Некоторые специальные символы, если они появляются в документе HTML, могут вызвать недопонимание в синтаксическом анализаторе исходного кода HTML, например, символ "меньше" ( < ), при встрече с данным символом анализатор HTML может ошибочно принять этот символ за тег. Чтобы избежать данное недопонимание, можно использовать специальный объект (entity) &lt; чтобы заменить символ ( < ).
+  
+  Почитать:
+  1. [Мнемоники в HTML](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B2_HTML)
+  
+  &nbsp;
+ 
+  </details>
   <details><summary>Где можно найти списки с html entities? </summary></details>
   <details><summary>Что такое data атрибуты? </summary></details>
   <details><summary>Откуда берутся пробелы в HTML?</summary></details>
