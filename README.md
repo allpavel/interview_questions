@@ -103,7 +103,7 @@
   &nbsp;
 
 </details>
-  <details><summary>Что описывается в теге ```head```?</summary>
+  <details><summary>Что описывается в теге head?</summary>
   
   &nbsp;
   
