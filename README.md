@@ -180,25 +180,161 @@
   &nbsp;
   
 </details>
-  <details><summary>Типы input элементов в HTML?</summary></details>
-  <details><summary>Какие глобальные атрибуты есть в HTML?</summary></details>
-  <details><summary>В чем смысл семантических тегов?</summary></details>
-  <details><summary>Есть ли проблема если всю верстку делать на дивах?</summary></details>
+  <details><summary>Типы input элементов в HTML?</summary>
+  
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Какие глобальные атрибуты есть в HTML?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>В чем смысл семантических тегов?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Есть ли проблема если всю верстку делать на дивах?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
   <details><summary> Чем семантика отличается от доступности(a11y)?</summary></details>
-  <details><summary>Как мы можем семантически разделять контент на странице?</summary></details>
-  <details><summary> Почему это не очень правильно вместо тегов section и header использовать обычный div?</summary></details>
-  <details><summary>в чём отличие article от section</summary></details>
+  <details><summary>Как мы можем семантически разделять контент на странице?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary> Почему это не очень правильно вместо тегов section и header использовать обычный div?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>в чём отличие article от section</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
   <details><summary>Как семантически правильно сверстать картинку с подписью?</summary></details>
-  <details><summary>Зачем для картинок нужен атрибут alt?</summary></details>
-  <details><summary>Если у нас есть CSS, зачем существуют теги strong, center, etc?</summary></details>
-  <details><summary>В чем разница между тегами b и strong?</summary></details>
-  <details><summary>Откуда тег b или strong берут свою "жирность"?</summary></details>
-  <details><summary>Почему плохо верстать кнопки не с button, а с помощью div</summary></details>
-  <details><summary>зачем aria role button, если есть тэг button</summary></details>
-  <details><summary>Когда нужно использовать кнопки а когда ссылки?</summary></details>
-  <details><summary>Можем ли мы использовать h1 несколько раз на странице?</summary></details>
-  <details><summary>Можем ли мы использовать тег header в нескольких местах?</summary></details>
-  <details><summary>Что ты знаешь о тэге picture?</summary></details>
+  <details><summary>Зачем для картинок нужен атрибут alt?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Если у нас есть CSS, зачем существуют теги strong, center, etc?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>В чем разница между тегами b и strong?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Откуда тег b или strong берут свою "жирность"?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Почему плохо верстать кнопки не с button, а с помощью div</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>зачем aria role button, если есть тэг button</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Когда нужно использовать кнопки а когда ссылки?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Можем ли мы использовать h1 несколько раз на странице?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Можем ли мы использовать тег header в нескольких местах?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что ты знаешь о тэге picture?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
   <details><summary>Что такое srcset? Как работает srcset?</summary></details>
   <details><summary>Как работает HTML форма и что нужно чтобы ее отправить?</summary></details>
   <details><summary>С помощью каких тегов ты будешь делать html форму?</summary></details>
