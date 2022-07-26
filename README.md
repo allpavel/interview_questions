@@ -289,7 +289,11 @@
     
   &nbsp;
   
+  Такие теги, как: <header>, <footer>, <aside>, <h1>, <nav>, <ul> и другие, помогают людям с ограниченными возможностями воспринимать сайт полностью без проблем. Так же используя семантические теги вы показываете поисковому роботу структуру сайта, где у вас шапка сайта, где подвал, а где основной контент страницы.
   
+  Почитать:
+  1. [Что такое доступность?](https://developer.mozilla.org/ru/docs/Learn/Accessibility/What_is_accessibility)
+  2. [How to Section Your HTML](https://css-tricks.com/how-to-section-your-html/)
   
   &nbsp;
   
@@ -298,17 +302,32 @@
     
   &nbsp;
   
-  
+  1. [Структура HTML5 — div, section и article](https://noteskeeper.ru/heritage/54/)
+  2. [Difference between article tag and section tag](https://www.geeksforgeeks.org/difference-between-article-tag-and-section-tag/)
+  2. [Why You Should Choose HTML5 article Over section](https://www.smashingmagazine.com/2020/01/html5-article-section/)
   
   &nbsp;
   
   </details>
   <details><summary>Как семантически правильно сверстать картинку с подписью?</summary></details>
+  
+  1. [Доклад Яндекса](https://habr.com/ru/company/yandex/blog/559442/)
+  2. [Image Techniques On The Web](https://ishadeed.com/article/image-techniques/)
+  3. [Image SEO: Optimizing images for search engines](https://yoast.com/image-seo/)
+  
+  
   <details><summary>Зачем для картинок нужен атрибут alt?</summary>
     
   &nbsp;
   
-  
+  alt - обязательный атрибут. Текст в alt называется альтернативным описанием изображения и рассказывает словами, что изображено. Это полезно, если картинка не загрузилась или пользователь не видит изображения.
+Если забыть добавить атрибут, то скринридер попытается прочесть название файла: в лучшем случае это будет logo-large, но может быть и b764b84c, что не очень информативно. Если оставить значение атрибута пустым, то скринридер посчитает это изображение декоративным, а не контентным. Если вы добиваетесь именно этого — отлично, но тогда, возможно, стоит вставить его как фоновую картинку с помощью CSS.
+Когда картинка по какой-то причине не загружается, браузеры отображают вместо неё альтернативный текст. Его даже можно стилизовать, если задать текстовые стили тегу <img>.
+    
+    Прочитать:
+    1. [Как правильно написать alt-текст](https://htmlacademy.ru/blog/articles/alt-text)
+    2. [6 простых правил хорошего alt-текста](https://habr.com/ru/company/htmlacademy/blog/667540/)
+    2. [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
   
   &nbsp;
   
