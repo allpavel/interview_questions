@@ -289,7 +289,7 @@
     
   &nbsp;
   
-  Такие теги, как: <header>, <footer>, <aside>, <h1>, <nav>, <ul> и другие, помогают людям с ограниченными возможностями воспринимать сайт полностью без проблем. Так же используя семантические теги вы показываете поисковому роботу структуру сайта, где у вас шапка сайта, где подвал, а где основной контент страницы.
+  Такие теги, как: header, footer, aside, h1, nav, ul и другие, помогают людям с ограниченными возможностями воспринимать сайт полностью без проблем. Так же используя семантические теги вы показываете поисковому роботу структуру сайта, где у вас шапка сайта, где подвал, а где основной контент страницы.
   
   Почитать:
   1. [Что такое доступность?](https://developer.mozilla.org/ru/docs/Learn/Accessibility/What_is_accessibility)
@@ -309,34 +309,40 @@
   &nbsp;
   
   </details>
-  <details><summary>Как семантически правильно сверстать картинку с подписью?</summary></details>
+  <details><summary>Как семантически правильно сверстать картинку с подписью?</summary>
+
+  &nbsp;
   
   1. [Доклад Яндекса](https://habr.com/ru/company/yandex/blog/559442/)
   2. [Image Techniques On The Web](https://ishadeed.com/article/image-techniques/)
   3. [Image SEO: Optimizing images for search engines](https://yoast.com/image-seo/)
   
+  &nbsp;
+
+</details>
+
+<details><summary>Зачем для картинок нужен атрибут alt?</summary>
+
+  &nbsp;
+ 
+   alt это обязательный атрибут. Текст в alt называется альтернативным описанием изображения и рассказывает словами, что изображено. Это полезно, если картинка не загрузилась или пользователь не видит изображения. Если забыть добавить атрибут, то скринридер попытается прочесть название файла: в лучшем случае это будет logo-large, но может быть и b764b84c, что не очень информативно. Если оставить значение атрибута пустым, то скринридер посчитает это изображение декоративным, а не контентным. Если вы добиваетесь именно этого — отлично, но тогда, возможно, стоит вставить его как фоновую картинку с помощью CSS. Когда картинка по какой-то причине не загружается, браузеры отображают вместо неё альтернативный текст. Его даже можно стилизовать, если задать текстовые стили тегу <img>.
   
-  <details><summary>Зачем для картинок нужен атрибут alt?</summary>
-    
+   Прочитать:
+   1. [Как правильно написать alt-текст](https://htmlacademy.ru/blog/articles/alt-text)
+   2. [6 простых правил хорошего alt-текста](https://habr.com/ru/company/htmlacademy/blog/667540/)
+   3. [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
+  
   &nbsp;
   
-  alt - обязательный атрибут. Текст в alt называется альтернативным описанием изображения и рассказывает словами, что изображено. Это полезно, если картинка не загрузилась или пользователь не видит изображения.
-Если забыть добавить атрибут, то скринридер попытается прочесть название файла: в лучшем случае это будет logo-large, но может быть и b764b84c, что не очень информативно. Если оставить значение атрибута пустым, то скринридер посчитает это изображение декоративным, а не контентным. Если вы добиваетесь именно этого — отлично, но тогда, возможно, стоит вставить его как фоновую картинку с помощью CSS.
-Когда картинка по какой-то причине не загружается, браузеры отображают вместо неё альтернативный текст. Его даже можно стилизовать, если задать текстовые стили тегу <img>.
-    
-    Прочитать:
-    1. [Как правильно написать alt-текст](https://htmlacademy.ru/blog/articles/alt-text)
-    2. [6 простых правил хорошего alt-текста](https://habr.com/ru/company/htmlacademy/blog/667540/)
-    2. [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
-  
-  &nbsp;
-  
-  </details>
+</details>
   <details><summary>Если у нас есть CSS, зачем существуют теги strong, center, etc?</summary>
     
   &nbsp;
   
-  
+      Прочитать:
+    1. [Как правильно написать alt-текст](https://htmlacademy.ru/blog/articles/alt-text)
+    2. [6 простых правил хорошего alt-текста](https://habr.com/ru/company/htmlacademy/blog/667540/)
+    2. [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
   
   &nbsp;
   
@@ -345,7 +351,11 @@
     
   &nbsp;
   
+  Тег ```strong``` указывает на важность отмеченного текста. Он может использоваться для выделения предупреждений или части документа, которую пользователь должен увидеть раньше остального. При этом обозначение части текста тегом ```strong``` не должно изменять смысла предложения. Элемент ```b``` используется для привлечения внимания к тексту, не указывая на то, что это более важно. Скринридер при чтении сайта будет выделять слова с тегом ```strong``` интонационно, в отличие от простого выделения с помощью ```b```.
   
+  Прочитать:
+  1. [strong](https://developer.mozilla.org/ru/docs/Web/HTML/Element/strong)
+  2. [Какие HTML теги правильные? Отличия b от strong](https://axivan.com/kakie-html-tegi-pravilnye-otlichiya-b-ot-strong/)
   
   &nbsp;
   
@@ -354,7 +364,7 @@
     
   &nbsp;
   
-  
+  В большинстве браузеров дефолтные стили для тегов b и strong это font-weight: bold
   
   &nbsp;
   
@@ -363,7 +373,12 @@
     
   &nbsp;
   
+  Кнопка созданная с помощью div потеряет много функционала, в т.ч. и семантику. Недостающие свойства придётся дописывать самому.
   
+  Прочитать:
+  1. [button](https://doka.guide/html/button/)
+  2. [How (Not) to Build a Button](https://benmyers.dev/blog/clickable-divs/)
+  3. [A Complete Guide to Links and Buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
   
   &nbsp;
   
@@ -372,7 +387,8 @@
     
   &nbsp;
   
-  
+  1. [ARIA: button role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/button_role)
+  2. [A Complete Guide to Links and Buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
   
   &nbsp;
   
@@ -381,6 +397,10 @@
     
   &nbsp;
   
+  Прочитать:
+  1. [Что лучше использовать: ссылки или кнопки](https://htmlacademy.ru/blog/articles/links-or-buttons)
+  2. [When Is A Button Not A Button?](https://www.smashingmagazine.com/2019/02/buttons-interfaces/)
+  3. [A Complete Guide to Links and Buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
   
   
   &nbsp;
