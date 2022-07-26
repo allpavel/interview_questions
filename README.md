@@ -378,7 +378,8 @@
   Прочитать:
   1. [button](https://doka.guide/html/button/)
   2. [How (Not) to Build a Button](https://benmyers.dev/blog/clickable-divs/)
-  3. [A Complete Guide to Links and Buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
+  3. [When role="button" is not enough](https://dev.to/tylerjdev/when-role-button-is-not-enough-dac)
+  4. [A Complete Guide to Links and Buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
   
   &nbsp;
   
@@ -410,7 +411,11 @@
     
   &nbsp;
   
+  Использование нескольких тегов h1 на одной странице не отразится на результатах ее ранжирования. В контенте можно размещать любое количество заголовков первого уровня, и это никак не отразится на позициях сайта в выдаче. ем не менее, не стоит злоупотреблять использованием большого количества этих тегов.
   
+  Прочитать:
+  1. [Multiple H1 Tags on Page is Perfectly Fine in SEO](https://www.stanventures.com/blog/multiple-h1-tags/)
+  2. [What is an H1 Tag? SEO Best Practices](https://ahrefs.com/blog/h1-tag/)
   
   &nbsp;
   
@@ -419,7 +424,11 @@
     
   &nbsp;
   
+  Тег header в HTML обычно используют для шапки (верхушки) сайта, но не только для нее. В него как правило помещают логотип, верхнее меню, контакты. Часто, вся информация, которая находится в header (лого, меню и т.д.) одинаково отображается на всех страницах сайта. Тегов header на странице может быть сколько угодно.
   
+  Прочитать:
+  1. [Learn What HTML Header (New Semantic Document Tag) Does](https://html.com/tags/header/)
+  2. [html5: using header or footer tag twice?](https://stackoverflow.com/questions/4837269/html5-using-header-or-footer-tag-twice)
   
   &nbsp;
   
@@ -428,7 +437,12 @@
     
   &nbsp;
   
+  Тег ```picture``` используется, когда для разных устройств или вариантов отображения нам нужны разные картинки.
   
+  Прочитать:
+  1. [picture](https://doka.guide/html/picture/)
+  2. [Почему стоит использовать тег <picture> вместо <img>](https://habr.com/ru/company/vdsina/blog/555736/)
+  3. [A Guide to the Responsive Images Syntax in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
   
   &nbsp;
   
