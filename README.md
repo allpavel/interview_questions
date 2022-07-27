@@ -504,7 +504,8 @@
     
   &nbsp;
   
-  
+  Прочитать:
+  1. [HTMLFormElement.reset()](https://developer.mozilla.org/ru/docs/Web/API/HTMLFormElement/reset)
   
   &nbsp;
   
@@ -513,7 +514,10 @@
     
   &nbsp;
   
-  
+  Прочитать:
+    1. [Свойство white-space](https://learn.javascript.ru/white-space)
+    2. [white-space](https://doka.guide/css/white-space/)
+    3. [white-space](https://css-tricks.com/almanac/properties/w/whitespace/)
   
   &nbsp;
   
@@ -531,7 +535,8 @@
     
   &nbsp;
   
-  
+  Прочитать:
+    1. [Parse errors](https://html.spec.whatwg.org/multipage/parsing.html#parse-errors)
   
   &nbsp;
   
