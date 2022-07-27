@@ -447,22 +447,166 @@
   &nbsp;
   
   </details>
-  <details><summary>Что такое srcset? Как работает srcset?</summary></details>
-  <details><summary>Как работает HTML форма и что нужно чтобы ее отправить?</summary></details>
-  <details><summary>С помощью каких тегов ты будешь делать html форму?</summary></details>
-  <details><summary>Можем ли сделать html форму без тега form?</summary></details>
-  <details><summary>Что значит type submit на форме</summary></details>
-  <details><summary>Как очистить форму?</summary></details>
-  <details><summary>Особенности whitespace в HTML?</summary></details>
-  <details><summary>Что такое и зачем нужен iframe?</summary></details>
-  <details><summary>Что произойдет если мы напишем невалидную разметку?</summary></details>
-  <details><summary>Что такое HTML валидация? И какие типы проверок HTML документа вы знаете?</summary></details>
-  <details><summary>Как проверить правильную иерархию html заголовков?</summary></details>
-  <details><summary>рассказать об аттрибутах тега script</summary></details>
-  <details><summary>почему тег script нужно ставить перед закрывающим боди</summary></details>
-  <details><summary>Как скрыть элемент с помощью HTML</summary></details>
-  <details><summary>что такое якорные ссылки</summary></details>
-  <details><summary>Что такое атрибут target? Какие значения он принимает?</summary></details>
+  <details><summary>Что такое srcset? Как работает srcset?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  1. [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+  2. [A Guide to the Responsive Images Syntax in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Как работает HTML форма и что нужно чтобы ее отправить?</summary>
+  
+  &nbsp;
+  
+  1. [Learn Forms](https://web.dev/learn/forms/)
+  2. [Best Practices for Form Design: Structure, Inputs, Labels and Actions](https://xd.adobe.com/ideas/principles/web-design/best-practices-form-design/)
+  3. [Creating Accessible Forms](https://webaim.org/techniques/forms/)
+  4. [Best Practices For Mobile Form Design](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>С помощью каких тегов ты будешь делать html форму?</summary>
+    
+  &nbsp;
+  
+  1. [Learn Forms](https://web.dev/learn/forms/)
+  2. [Best Practices for Form Design: Structure, Inputs, Labels and Actions](https://xd.adobe.com/ideas/principles/web-design/best-practices-form-design/)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Можем ли сделать html форму без тега form?</summary>
+    
+  &nbsp;
+  
+  Без тега form пропадает доступность, становится не ясно какие инпуты к чему относятся, пропадает событие submit. 
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что значит type submit на форме</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+  1. [Отправка формы: событие и метод submit](https://learn.javascript.ru/forms-submit)
+  2. [input type="submit"](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Как очистить форму?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Особенности whitespace в HTML?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что такое и зачем нужен iframe?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что произойдет если мы напишем невалидную разметку?</summary
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  >
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что такое HTML валидация? И какие типы проверок HTML документа вы знаете?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Как проверить правильную иерархию html заголовков?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>рассказать об аттрибутах тега script</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>почему тег script нужно ставить перед закрывающим боди</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Как скрыть элемент с помощью HTML</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>что такое якорные ссылки</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что такое атрибут target? Какие значения он принимает?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
   <details><summary>какие проблемы есть у _target</summary></details>
   <details><summary>Расскажи про опенграф и схема орг  разметку</summary></details>
   <details><summary>Что такое элемент canvas? И для чего он используется?</summary></details>
