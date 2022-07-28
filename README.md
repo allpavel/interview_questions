@@ -610,12 +610,23 @@
     
   &nbsp;
   
-  
+  Почитать:
+  1. [target](https://developer.mozilla.org/ru/docs/Web/HTML/Element/A#attr-target)
   
   &nbsp;
   
   </details>
-  <details><summary>какие проблемы есть у _target</summary></details>
+  <details><summary>какие проблемы есть у _target</summary>
+  
+    &nbsp;
+    
+    Прочитать:
+    1. [Опасный target="_blank"](https://habr.com/ru/post/282880/)
+    2. [Web app security. Target="_blank" vulnerability](https://thecodest.co/blog/web-app-security-target-_blank-vulnerability)
+    
+    &nbsp;
+  
+  </details>
   <details><summary>Расскажи про опенграф и схема орг  разметку</summary></details>
   <details><summary>Что такое элемент canvas? И для чего он используется?</summary></details>
   <details><summary>Для чего используется элемент datalist?</summary></details>
