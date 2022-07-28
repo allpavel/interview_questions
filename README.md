@@ -526,7 +526,9 @@
     
   &nbsp;
   
-  
+  Прочитать:
+  1. [Исчерпывающий путеводитель по тегу iframe](https://habr.com/ru/post/488516/)
+  2. [4 IFrame Security Concerns You Should Know](https://blog.bitsrc.io/4-security-concerns-with-iframes-every-web-developer-should-know-24c73e6a33e4)
   
   &nbsp;
   
@@ -541,12 +543,6 @@
   &nbsp;
   
   >
-    
-  &nbsp;
-  
-  
-  
-  &nbsp;
   
   </details>
   <details><summary>Что такое HTML валидация? И какие типы проверок HTML документа вы знаете?</summary>
@@ -562,7 +558,7 @@
     
   &nbsp;
   
-  
+  [the W3C Markup Validator](https://validator.w3.org/)
   
   &nbsp;
   
@@ -571,7 +567,11 @@
     
   &nbsp;
   
-  
+  Прочитать:
+  1. [script](https://doka.guide/html/script/)
+  2. [Скрипты: async, defer](https://learn.javascript.ru/script-async-defer)
+  3. [Эффективная загрузка стороннего кода JavaScript](https://web.dev/i18n/ru/efficiently-load-third-party-javascript/)
+  4. [Everything I Know About The Script Tag](https://eager.io/blog/everything-I-know-about-the-script-tag/)
   
   &nbsp;
   
@@ -580,7 +580,8 @@
     
   &nbsp;
   
-  
+  Браузер рендерит страницу сверху вниз, в случае когда скрипты располагаются в теге ```head``` рендеринг останавливается для того, что бы браузер скачал и выполнил эти скрипты и затем продолжает работу, для некоторых сайтов эта задержка чувствительная, в таком случае предпочитают сначала вывести контент сайта, а затем подгрузить скрипты.
+Так же, когда какая-либо функция скрипта, работает с DOM-элементами сайта, то при подключении сверху эта функция будет пытаться обратится к DOM-элементу который еще не отрендерил браузер, что вызовет ошибку.
   
   &nbsp;
   
@@ -589,7 +590,9 @@
     
   &nbsp;
   
-  
+  Прочитать:
+  1. [Атрибут hidden](https://doka.guide/html/hidden/)
+  2. [The HTML5 hidden attribute](https://allyjs.io/tutorials/hiding-elements.html#the-html5-hidden-attribute)
   
   &nbsp;
   
