@@ -653,7 +653,10 @@
   
   &nbsp;
   
-  
+  Прочитать:
+    1. [datalist](https://webref.ru/html/datalist)
+    2. [HTML5 Datalist: What You Need To Know](https://www.jotform.com/blog/html5-datalists-what-you-need-to-know-78024/)
+    3. [A Look into: HTML5 Datalist](https://www.hongkiat.com/blog/html5-datalist/)
   
   &nbsp;
   
@@ -695,7 +698,10 @@
     
   &nbsp;
   
-  
+    Прочитать:
+  1. [Атрибут autocomplete](https://doka.guide/html/autocomplete/)
+  2. [HTML attribute: autocomplete](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete)
+  2. [Autofill](https://web.dev/learn/forms/autofill/)
   
   &nbsp;
   
@@ -705,9 +711,8 @@
   &nbsp;
   
   Прочитать:
-  1. [Атрибут autocomplete](https://doka.guide/html/autocomplete/)
-  2. [HTML attribute: autocomplete](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete)
-  2. [Autofill](https://web.dev/learn/forms/autofill/)
+  1. [Атрибут novalidate](https://doka.guide/html/novalidate/)
+  2. [Валидация форм на стороне клиента](https://developer.mozilla.org/ru/docs/Learn/Forms/Form_validation)
   
   &nbsp;
   
