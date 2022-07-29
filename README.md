@@ -627,19 +627,142 @@
     &nbsp;
   
   </details>
-  <details><summary>Расскажи про опенграф и схема орг  разметку</summary></details>
-  <details><summary>Что такое элемент canvas? И для чего он используется?</summary></details>
-  <details><summary>Для чего используется элемент datalist?</summary></details>
-  <details><summary>Что такое SVG и canvas и в чём между ними разница?</summary></details>
-  <details><summary>Когда использоваьб canvas, а когда SVG?</summary></details>
-  <details><summary>Плюсы и минусы canvas и SVG?</summary></details>
-  <details><summary>Для чего нужен атрибут autocomplete?</summary></details>
-  <details><summary>Для чего используют атрибут novalidate?</summary></details>
-  <details><summary>Что такое свойство valueAsNumber?</summary></details>
-  <details><summary>Что такое ApplicationCache в HTML5?</summary></details>
-  <details><summary>Как можно сгруппировать опции внутри тэга select?</summary></details>
-  <details><summary>Для чего используют атрибут inputmode?</summary></details>
-  <details><summary>Что такое #shadow-root в инспекторе HTML-страницы?</summary></details>
+  <details><summary>Расскажи про опенграф и схема орг  разметку</summary>
+  &nbsp;
+  
+  Прочитать:
+  1. [Микроразметка Schema.org: полное руководство](https://kokoc.com/blog/schema-org-polnoe-rukovodstvo-po-semanticheskoy-razmetke/)
+  2. [Что такое разметка Open Graph и как ее внедрить без программиста](https://habr.com/ru/company/click/blog/492258/)
+  3. [Open Graph Meta Tags: Everything You Need to Know](https://ahrefs.com/blog/open-graph-meta-tags/)
+  4. [What Is Schema Markup? How to Use It for SEO](https://ahrefs.com/blog/schema-markup/)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что такое элемент canvas? И для чего он используется?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  1. [CANVAS шаг за шагом: Основы](https://habr.com/ru/post/111308/)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Для чего используется элемент datalist?</summary>
+  
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что такое SVG и canvas и в чём между ними разница?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+  1. [SVG или canvas?](https://habr.com/ru/company/ruvds/blog/476292/)
+  2. [Using SVG vs. Canvas: A short guide](https://blog.logrocket.com/svg-vs-canvas/)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Когда использоваьб canvas, а когда SVG?</summary>
+    
+  &nbsp;
+  
+    Прочитать:
+  1. [SVG или canvas?](https://habr.com/ru/company/ruvds/blog/476292/)
+  2. [Using SVG vs. Canvas: A short guide](https://blog.logrocket.com/svg-vs-canvas/)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Плюсы и минусы canvas и SVG?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+  1. [SVG или canvas?](https://habr.com/ru/company/ruvds/blog/476292/)
+  2. [Using SVG vs. Canvas: A short guide](https://blog.logrocket.com/svg-vs-canvas/)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Для чего нужен атрибут autocomplete?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Для чего используют атрибут novalidate?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+  1. [Атрибут autocomplete](https://doka.guide/html/autocomplete/)
+  2. [HTML attribute: autocomplete](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete)
+  2. [Autofill](https://web.dev/learn/forms/autofill/)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что такое свойство valueAsNumber?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+  1. [Input valueAsNumber](https://davidwalsh.name/input-valueasnumber)
+  2. [HTMLInputElement.valueAsNumber](https://dev.to/js_bits_bill/htmlinputelement-valueasnumber-js-bits-3pfl)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что такое ApplicationCache в HTML5?</summary>
+    
+  &nbsp;
+  
+  AppCache is documented as [deprecated](https://chromestatus.com/feature/6192449487634432) and under removal in [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/applicationCache) and in the WHATWG standard, and marked as obsolete in W3C's HTML 5.1.
+  
+  Прочитать:
+  1. [Application Cache API — новые возможности и проблемы](https://habr.com/ru/post/151815/)
+  2. [A beginner's guide to using the application cache](https://web.dev/appcache-beginner/)
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Как можно сгруппировать опции внутри тэга select?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Для чего используют атрибут inputmode?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
+  <details><summary>Что такое #shadow-root в инспекторе HTML-страницы?</summary>
+    
+  &nbsp;
+  
+  
+  
+  &nbsp;
+  
+  </details>
   
 
 
