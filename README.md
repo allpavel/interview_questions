@@ -745,7 +745,9 @@
     
   &nbsp;
   
-  
+  Прочитать:
+  1. [select](https://doka.guide/html/select/)
+  2. [optgroup](https://doka.guide/html/optgroup/)
   
   &nbsp;
   
@@ -754,7 +756,9 @@
     
   &nbsp;
   
-  
+  Прочитать:
+  1. [Атрибут inputmode](https://doka.guide/html/inputmode/)
+  2. [Everything You Ever Wanted to Know About inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
   
   &nbsp;
   
