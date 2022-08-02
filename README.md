@@ -767,7 +767,10 @@
     
   &nbsp;
   
-  
+  Прочитать:
+  1. [Shadow DOM](https://learn.javascript.ru/shadow-dom)
+  2. [Shadow DOM v1 - Self-Contained Web Components](https://web.dev/shadowdom-v1/)
+  3. [A complete guide on shadow DOM and event propagation](https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/)
   
   &nbsp;
   
