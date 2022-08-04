@@ -779,86 +779,806 @@
 
 
 ## Секция 2. Вопросы по CSS
-- Как расшифровывается аббревиатура CSS?
-- Как ты понимаешь что такое каскад?
-- что такое блочная модель
-- значения box-sizing и чем они отличаются
-- Как работает наследование в CSS?
-- Способы изоляции стилей в CSS?
-- Какие знаешь подходы по написанию CSS?
-- Почему плохо писать все стили в одном файле или теге style?
-- В чем отличия разных подходов подключения стилей?
-- рассказать о достоинствах и недостатках подхода CSS-in-JS
-- рассказать о критическом css
-- Специфичность в CSS
-- зачем иногда селектора перечисляют через запятую?
-- Как в CSS работают разные приоритеты стилей?
-- Рассказать про схлопывание марджинов
-- Что такое адаптивная верстка?
-- Как ты знаешь подходы по созданию адаптивных сайтов?
-- рассказать о подходах mobile-first и desktop-first
-- Использовал ли ты media запросы?
-- Какими параметрами нужно манипулировать чтобы адаптировать сайт?
-- В чем отличие адаптивного дизайна от отзывчивого?
-- Проблема адаптации таблицы?
-- Что ты знаешь о БЭМ?
-- Какие способы выровнить элемент по горизонтали и вертикали ты знаешь?
-- способы, чтобы задать расстояние между несколькими колонками
-- Как растянуть элемент на 100%?
-- Что такое псевдоэлементы?
-- Что такое псевдоклассы?
-- Как сбросить фон у элемента?
-- Ключевое отличие гридов от флексов
-- Объясни для каких задач подойдут флексы, а для каких гриды
-- Рассказажи какие бывают значения у свойства display?
-- Чем отличается блочный от инлайнового элемента?
-- Рассказажи какие бывают значения у свойства position?
-- Что такое position: sticky?
-- Как бы ты эмулировал поведение position: sticky?
-- Расскажи про поведение top,left,bottom,right при различных значениях position
-- что будет когда position absolute внутри position absolute?
-- Какие есть способы подключения шрифтов?
-- С какими проблемами ты сталкивался при подключении кастомных шрифтов?
-- в чём отличие вариативных шрифтов от обычных
-- Назови способы оптимизации шрифтов
-- Назови способы оптимизации иконок
-- Расскажи какие форматы графических изображений ты знаешь
-- Какой популярный браузер только недавно начал поддерживать webp?
-- Зачем нужно указывать ширину и высоту для картинок?
-- Как мы можем сделать webp с фолбеком?
-- Что ты знаешь про концепцию optimistic ui?
-- Можно ли с помощью JS поменять значение псевдоэлемента?
-- Как можно скрыть элемент не используя display: none?
-- как скрыть элемент, но чтобы поисковики его видели?
-- Какие еще есть свойства для скрытия элемента? 
-- Как найти все скрытые элементы на странице?
-- Как ты стилизуешь чекбоксы, инпуты etc? 
-- Что такое User agent стили
-- Импорты и модульность в CSS
-- Какие препроцессоры ты используешь или знаешь?
-- Для чего ты используешь SASS?
-- Минус использование амперсанда в препроцессорах?
-- Как мы можем заставить элемент быть поверх другого?
-- Что такое и когда создаётся новый контекс наложения?
-- Как бороться с переполнением контентом?
-- Какие есть единицы измерения в CSS?
-- Когда брать абсолютные величины а когда относительные?
-- Какие есть варианты указания цвета и зачем нам столько?
-- Какие есть способы модификации цвета?
-- Особенности свойства color?
-- Какое количество цветов поддерживает GIF?
-- Доступность цвета
-- Что такое вендорные префиксы? И для чего они используются?
-- Зачем нам нужен autoprefixer?
-- Как автопрефиксер понимает где поставить префиксы?
-- Как выбирать свойство основываясь на поддержке браузерами?
-- что за свойство isolation в css
-- какие в CSS есть ключевые слова (initial, inherit, unset, revert)
-- что такое функция attr
-- Разница между Reset.css и Normalize.css?
-- Разница между margin и padding?
-- Что такое CSS спрайт и для чего он используется
-- Что такое #shadow-root в инспекторе HTML-страницы?
+  <details><summary>Как расшифровывается аббревиатура CSS?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как ты понимаешь что такое каскад?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>что такое блочная модель</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>значения box-sizing и чем они отличаются</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как работает наследование в CSS?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Способы изоляции стилей в CSS?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какие знаешь подходы по написанию CSS?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Почему плохо писать все стили в одном файле или теге style?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>В чем отличия разных подходов подключения стилей?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>рассказать о достоинствах и недостатках подхода CSS-in-JS</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>рассказать о критическом css</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Специфичность в CSS</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>зачем иногда селектора перечисляют через запятую?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как в CSS работают разные приоритеты стилей?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Рассказать про схлопывание марджинов</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что такое адаптивная верстка?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как ты знаешь подходы по созданию адаптивных сайтов?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>рассказать о подходах mobile-first и desktop-first</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Использовал ли ты media запросы?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какими параметрами нужно манипулировать чтобы адаптировать сайт?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>В чем отличие адаптивного дизайна от отзывчивого?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Проблема адаптации таблицы?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что ты знаешь о БЭМ?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какие способы выровнить элемент по горизонтали и вертикали ты знаешь?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>способы, чтобы задать расстояние между несколькими колонками</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как растянуть элемент на 100%?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что такое псевдоэлементы?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что такое псевдоклассы?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как сбросить фон у элемента?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Ключевое отличие гридов от флексов</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Объясни для каких задач подойдут флексы, а для каких гриды</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Рассказажи какие бывают значения у свойства display?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Чем отличается блочный от инлайнового элемента?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Рассказажи какие бывают значения у свойства position?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что такое position: sticky?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как бы ты эмулировал поведение position: sticky?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Расскажи про поведение top,left,bottom,right при различных значениях position</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>что будет когда position absolute внутри position absolute?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какие есть способы подключения шрифтов?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>С какими проблемами ты сталкивался при подключении кастомных шрифтов?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>в чём отличие вариативных шрифтов от обычных</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Назови способы оптимизации шрифтов</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Назови способы оптимизации иконок</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Расскажи какие форматы графических изображений ты знаешь</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какой популярный браузер только недавно начал поддерживать webp?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Зачем нужно указывать ширину и высоту для картинок?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как мы можем сделать webp с фолбеком?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что ты знаешь про концепцию optimistic ui?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Можно ли с помощью JS поменять значение псевдоэлемента?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как можно скрыть элемент не используя display: none?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>как скрыть элемент, но чтобы поисковики его видели?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какие еще есть свойства для скрытия элемента? </summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как найти все скрытые элементы на странице?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как ты стилизуешь чекбоксы, инпуты etc? </summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что такое User agent стили</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Импорты и модульность в CSS</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какие препроцессоры ты используешь или знаешь?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Для чего ты используешь SASS?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Минус использование амперсанда в препроцессорах?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как мы можем заставить элемент быть поверх другого?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что такое и когда создаётся новый контекс наложения?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как бороться с переполнением контентом?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какие есть единицы измерения в CSS?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Когда брать абсолютные величины а когда относительные?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какие есть варианты указания цвета и зачем нам столько?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какие есть способы модификации цвета?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Особенности свойства color?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Какое количество цветов поддерживает GIF?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Доступность цвета</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что такое вендорные префиксы? И для чего они используются?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Зачем нам нужен autoprefixer?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как автопрефиксер понимает где поставить префиксы?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Как выбирать свойство основываясь на поддержке браузерами?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>что за свойство isolation в css</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>какие в CSS есть ключевые слова (initial, inherit, unset, revert)</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>что такое функция attr</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Разница между Reset.css и Normalize.css?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Разница между margin и padding?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что такое CSS спрайт и для чего он используется</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
+  <details><summary>Что такое #shadow-root в инспекторе HTML-страницы?</summary>
+  
+  &nbsp;
+  
+  Прочитать:
+  
+  &nbsp;
+  
+  </details>
+  
 
 
 ## Секция 3. Вопросы по JavaScript
