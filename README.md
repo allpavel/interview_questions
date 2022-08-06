@@ -784,6 +784,7 @@
   &nbsp;
   
   Прочитать:
+  1. [Основы CSS](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
   
   &nbsp;
   
@@ -794,6 +795,8 @@
   &nbsp;
   
   Прочитать:
+  1. [Принцип каскада](https://doka.guide/css/cascade/)
+  2. [The cascade](https://web.dev/learn/css/the-cascade/)
   
   &nbsp;
   
@@ -804,6 +807,9 @@
   &nbsp;
   
   Прочитать:
+  1. [Блочная модель](https://web.dev/learn/css/box-model/)
+  2. [Блочная модель](https://doka.guide/css/box-model/)
+  3. [CSS Box Model Properties – Explained With Examples](https://www.freecodecamp.org/news/css-box-model-explained-with-examples/)
   
   &nbsp;
   
@@ -814,6 +820,9 @@
   &nbsp;
   
   Прочитать:
+  1. [box-sizing](https://doka.guide/css/box-sizing/)
+  2. [box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+
   
   &nbsp;
   
