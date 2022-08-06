@@ -833,6 +833,9 @@
   &nbsp;
   
   Прочитать:
+    1. [Наследование](https://doka.guide/css/inheritance/)
+    2. [Inheritance](https://web.dev/learn/css/inheritance/)
+    3. [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
   
   &nbsp;
   
@@ -843,6 +846,8 @@
   &nbsp;
   
   Прочитать:
+    1. [Способы организации CSS-кода](https://habr.com/ru/post/256109/)
+    2. [CSS Architecture with SASS, SMACSS, and BEM](https://itnext.io/css-architecture-with-sass-smacss-and-bem-cc618392c148)
   
   &nbsp;
   
@@ -853,6 +858,9 @@
   &nbsp;
   
   Прочитать:
+      Прочитать:
+    1. [Способы организации CSS-кода](https://habr.com/ru/post/256109/)
+    2. [CSS Architecture with SASS, SMACSS, and BEM](https://itnext.io/css-architecture-with-sass-smacss-and-bem-cc618392c148)
   
   &nbsp;
   
@@ -863,6 +871,8 @@
   &nbsp;
   
   Прочитать:
+    1. [Подключение стилей](https://doka.guide/css/adding-styles/)
+    2. [How To Apply CSS Styles to HTML with Cascade and Specificity](https://www.digitalocean.com/community/tutorials/how-to-apply-css-styles-to-html-with-cascade-and-specificity)
   
   &nbsp;
   
@@ -872,7 +882,9 @@
   
   &nbsp;
   
-  Прочитать:
+   Прочитать:
+    1. [Подключение стилей](https://doka.guide/css/adding-styles/)
+    2. [How To Apply CSS Styles to HTML with Cascade and Specificity](https://www.digitalocean.com/community/tutorials/how-to-apply-css-styles-to-html-with-cascade-and-specificity)
   
   &nbsp;
   
@@ -883,6 +895,9 @@
   &nbsp;
   
   Прочитать:
+    1. [Всё, что вам нужно знать о CSS-in-JS](https://css-live.ru/articles/vsyo-chto-vam-nuzhno-znat-o-css-in-js.html)
+    2. [A Thorough Analysis of CSS-in-JS](https://css-tricks.com/a-thorough-analysis-of-css-in-js/)
+    3. [An Introduction to CSS-in-JS: Examples, Pros, and Cons](https://webdesign.tutsplus.com/articles/an-introduction-to-css-in-js-examples-pros-and-cons--cms-33574)
   
   &nbsp;
   
@@ -893,6 +908,9 @@
   &nbsp;
   
   Прочитать:
+    1. [Как и почему вы должны инлайнить критический CSS](https://webformyself.com/kak-i-pochemu-vy-dolzhny-inlajnit-kriticheskij-css/)
+    2. [Критический CSS + прогрессивный CSS ](https://medium.com/web-standards/critical-and-progressive-css-d6611f034d7d)
+    3. [Understanding Critical CSS](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
   
   &nbsp;
   
