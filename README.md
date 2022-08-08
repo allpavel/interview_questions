@@ -972,17 +972,23 @@
   &nbsp;
   
   Прочитать:
+    1. [Отзывчивый дизайн](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Responsive_Design)
+    2. [Отзывчивый веб-дизайн](https://webref.ru/layout/advanced-html-css/responsive-web-design)
+    3. [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
+    4. [Learn Responsive Design](https://web.dev/learn/design/)
   
   &nbsp;
   
   </details>
   
-  <details><summary>Как ты знаешь подходы по созданию адаптивных сайтов?</summary>
+  <details><summary>Какие ты знаешь подходы по созданию адаптивных сайтов?</summary>
   
   &nbsp;
   
   Прочитать:
-  
+    1. [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
+    1. [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
+      
   &nbsp;
   
   </details>
@@ -992,16 +998,22 @@
   &nbsp;
   
   Прочитать:
+    1. [Почему Mobile First?](https://habr.com/ru/post/269419/)
+    2. [The State Of Mobile First and Desktop First](https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first/)
+    3. [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
+    4. [How to Take the Right Approach to Responsive Web Design](https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/)
   
   &nbsp;
   
   </details>
   
-  <details><summary>Использовал ли ты media запросы?</summary>
+  <details><summary>Что такое media запросы?</summary>
   
   &nbsp;
   
   Прочитать:
+    1. [@media](https://doka.guide/css/media/)
+    2. [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
   
   &nbsp;
   
@@ -1012,6 +1024,7 @@
   &nbsp;
   
   Прочитать:
+    1. [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
   
   &nbsp;
   
@@ -1022,6 +1035,8 @@
   &nbsp;
   
   Прочитать:
+    1. [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
+    2. [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
   
   &nbsp;
   
