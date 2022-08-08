@@ -921,6 +921,9 @@
   &nbsp;
   
   Прочитать:
+  1. [Специфичность](https://doka.guide/css/specificity/)
+  2. [Как CSS специфичность работает в браузере](https://habr.com/ru/post/436610/)
+  3. [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
   
   &nbsp;
   
@@ -931,6 +934,7 @@
   &nbsp;
   
   Прочитать:
+  1. [Перечисление селекторов](https://doka.guide/css/selector-list/)
   
   &nbsp;
   
@@ -941,16 +945,23 @@
   &nbsp;
   
   Прочитать:
+  1. [Каскад и наследование](https://developer.mozilla.org/ru/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
+  2. [Специфичность](https://doka.guide/css/specificity/)
+  3. [Как CSS специфичность работает в браузере](https://habr.com/ru/post/436610/)
+  4. [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
   
   &nbsp;
   
   </details>
   
-  <details><summary>Рассказать про схлопывание марджинов</summary>
+  <details><summary>Рассказать про схлопывание отступов</summary>
   
   &nbsp;
   
   Прочитать:
+  1. [Схлопывание внешних отступов](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
+  2. [Схлопывающиеся margin](https://webref.ru/course/block-model/margin-collapse)
+  3. [What is Margin Collapse in CSS? And How to Avoid It](https://www.freecodecamp.org/news/what-is-margin-collapse-and-how-to-avoid-it/)
   
   &nbsp;
   
