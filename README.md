@@ -1047,6 +1047,8 @@
   &nbsp;
   
   Прочитать:
+  1. [Accessible, Simple, Responsive Tables](https://css-tricks.com/accessible-simple-responsive-tables/)
+  2. [Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)
   
   &nbsp;
   
@@ -1057,6 +1059,8 @@
   &nbsp;
   
   Прочитать:
+  1. [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/ru/company/yandex/blog/276035/)
+  2. [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
   
   &nbsp;
   
@@ -1067,6 +1071,10 @@
   &nbsp;
   
   Прочитать:
+  1. [Центрирование горизонтальное и вертикальное](https://learn.javascript.ru/css-center)
+  2. [Centering in CSS](https://ishadeed.com/article/learn-css-centering/)
+  3. [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+
   
   &nbsp;
   
