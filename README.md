@@ -1110,6 +1110,10 @@
   &nbsp;
   
   Прочитать:
+    1. [Псевдоэлементы](https://doka.guide/css/pseudoelements/)
+    2. [An Ultimate Guide To CSS Pseudo Classes And Pseudo Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
+    3. [A guide to CSS pseudo-elements](https://blog.logrocket.com/a-guide-to-css-pseudo-elements/)
+    4. [Pseudo-elements](https://web.dev/learn/css/pseudo-elements/)
   
   &nbsp;
   
@@ -1120,6 +1124,10 @@
   &nbsp;
   
   Прочитать:
+    1. [Псевдоклассы](https://doka.guide/css/pseudoclasses/)
+    2. [Pseudo-classes](https://web.dev/learn/css/pseudo-classes/)
+    2. [An Ultimate Guide To CSS Pseudo Classes And Pseudo Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
+    3. [A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/)
   
   &nbsp;
   
