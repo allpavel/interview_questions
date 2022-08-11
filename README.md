@@ -1085,6 +1085,9 @@
   &nbsp;
   
   Прочитать:
+  1. [Руководство по созданию удобных и отзывчивых CSS-колонок](https://webformyself.com/rukovodstvo-po-sozdaniyu-udobnyx-i-otzyvchivyx-css-kolonok/)
+  1. [gap](https://css-tricks.com/almanac/properties/g/gap/)
+  2. [Spacing in CSS](https://ishadeed.com/article/spacing-in-css/)
   
   &nbsp;
   
@@ -1095,6 +1098,8 @@
   &nbsp;
   
   Прочитать:
+  1. [Full Width Containers in Limited Width Parents](https://css-tricks.com/full-width-containers-limited-width-parents/)
+  2. [CSS gotcha: How to fill page with a div?](https://dev.to/lennythedev/css-gotcha-how-to-fill-page-with-a-div-270j)
   
   &nbsp;
   
