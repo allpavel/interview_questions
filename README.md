@@ -1138,6 +1138,7 @@
   &nbsp;
   
   Прочитать:
+  1. [background-color](https://doka.guide/css/background-color/)
   
   &nbsp;
   
@@ -1148,6 +1149,8 @@
   &nbsp;
   
   Прочитать:
+  1. [Выбор CSS макета — Grid или Flexbox?](https://habr.com/ru/company/ruvds/blog/523808/)
+  2. [When to use flexbox and when to use CSS grid](https://blog.logrocket.com/flexbox-vs-css-grid/)
   
   &nbsp;
   
@@ -1158,6 +1161,8 @@
   &nbsp;
   
   Прочитать:
+  1. [Выбор CSS макета — Grid или Flexbox?](https://habr.com/ru/company/ruvds/blog/523808/)
+  2. [When to use flexbox and when to use CSS grid](https://blog.logrocket.com/flexbox-vs-css-grid/)
   
   &nbsp;
   
@@ -1168,6 +1173,9 @@
   &nbsp;
   
   Прочитать:
+  1. [Все значения свойства display](https://learn.javascript.ru/display)
+  2. [display](https://doka.guide/css/display/)
+  3. [display](https://css-tricks.com/almanac/properties/d/display/)
   
   &nbsp;
   
