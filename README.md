@@ -1248,6 +1248,7 @@
   &nbsp;
   
   Прочитать:
+    1.[Absolute positioning inside absolute position](https://stackoverflow.com/questions/5928059/absolute-positioning-inside-absolute-position)
   
   &nbsp;
   
@@ -1258,16 +1259,11 @@
   &nbsp;
   
   Прочитать:
-  
-  &nbsp;
-  
-  </details>
-  
-  <details><summary>С какими проблемами ты сталкивался при подключении кастомных шрифтов?</summary>
-  
-  &nbsp;
-  
-  Прочитать:
+    1. [Как подключить и оптимизировать нестандартные шрифты](https://htmlacademy.ru/blog/best/fonts-loading)
+    2. [Оптимизация загрузки и рендеринга веб-шрифтов](https://web.dev/optimize-webfont-loading/)
+    3. [How To Load and Use Custom Fonts with CSS](https://www.digitalocean.com/community/tutorials/how-to-load-and-use-custom-fonts-with-css)
+    4. [Optimizing Google Fonts Performance](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/)
+    5. [Best practices for fonts](https://web.dev/optimize-webfont-loading/)
   
   &nbsp;
   
@@ -1278,6 +1274,10 @@
   &nbsp;
   
   Прочитать:
+    1. [Введение в вариативные шрифты](https://web.dev/i18n/ru/variable-fonts/)
+    2. [Вариативные веб шрифты](https://habr.com/ru/post/413297/)
+    3. [Variable fonts guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide)
+    4. [Variable Fonts on the Web Using CSS](https://www.digitalocean.com/community/tutorials/css-variable-fonts)
   
   &nbsp;
   
@@ -1288,6 +1288,9 @@
   &nbsp;
   
   Прочитать:
+    1. [Оптимизация загрузки и рендеринга веб-шрифтов](https://web.dev/optimize-webfont-loading/)
+    2. [Optimizing Google Fonts Performance](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/)
+    3. [Best practices for fonts](https://web.dev/optimize-webfont-loading/)
   
   &nbsp;
   
@@ -1298,6 +1301,8 @@
   &nbsp;
   
   Прочитать:
+    1. [Tools for Optimizing SVG](https://css-tricks.com/tools-for-optimizing-svg/)
+    2. [A Practical Guide](https://svgontheweb.com/)
   
   &nbsp;
   
