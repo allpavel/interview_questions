@@ -1186,6 +1186,10 @@
   &nbsp;
   
   Прочитать:
+  1. [Блочные элементы](https://webref.ru/course/block-inline/block)
+  2. [Строчные элементы](https://webref.ru/course/block-inline/inline)
+  3. [Строчно-блочные элементы](https://webref.ru/course/block-inline/inline-block)
+  4. [Block Level Elements vs Inline Level Elements in HTML & CSS](https://blog.hubspot.com/website/block-level-elements-vs-inline-level-elements)
   
   &nbsp;
   
@@ -1196,6 +1200,8 @@
   &nbsp;
   
   Прочитать:
+  1. [position](https://doka.guide/css/position/)
+  2. [position](https://css-tricks.com/almanac/properties/p/position/)
   
   &nbsp;
   
@@ -1206,6 +1212,9 @@
   &nbsp;
   
   Прочитать:
+  1. [position: sticky](https://doka.guide/css/position-sticky/)
+  2. [CSS Position Sticky - How It Really Works!](https://elad.medium.com/css-position-sticky-how-it-really-works-54cd01dc2d46)
+  3. [How To Make Elements Stick with CSS position: sticky](https://www.digitalocean.com/community/tutorials/css-position-sticky)
   
   &nbsp;
   
@@ -1216,6 +1225,7 @@
   &nbsp;
   
   Прочитать:
+  1. [Scroll/Follow Sidebar, Multiple Techniques](https://css-tricks.com/scrollfollow-sidebar/)
   
   &nbsp;
   
@@ -1226,6 +1236,8 @@
   &nbsp;
   
   Прочитать:
+  1.[Типы позиционирования](https://developer.mozilla.org/ru/docs/Web/CSS/position#%D1%82%D0%B8%D0%BF%D1%8B_%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+  2. [top / bottom / left / right](https://css-tricks.com/almanac/properties/t/top-right-bottom-left/)
   
   &nbsp;
   
