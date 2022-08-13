@@ -1964,17 +1964,3 @@
   - Что такое семантические коммиты?
   - Что ты знаешь про semantic version
 
-
-
-
-вопросы https://github.com/likezninjaz/react-ru-interview-questions
-
-
-задачи про промисы:
-https://youtu.be/AY9Ta6cKcP0?t=4560
-
-задачи про контекст:
-https://habr.com/ru/company/ruvds/blog/422089/
-
-https://habr.com/ru/post/578370/
-https://github.com/likezninjaz/react-ru-interview-questions
