@@ -1066,7 +1066,7 @@
   
   </details>
   
-  <details><summary>Какие способы выровнить элемент по горизонтали и вертикали ты знаешь?</summary>
+  <details><summary>Какие способы выравнить элемент по горизонтали и вертикали ты знаешь?</summary>
   
   &nbsp;
   
@@ -1313,6 +1313,11 @@
   &nbsp;
   
   Прочитать:
+  1. [Форматы изображений для веба](https://htmlacademy.ru/blog/articles/image-formats)
+  2. [Актуальные форматы изображений в вебе](https://habr.com/ru/post/594211/)
+  3. [Using Modern Image Formats: AVIF And WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
+  4. [A Developer’s Guide to Understanding Image Types](https://docs.imgix.com/best-practices/guide-to-image-types)
+  5. [AVIF has landed](https://jakearchibald.com/2020/avif-has-landed/)
   
   &nbsp;
   
@@ -1322,7 +1327,10 @@
   
   &nbsp;
   
+  Safari 14.0 – 15.6 has full support of WebP, but requires macOS 11 Big Sur or later
+  
   Прочитать:
+  1. [Safari 14 ships webp support](https://dev.to/ben/safari-14-ships-webp-support-are-we-nearing-the-end-of-png-on-the-web-2f53)
   
   &nbsp;
   
@@ -1333,6 +1341,9 @@
   &nbsp;
   
   Прочитать:
+  1. [Задавать Height и Width для изображений снова важно](https://habr.com/ru/post/524918/) - в п.2 оригинал этой статьи на английском языке
+  2. [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/)
+  3. [Optimize Cumulative Layout Shift](https://web.dev/i18n/en/optimize-cls/)
   
   &nbsp;
   
