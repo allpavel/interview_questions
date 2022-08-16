@@ -1421,6 +1421,10 @@
   &nbsp;
   
   Прочитать:
+  1. [Custom Checkbox](https://www.w3schools.com/howto/howto_css_custom_checkbox.asp)
+  2. [How to style a checkbox using CSS](https://stackoverflow.com/questions/4148499/how-to-style-a-checkbox-using-css)
+  3. [How to style forms with CSS: A beginner’s guide](https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/)
+  4. [How To Style Common Form Elements with CSS](https://www.digitalocean.com/community/tutorials/how-to-style-common-form-elements-with-css)
   
   &nbsp;
   
@@ -1431,6 +1435,7 @@
   &nbsp;
   
   Прочитать:
+  1. [User-agent stylesheets](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade#user-agent_stylesheets)
   
   &nbsp;
   
@@ -1441,6 +1446,10 @@
   &nbsp;
   
   Прочитать:
+  1. [import](https://doka.guide/css/import/)
+  2. [import](https://developer.mozilla.org/en-US/docs/Web/CSS/@import)
+  3. [Практическое руководство по использованию CSS Modules в React приложениях](https://habr.com/ru/post/335244/)
+  4. [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
   
   &nbsp;
   
