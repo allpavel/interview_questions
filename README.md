@@ -1460,6 +1460,8 @@
   &nbsp;
   
   Прочитать:
+  1. [Popular CSS Preprocessors With Examples: Sass, Less & Stylus](https://raygun.com/blog/css-preprocessors-examples/)
+  2. [What is PostCSS? How to Use Plugins to Automate CSS Tasks](https://www.freecodecamp.org/news/what-is-postcss/)
   
   &nbsp;
   
@@ -1470,6 +1472,8 @@
   &nbsp;
   
   Прочитать:
+  1. [Препроцессор Sass. Полное руководство и зачем он нужен](https://medium.com/@stasonmars/%D0%BF%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80-sass-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BE%D0%BD-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-20fb638e29e3)
+  2. [The definitive guide to SCSS](https://blog.logrocket.com/the-definitive-guide-to-scss/)
   
   &nbsp;
   
