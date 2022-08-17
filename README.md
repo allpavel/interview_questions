@@ -1555,11 +1555,15 @@
   
   </details>
   
-  <details><summary>Какие есть варианты указания цвета и зачем нам столько?</summary>
+  <details><summary>Какие есть варианты указания цвета?</summary>
   
   &nbsp;
   
   Прочитать:
+  1. [Цвета в CSS](https://habr.com/ru/company/ruvds/blog/505626/)
+  2. [currentColor](https://doka.guide/css/currentcolor/)
+  3. [Defining Colors in CSS](http://web.simmons.edu/~grovesd/comm244/notes/week3/css-colors)
+  4. [HEX vs RGB vs HSL: What is the Best Method to set CSS Color Property?]()
   
   &nbsp;
   
@@ -1570,6 +1574,10 @@
   &nbsp;
   
   Прочитать:
+  1. [filter](https://css-tricks.com/almanac/properties/f/filter/)
+  2. [backdrop-filter](https://css-tricks.com/almanac/properties/b/backdrop-filter/)
+  2. [Dynamic Color Manipulation with CSS Relative Colors](https://blog.jim-nielsen.com/2021/css-relative-colors/)
+  3. [The CSS color-mod Function](https://www.digitalocean.com/community/tutorials/css-color-function)
   
   &nbsp;
   
@@ -1580,6 +1588,9 @@
   &nbsp;
   
   Прочитать:
+  1. [currentColor](https://doka.guide/css/currentcolor/)
+  2. [Делаем CSS короче с помощью currentColor](https://webformyself.com/delaem-css-koroche-s-pomoshhyu-currentcolor/)
+  3. [Understanding the currentColor Keyword in CSS](https://www.digitalocean.com/community/tutorials/css-currentcolor)
   
   &nbsp;
   
@@ -1589,7 +1600,7 @@
   
   &nbsp;
   
-  Прочитать:
+  The maximum color depth of a GIF is 256 colors, because each pixel is represented as a single byte, which can be an index to at most 2^8 = 256 colors.
   
   &nbsp;
   
