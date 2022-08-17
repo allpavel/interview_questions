@@ -1479,11 +1479,12 @@
   
   </details>
   
-  <details><summary>Минус использование амперсанда в препроцессорах?</summary>
+  <details><summary>Минус использования амперсанда в препроцессорах?</summary>
   
   &nbsp;
   
   Прочитать:
+  1. [Leading Ampersands for modifiers in Sass: An anti-pattern](https://chipcullen.com/leading-ampersands-in-sass-an-anti-pattern/)
   
   &nbsp;
   
@@ -1494,6 +1495,9 @@
   &nbsp;
   
   Прочитать:
+  1. [Контекст наложения](https://doka.guide/css/stacking-context/)
+  2. [Z-index and stacking contexts](https://web.dev/learn/css/z-index/)
+  3. [Understanding Z-Index in CSS](https://ishadeed.com/article/understanding-z-index/)
   
   &nbsp;
   
@@ -1504,6 +1508,9 @@
   &nbsp;
   
   Прочитать:
+  1. [Контекст наложения](https://doka.guide/css/stacking-context/)
+  2. [Z-index and stacking contexts](https://web.dev/learn/css/z-index/)
+  3. [Understanding Z-Index in CSS](https://ishadeed.com/article/understanding-z-index/)
   
   &nbsp;
   
@@ -1514,6 +1521,8 @@
   &nbsp;
   
   Прочитать:
+  1. [Переполнение содержимого](https://developer.mozilla.org/ru/docs/Learn/CSS/Building_blocks/Overflowing_content)
+  2. [CSS Overflow: What It Is & How It Works](https://blog.hubspot.com/website/css-overflow)
   
   &nbsp;
   
@@ -1524,6 +1533,11 @@
   &nbsp;
   
   Прочитать:
+  1. [Единицы измерения](https://learn.javascript.ru/css-units)
+  2. [Единицы измерения](https://doka.guide/css/numeric-types/)
+  3. [vw, vh, vmin, vmax](https://doka.guide/css/vw-vh/)
+  4. [rem, em](https://doka.guide/css/rem-em/)
+  5. [CSS Units Explained](https://www.digitalocean.com/community/tutorials/css-css-units-explained)
   
   &nbsp;
   
@@ -1534,6 +1548,8 @@
   &nbsp;
   
   Прочитать:
+  1. [Should I use px or rem value units in my CSS?](https://stackoverflow.com/questions/11799236/should-i-use-px-or-rem-value-units-in-my-css)
+  2. [Pixels vs. Relative Units in CSS: why it’s still a big deal](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
   
   &nbsp;
   
