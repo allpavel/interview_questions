@@ -1657,7 +1657,7 @@ alt это обязательный атрибут. Текст в alt назыв
   
   &nbsp;
   
-  База данных Автопрефиксера обновляется скриптами с Can I Use (используются библиотеки browserslist и caniuse-lite). 
+  База данных Автопрефиксера обновляется с помощью библиотек browserslist и caniuse-lite. 
   
   &nbsp;
   
@@ -1667,12 +1667,11 @@ alt это обязательный атрибут. Текст в alt назыв
   
   &nbsp;
 
-Можно посмотреть поддержку различных свойств браузерами на сайте [Can I Use](https://caniuse.com/)
+  Можно посмотреть поддержку различных свойств браузерами на сайте [Can I Use](https://caniuse.com/)
 
-Прочитать:
-
-1. [Уско­ря­ем­ся с по­мо­щью Browserslist](https://web-standards.ru/articles/speed-up-with-browserslist/)
-2. [A Guide To CSS Support In Browsers](https://www.smashingmagazine.com/2019/02/css-browser-support/)
+  Прочитать:
+  1. [Ускоряемся с помощью Browserslist](https://web-standards.ru/articles/speed-up-with-browserslist/)
+  2. [A Guide To CSS Support In Browsers](https://www.smashingmagazine.com/2019/02/css-browser-support/)
 
 &nbsp;
 
@@ -1683,6 +1682,8 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
+  1. [isolation](https://developer.mozilla.org/ru/docs/Web/CSS/isolation)
+  2. [isolation](https://css-tricks.com/almanac/properties/i/isolation/)
   
   &nbsp;
   
@@ -1693,6 +1694,8 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
+  1. [Глобальные ключевые слова](https://doka.guide/css/global-keywords/)
+  2. [Understanding the “Initial”, “Inherit” and “Unset” CSS Keywords](https://elad.medium.com/understanding-the-initial-inherit-and-unset-css-keywords-2d70b7121695)
   
   &nbsp;
   
@@ -1703,6 +1706,9 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
+  1. [attr](https://doka.guide/css/attr/)
+  2. [attr](https://developer.mozilla.org/en-US/docs/Web/CSS/attr)
+  3. [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
   
   &nbsp;
   
@@ -1713,6 +1719,9 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
+  1. [Нормальный сброс](https://htmlacademy.ru/blog/articles/short-13)
+  2. [Normalize CSS or CSS Reset?!](https://elad.medium.com/normalize-css-or-css-reset-9d75175c5d1e)
+  3. [Joshua Comeau - My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
   
   &nbsp;
   
@@ -1723,6 +1732,9 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
+  1. [https://doka.guide/css/margin/](https://doka.guide/css/margin/)
+  2. [padding](https://doka.guide/css/padding/)
+  3. [CSS Margin vs. Padding: What's the Difference?](https://blog.hubspot.com/website/css-margin-vs-padding)
   
   &nbsp;
   
@@ -1733,6 +1745,8 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
+  1. [Как использовать CSS-спрайты для увеличения скорости загрузки веб-страниц](https://ru.hexlet.io/blog/posts/kak-ispolzovat-css-sprayty-dlya-uvelicheniya-skorosti-zagruzki-veb-stranits)
+  2. [CSS Sprites: What They Are, Why They’re Cool, and How To Use Them](https://css-tricks.com/css-sprites/)
   
   &nbsp;
   
@@ -1743,6 +1757,9 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
+  1. [Shadow DOM](https://learn.javascript.ru/shadow-dom)
+  2. [Как работает JS: технология Shadow DOM и веб-компоненты](https://habr.com/ru/company/ruvds/blog/415881/)
+  3. [Shadow DOM v1 - Self-Contained Web Components](https://web.dev/shadowdom-v1/)
   
   &nbsp;
   
