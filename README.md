@@ -8,7 +8,6 @@
 HTML (от англ. _HyperText Markup Language_ — «язык гипертекстовой разметки») - это код, который используется для структурирования веб-страницы и её контента. HTML предоставляет средства для создания заголовков, абзацев, списков, ссылок, цитат и других элементов. Элементы HTML выделяются тегами, записанными с использованием угловых скобок. Например, `<img />`, `<input />` или `<p>`.
 
 Почитать:
-
 1. [Основы HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
 2. [Основы HTML](https://html5book.ru/osnovy-html/)
 3. [Learn HTML Basics for Beginners in Just 15 Minutes](https://www.freecodecamp.org/news/html-basics-for-beginners/)
@@ -58,7 +57,6 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 ```
 
 Почитать:
-
 1. [Cпецификация HTML](https://html.spec.whatwg.org/multipage/syntax.html#optional-tags)
 2. [Руководство по стилю HTML от Google](https://google.github.io/styleguide/htmlcssguide.html#HTML_Validity)
 
@@ -91,7 +89,6 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 В то же время теги являются объектами (в соответствии с DOM). Поэтому, когда браузер парсит HTML документ атрибуты тегов становятся свойствами объектов DOM.
 
 Почитать:
-
 1. [Атрибуты и свойства](https://learn.javascript.ru/dom-attributes-and-properties)
 2. [Атрибуты и свойства элементов документа ](https://flagman.top/css/atributy-i-svojstva)
 3. [Element](https://doka.guide/js/element/)
@@ -106,7 +103,6 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 Мета-теги позволяют передавать поисковым системам дополнительную информацию о страницах, на которых они размещены.
 
 Почитать:
-
 1. [Meta Tags for SEO: A Simple Guide for Beginners](https://ahrefs.com/blog/seo-meta-tags/)
 2. [Meta Tags: The Definitive Guide to Meta-Data for SEO (2021)](https://seosherpa.com/meta-tags/)
 3. [meta](https://doka.guide/html/meta/)
@@ -139,6 +135,7 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
   <meta name="viewport" content="width=device-width, initial-scale=1">
   ```
   
+  Прочитать:
   1. [Метатег viewport: почему он важен и как его правильно использовать](https://timeweb.com/ru/community/articles/metateg-viewport-pochemu-on-vazhen-i-kak-ego-pravilno-ispolzovat)
   2. [Viewport meta tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
   
@@ -159,9 +156,13 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
   </details>
   <details><summary>Где можно найти списки с html entities? </summary>
   
+  &nbsp;
   
-    Списки html сущностей можно найти [в спецификации](https://html.spec.whatwg.org/multipage/named-characters.html) или [в Википедии](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B2_HTML).
-    
+  Списки html сущностей можно найти:
+  1. [в спецификации](https://html.spec.whatwg.org/multipage/named-characters.html)
+  2. [в Википедии](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B2_HTML)
+  
+  &nbsp;
   
   </details>
   <details><summary>Что такое data атрибуты?</summary>
@@ -170,8 +171,7 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 
 data-\* атрибуты позволяют хранить дополнительную информацию в стандартных элементах HTML без визуального представления.
 
-Почитать:
-
+Прочитать:
 1. [Полное руководство по HTML-атрибутам data-\*](https://habr.com/ru/company/ruvds/blog/490626/)
 2. [.dataset](https://doka.guide/js/element-dataset/)
 
@@ -185,10 +185,9 @@ data-\* атрибуты позволяют хранить дополнител�
 Элемент со значением `display: inline-block` ведет себя, как обычная буква и простой текст — имеет пробелы между словами. Браузер создаёт пустой текстовый узел, который, по сути, может являться переводом строки, пробелом или табом. Все и эти перечисленные вещи превращаются в один единственный пробел и описывается следующей сущностью: &#x0020. Удалить пробелы можно удалив пробелы между HTML элементами.
 
 Прочитать:
-
 1. [«Загадочные отступы» между инлайн-элементами (+прочитать обсуждение под статьей)](https://habr.com/ru/post/137582/)
-1. [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
-1. [How whitespace is handled by HTML, CSS, and in the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Whitespace)
+2. [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+3. [How whitespace is handled by HTML, CSS, and in the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Whitespace)
 
 &nbsp;
 
@@ -279,7 +278,6 @@ data-\* атрибуты позволяют хранить дополнител�
 Например, наличие заголовков помогает незрячим в навигации по странице. У скринридеров есть функция навигации по заголовкам, что ускоряет знакомство с информацией на сайте.
 
 Почитать:
-
 1. [Что такое доступность?](https://developer.mozilla.org/ru/docs/Learn/Accessibility/What_is_accessibility)
 2. [Web Almanac - Accessibility](https://almanac.httparchive.org/en/2019/accessibility)
 3. [Semantic HTML: the foundation of web accessibility](https://uxdesign.cc/semantic-html-the-foundation-of-web-accessibility-e5bbecad7c17)
@@ -292,6 +290,7 @@ data-\* атрибуты позволяют хранить дополнител�
   
   HTML5 предлагает набор секционных (структурных) элементов, используя которые вы добавляете смысловую или семантическую нагрузку своим страницам, тем самым позволяя компьютерным программам лучше понимать их содержание.
   
+  Прочитать:
   1. [Как использовать секционные элементы HTML5](https://habr.com/ru/post/214407/)
   2. [How to Section Your HTML](https://css-tricks.com/how-to-section-your-html/)
   
@@ -315,6 +314,7 @@ data-\* атрибуты позволяют хранить дополнител�
     
   &nbsp;
   
+  Прочитать:
   1. [Структура HTML5 — div, section и article](https://noteskeeper.ru/heritage/54/)
   2. [Difference between article tag and section tag](https://www.geeksforgeeks.org/difference-between-article-tag-and-section-tag/)
   2. [Why You Should Choose HTML5 article Over section](https://www.smashingmagazine.com/2020/01/html5-article-section/)
@@ -325,7 +325,8 @@ data-\* атрибуты позволяют хранить дополнител�
   <details><summary>Как семантически правильно сверстать картинку с подписью?</summary>
 
 &nbsp;
-
+  
+Прочитать:
 1. [Доклад Яндекса](https://habr.com/ru/company/yandex/blog/559442/)
 2. [Image Techniques On The Web](https://ishadeed.com/article/image-techniques/)
 3. [Image SEO: Optimizing images for search engines](https://yoast.com/image-seo/)
@@ -341,7 +342,6 @@ data-\* атрибуты позволяют хранить дополнител�
 alt это обязательный атрибут. Текст в alt называется альтернативным описанием изображения и рассказывает словами, что изображено. Это полезно, если картинка не загрузилась или пользователь не видит изображения. Если забыть добавить атрибут, то скринридер попытается прочесть название файла: в лучшем случае это будет logo-large, но может быть и b764b84c, что не очень информативно. Если оставить значение атрибута пустым, то скринридер посчитает это изображение декоративным, а не контентным. Если вы добиваетесь именно этого — отлично, но тогда, возможно, стоит вставить его как фоновую картинку с помощью CSS. Когда картинка по какой-то причине не загружается, браузеры отображают вместо неё альтернативный текст. Его даже можно стилизовать, если задать текстовые стили тегу <img>.
 
 Прочитать:
-
 1. [Как правильно написать alt-текст](https://htmlacademy.ru/blog/articles/alt-text)
 2. [6 простых правил хорошего alt-текста](https://habr.com/ru/company/htmlacademy/blog/667540/)
 3. [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
@@ -353,10 +353,10 @@ alt это обязательный атрибут. Текст в alt назыв
     
   &nbsp;
   
-      Прочитать:
-    1. [Как правильно написать alt-текст](https://htmlacademy.ru/blog/articles/alt-text)
-    2. [6 простых правил хорошего alt-текста](https://habr.com/ru/company/htmlacademy/blog/667540/)
-    2. [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
+  Прочитать:
+  1. [Как правильно написать alt-текст](https://htmlacademy.ru/blog/articles/alt-text)
+  2. [6 простых правил хорошего alt-текста](https://habr.com/ru/company/htmlacademy/blog/667540/)
+  3. [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
   
   &nbsp;
   
@@ -417,7 +417,6 @@ alt это обязательный атрибут. Текст в alt назыв
   2. [When Is A Button Not A Button?](https://www.smashingmagazine.com/2019/02/buttons-interfaces/)
   3. [A Complete Guide to Links and Buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
   
-  
   &nbsp;
   
   </details>
@@ -475,7 +474,8 @@ alt это обязательный атрибут. Текст в alt назыв
   <details><summary>Как работает HTML форма и что нужно чтобы ее отправить?</summary>
   
   &nbsp;
-  
+    
+  Прочитать:
   1. [Learn Forms](https://web.dev/learn/forms/)
   2. [Best Practices for Form Design: Structure, Inputs, Labels and Actions](https://xd.adobe.com/ideas/principles/web-design/best-practices-form-design/)
   3. [Creating Accessible Forms](https://webaim.org/techniques/forms/)
@@ -488,6 +488,7 @@ alt это обязательный атрибут. Текст в alt назыв
     
   &nbsp;
   
+  Прочитать:
   1. [Learn Forms](https://web.dev/learn/forms/)
   2. [Best Practices for Form Design: Structure, Inputs, Labels and Actions](https://xd.adobe.com/ideas/principles/web-design/best-practices-form-design/)
   
@@ -529,9 +530,9 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Свойство white-space](https://learn.javascript.ru/white-space)
-    2. [white-space](https://doka.guide/css/white-space/)
-    3. [white-space](https://css-tricks.com/almanac/properties/w/whitespace/)
+  1. [Свойство white-space](https://learn.javascript.ru/white-space)
+  2. [white-space](https://doka.guide/css/white-space/)
+  3. [white-space](https://css-tricks.com/almanac/properties/w/whitespace/)
   
   &nbsp;
   
@@ -552,11 +553,9 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Parse errors](https://html.spec.whatwg.org/multipage/parsing.html#parse-errors)
+  1. [Parse errors](https://html.spec.whatwg.org/multipage/parsing.html#parse-errors)
   
   &nbsp;
-  
-  >
   
   </details>
   <details><summary>Что такое HTML валидация? И какие типы проверок HTML документа вы знаете?</summary>
@@ -634,9 +633,9 @@ alt это обязательный атрибут. Текст в alt назыв
   
     &nbsp;
     
-    Прочитать:
-    1. [Опасный target="_blank"](https://habr.com/ru/post/282880/)
-    2. [Web app security. Target="_blank" vulnerability](https://thecodest.co/blog/web-app-security-target-_blank-vulnerability)
+  Прочитать:
+  1. [Опасный target="_blank"](https://habr.com/ru/post/282880/)
+  2. [Web app security. Target="_blank" vulnerability](https://thecodest.co/blog/web-app-security-target-_blank-vulnerability)
     
     &nbsp;
   
@@ -668,9 +667,9 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [datalist](https://webref.ru/html/datalist)
-    2. [HTML5 Datalist: What You Need To Know](https://www.jotform.com/blog/html5-datalists-what-you-need-to-know-78024/)
-    3. [A Look into: HTML5 Datalist](https://www.hongkiat.com/blog/html5-datalist/)
+  1. [datalist](https://webref.ru/html/datalist)
+  2. [HTML5 Datalist: What You Need To Know](https://www.jotform.com/blog/html5-datalists-what-you-need-to-know-78024/)
+  3. [A Look into: HTML5 Datalist](https://www.hongkiat.com/blog/html5-datalist/)
   
   &nbsp;
   
@@ -690,7 +689,7 @@ alt это обязательный атрибут. Текст в alt назыв
     
   &nbsp;
   
-    Прочитать:
+  Прочитать:
   1. [SVG или canvas?](https://habr.com/ru/company/ruvds/blog/476292/)
   2. [Using SVG vs. Canvas: A short guide](https://blog.logrocket.com/svg-vs-canvas/)
   
@@ -845,9 +844,9 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Наследование](https://doka.guide/css/inheritance/)
-    2. [Inheritance](https://web.dev/learn/css/inheritance/)
-    3. [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
+  1. [Наследование](https://doka.guide/css/inheritance/)
+  2. [Inheritance](https://web.dev/learn/css/inheritance/)
+  3. [CSS Inheritance, The Cascade And Global Scope](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
   
   &nbsp;
   
@@ -858,8 +857,8 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Способы организации CSS-кода](https://habr.com/ru/post/256109/)
-    2. [CSS Architecture with SASS, SMACSS, and BEM](https://itnext.io/css-architecture-with-sass-smacss-and-bem-cc618392c148)
+  1. [Способы организации CSS-кода](https://habr.com/ru/post/256109/)
+  2. [CSS Architecture with SASS, SMACSS, and BEM](https://itnext.io/css-architecture-with-sass-smacss-and-bem-cc618392c148)
   
   &nbsp;
   
@@ -870,9 +869,8 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-      Прочитать:
-    1. [Способы организации CSS-кода](https://habr.com/ru/post/256109/)
-    2. [CSS Architecture with SASS, SMACSS, and BEM](https://itnext.io/css-architecture-with-sass-smacss-and-bem-cc618392c148)
+  1. [Способы организации CSS кода](https://habr.com/ru/post/256109/)
+  2. [CSS Architecture with SASS, SMACSS, and BEM](https://itnext.io/css-architecture-with-sass-smacss-and-bem-cc618392c148)
   
   &nbsp;
   
@@ -883,8 +881,8 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Подключение стилей](https://doka.guide/css/adding-styles/)
-    2. [How To Apply CSS Styles to HTML with Cascade and Specificity](https://www.digitalocean.com/community/tutorials/how-to-apply-css-styles-to-html-with-cascade-and-specificity)
+  1. [Подключение стилей](https://doka.guide/css/adding-styles/)
+  2. [How To Apply CSS Styles to HTML with Cascade and Specificity](https://www.digitalocean.com/community/tutorials/how-to-apply-css-styles-to-html-with-cascade-and-specificity)
   
   &nbsp;
   
@@ -894,9 +892,9 @@ alt это обязательный атрибут. Текст в alt назыв
   
   &nbsp;
   
-   Прочитать:
-    1. [Подключение стилей](https://doka.guide/css/adding-styles/)
-    2. [How To Apply CSS Styles to HTML with Cascade and Specificity](https://www.digitalocean.com/community/tutorials/how-to-apply-css-styles-to-html-with-cascade-and-specificity)
+  Прочитать:
+  1. [Подключение стилей](https://doka.guide/css/adding-styles/)
+  2. [How To Apply CSS Styles to HTML with Cascade and Specificity](https://www.digitalocean.com/community/tutorials/how-to-apply-css-styles-to-html-with-cascade-and-specificity)
   
   &nbsp;
   
@@ -907,9 +905,9 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Всё, что вам нужно знать о CSS-in-JS](https://css-live.ru/articles/vsyo-chto-vam-nuzhno-znat-o-css-in-js.html)
-    2. [A Thorough Analysis of CSS-in-JS](https://css-tricks.com/a-thorough-analysis-of-css-in-js/)
-    3. [An Introduction to CSS-in-JS: Examples, Pros, and Cons](https://webdesign.tutsplus.com/articles/an-introduction-to-css-in-js-examples-pros-and-cons--cms-33574)
+  1. [Всё, что вам нужно знать о CSS-in-JS](https://css-live.ru/articles/vsyo-chto-vam-nuzhno-znat-o-css-in-js.html)
+  2. [A Thorough Analysis of CSS-in-JS](https://css-tricks.com/a-thorough-analysis-of-css-in-js/)
+  3. [An Introduction to CSS-in-JS](https://webdesign.tutsplus.com/articles/an-introduction-to-css-in-js-examples-pros-and-cons--cms-33574)
   
   &nbsp;
   
@@ -920,9 +918,9 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Как и почему вы должны инлайнить критический CSS](https://webformyself.com/kak-i-pochemu-vy-dolzhny-inlajnit-kriticheskij-css/)
-    2. [Критический CSS + прогрессивный CSS ](https://medium.com/web-standards/critical-and-progressive-css-d6611f034d7d)
-    3. [Understanding Critical CSS](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
+  1. [Как и почему вы должны инлайнить критический CSS](https://webformyself.com/kak-i-pochemu-vy-dolzhny-inlajnit-kriticheskij-css/)
+  2. [Критический CSS и прогрессивный CSS ](https://medium.com/web-standards/critical-and-progressive-css-d6611f034d7d)
+  3. [Understanding Critical CSS](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
   
   &nbsp;
   
@@ -984,10 +982,10 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Отзывчивый дизайн](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Responsive_Design)
-    2. [Отзывчивый веб-дизайн](https://webref.ru/layout/advanced-html-css/responsive-web-design)
-    3. [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
-    4. [Learn Responsive Design](https://web.dev/learn/design/)
+  1. [Отзывчивый дизайн](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Responsive_Design)
+  2. [Отзывчивый веб-дизайн](https://webref.ru/layout/advanced-html-css/responsive-web-design)
+  3. [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
+  4. [Learn Responsive Design](https://web.dev/learn/design/)
   
   &nbsp;
   
@@ -998,8 +996,8 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
-    1. [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
+  1. [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
+  2. [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
       
   &nbsp;
   
@@ -1010,10 +1008,10 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Почему Mobile First?](https://habr.com/ru/post/269419/)
-    2. [The State Of Mobile First and Desktop First](https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first/)
-    3. [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
-    4. [How to Take the Right Approach to Responsive Web Design](https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/)
+  1. [Почему Mobile First?](https://habr.com/ru/post/269419/)
+  2. [The State Of Mobile First and Desktop First](https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first/)
+  3. [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
+  4. [How to Take the Right Approach to Responsive Web Design](https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/)
   
   &nbsp;
   
@@ -1024,8 +1022,8 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [@media](https://doka.guide/css/media/)
-    2. [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+  1. [@media](https://doka.guide/css/media/)
+  2. [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
   
   &nbsp;
   
@@ -1036,7 +1034,7 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
+  1. [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
   
   &nbsp;
   
@@ -1047,8 +1045,8 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
-    2. [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
+  1. [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
+  2. [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
   
   &nbsp;
   
@@ -1121,10 +1119,10 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Псевдоэлементы](https://doka.guide/css/pseudoelements/)
-    2. [An Ultimate Guide To CSS Pseudo Classes And Pseudo Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
-    3. [A guide to CSS pseudo-elements](https://blog.logrocket.com/a-guide-to-css-pseudo-elements/)
-    4. [Pseudo-elements](https://web.dev/learn/css/pseudo-elements/)
+  1. [Псевдоэлементы](https://doka.guide/css/pseudoelements/)
+  2. [An Ultimate Guide To CSS Pseudo Classes And Pseudo Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
+  3. [A guide to CSS pseudo-elements](https://blog.logrocket.com/a-guide-to-css-pseudo-elements/)
+  4. [Pseudo-elements](https://web.dev/learn/css/pseudo-elements/)
   
   &nbsp;
   
@@ -1135,10 +1133,10 @@ alt это обязательный атрибут. Текст в alt назыв
   &nbsp;
   
   Прочитать:
-    1. [Псевдоклассы](https://doka.guide/css/pseudoclasses/)
-    2. [Pseudo-classes](https://web.dev/learn/css/pseudo-classes/)
-    2. [An Ultimate Guide To CSS Pseudo Classes And Pseudo Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
-    3. [A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/)
+  1. [Псевдоклассы](https://doka.guide/css/pseudoclasses/)
+  2. [Pseudo-classes](https://web.dev/learn/css/pseudo-classes/)
+  3. [An Ultimate Guide To CSS Pseudo Classes And Pseudo Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
+  4. [A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/)
   
   &nbsp;
   
