@@ -1765,147 +1765,1093 @@ alt это обязательный атрибут. Текст в alt назыв
   
   </details>
 
+
 ## Секция 3. Вопросы по JavaScript
 
--   Какие типы данных есть в JS?
--   Разница между null и undefined?
--   Мутабельные и имутабельные типы данных
--   Какие есть типы переменных?
--   в каких случаях можно изменить значение в const
--   Что такое поднятие (Hoisting)?
--   Чему равен и какой тип у NaN?
--   почему typeof NaN - число?
--   Зачем нужна блочная область видимости если уже есть функциональная?
--   Какие есть операторы в JS?
--   Чем отличаются друг от друга унарные, бинарные и тернарные операторы?
--   Какие есть операторы сравнения?
--   Разница между == и === (нестрогое/строгое равенство)?
--   Чем отличается null и undefined?
--   В чем есть особенность у логических операторы?
--   В чем особенность выполнения логического "И"
--   Какие есть falsy значения?
--   Особенности оператора &&
--   Зачем нужен use strict?
--   Что такое Map и Set?
--   Какие есть и как работают циклы в JS?
--   В чем разница циклов for .. in и for .. of?
--   Что за метод hasOwnProperty?
--   Можем ли мы создать объект который будет себя иначе вести в for of?
--   Отличие цикла for от while?
--   Разница между forEach и map?
--   как работают методы reduce и filter
--   как проверить что массив это массив
--   Как можно добавить элемент в начало и в конец массива?
--   Какие ты знаешь способы клонирования объектов?
--   Для чего используется оператор !! (двойного отрицания)?
--   Разница между Rest и Spread операторами?
--   Как можно работать с датами в JS?
--   Можем ли мы замерить скорость работы участка кода с Date.now?
--   Что такое function expression и function declaration?
--   Что такое чистая функция?
--   Что такое функция первого порядка?
--   Что такое псевдомассив arguments?
--   Что такое рекурсия?
--   Что такое замыкание?
--   Что такое контекст у функции?
--   Какой контекст у стрелочных функций?
--   Как мы можем изменить контекст у функции?
--   В чём разница между bind, call, apply?
--   Что будет если забиндить два контекста подряд?
--   Чем область видимости отличается от контекста?
--   Как передаются параметры в функцию: по ссылке или по значению?
--   что такое каррирование?
--   что такое частичное применение?
--   Что такое eval и почему его следует избегать?
--   Что такое регулярное выражение (Regular Expression)?
--   Что такое цепочка вызовов функций (chaining)?
--   Что такое генераторы? Когда стоит использовать генераторы?
--   Разница между host-объектами и нативными объектами?
--   Что такое объектная обертка (Wrapper Objects)?
--   Как работает boxing/unboxing в JavaScript?
--   Что такое прототипы и прототипное наследование?
--   что такое **proto**
--   Что происходит когда мы пишем ключевое слово new?
--   Откуда у примитива появляются методы? (.toSting(), etc...)
--   Как бы ты добавлял статический метод в prototype?
--   Почему патчинг прототипа это плохо?
--   Откуда берется свойство length у массива?
--   Как сделать какое либо свойство объекта неизменяемым?
--   Как можно запретить изменение объекта?
--   Разниц между Object.freeze() и Object.seal()?
--   Разница между typeof и instanceof?
--   Как работает метод Object.create()?
--   Как объекты преобразовываются в примитивы?
--   Знаешь ли что такое event loop?
--   Что такое и как работоают ES модули?
--   В чем разница между ES и commonjs модулями?
--   Можем ли мы поменять переменную в модуле извне?
--   Как мы можем эмулировать модули не используя ES modules/require?
--   что такое iife?
--   В чем смысл оборачивания всего содержимого JavaScript-файла в функцию?
--   Что такое и как работает Promise?
--   как увидеть какой статус у промиса
--   какие методы есть у промисов?
--   что будет, если в промисе вызвать несколько резолвов подряд?
--   В чём разница между макро- и микро- тасками
--   что такое async/await
--   Что такое Callback Hell?
--   В чём отличия между setTimeOut и setInterval
--   Что такое сборщик мусора?
--   Можем ли мы повлиять на сборку мусора?
--   Как мы будем через JS анимировать что либо?
--   Расскажи про реквест анимашн фрейм
--   Зачем нужны сборщики во фронтенде?
--   Как ты понимаешь что код написан хорошо?
--   Зачем нужен REST?
--   Что такое ООП?
--   Чем ООП в JS отличается от ООП в других языках?
--   В чем заключается отличие классов в JS от классов в других языках?
--   Какие еще знаешь парадигмы программирования?
--   Чем описание класса отличается от экземпляра класса?
--   Что такое SOLID?
--   Что такое CQRS?
--   Что такое GRASP?
--   Что такое DRY, KISS?
--   Пишешь ли тесты и что о них знаешь?
--   Что такое полифил (polyfill)?
--   Что такое временная мёртвая зона (temporal dead zone)?
--   Плюсы и минусы BFF (Backend for Frontend)
--   Что такое Babel и для чего он используется?
+  <details><summary>Какие типы данных есть в JS?</summary>
 
-## JavaScript в браузере
+  &nbsp;
 
--   Что такое DOM?
--   Пропадет ли DOM если мы отключим JS?
--   Что такое всплытие событий и какие у него есть фазы?
--   Что такое делегирование событий?
--   В чем отличие .getElementsByClassName от .querySelectrorAll?
--   Как понять что DOM загружен?
--   Что за событие DOM Content Loaded?
--   Чем отличается событие DOM Content Loaded от load?
--   Сталкивался ли ты c shadow dom?
--   Разница между event.target и event.currentTarget?
--   Разница между HTMLCollection и NodeList?
--   Как динамически добавить элемент на HTML-страницу?
--   Какие есть способы добавить обработчик события на DOM-элемент?
--   Сколько аргументов принимает addEventListener?
--   Как удалить обработчик события с DOM-элемента?
--   Почему нам нужно отписываться от обработчиков?
--   Утечки памяти, что это такое и почему плохо?
--   Как происходит процесс утечки?
--   Как исправить утечку памяти?
--   Способы фокусировки на элементе?
--   Как закрыть модалку по клику вне нее?
--   Как выполнить действие когда произошел скролл до нужного места?
--   Как определить что элемент во вьюпорте?
--   Как оптимизировать частый вызов обработчиков?
--   Методы оптимизации скролла
--   что такое и зачем throttling
--   что такое и зачем debouncing
--   Что такое и зачем нужен Ajax?
--   Приватные поля в браузере
--   Разница между JSON и XML?
--   В чем опасность работы с innerHTML?
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Разница между null и undefined?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Мутабельные и имутабельные типы данных</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Какие есть типы переменных?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>в каких случаях можно изменить значение в const</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое поднятие (Hoisting)?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Чему равен и какой тип у NaN?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>почему typeof NaN - число?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Зачем нужна блочная область видимости если уже есть функциональная?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Какие есть операторы в JS?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Чем отличаются друг от друга унарные, бинарные и тернарные операторы?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Какие есть операторы сравнения?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Разница между == и === (нестрогое/строгое равенство)?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Чем отличается null и undefined?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>В чем есть особенность у логических операторы?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>В чем особенность выполнения логического "И"</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Какие есть falsy значения?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Особенности оператора &&</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Зачем нужен use strict?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое Map и Set?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Какие есть и как работают циклы в JS?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>В чем разница циклов for .. in и for .. of?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что за метод hasOwnProperty?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Можем ли мы создать объект который будет себя иначе вести в for of?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Отличие цикла for от while?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Разница между forEach и map?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>как работают методы reduce и filter</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>как проверить что массив это массив</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как можно добавить элемент в начало и в конец массива?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Какие ты знаешь способы клонирования объектов?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Для чего используется оператор !! (двойного отрицания)?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Разница между Rest и Spread операторами?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как можно работать с датами в JS?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Можем ли мы замерить скорость работы участка кода с Date.now?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое function expression и function declaration?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое чистая функция?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое функция первого порядка?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое псевдомассив arguments?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое рекурсия?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое замыкание?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое контекст у функции?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Какой контекст у стрелочных функций?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как мы можем изменить контекст у функции?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>В чём разница между bind, call, apply?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что будет если забиндить два контекста подряд?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Чем область видимости отличается от контекста?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как передаются параметры в функцию: по ссылке или по значению?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>что такое каррирование?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>что такое частичное применение?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое eval и почему его следует избегать?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое регулярное выражение (Regular Expression)?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое цепочка вызовов функций (chaining)?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое генераторы? Когда стоит использовать генераторы?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Разница между host-объектами и нативными объектами?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое объектная обертка (Wrapper Objects)?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как работает boxing/unboxing в JavaScript?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое прототипы и прототипное наследование?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>что такое **proto**</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что происходит когда мы пишем ключевое слово new?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Откуда у примитива появляются методы? (.toSting(), etc...)</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как бы ты добавлял статический метод в prototype?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Почему патчинг прототипа это плохо?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Откуда берется свойство length у массива?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как сделать какое либо свойство объекта неизменяемым?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как можно запретить изменение объекта?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Разниц между Object.freeze() и Object.seal()?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Разница между typeof и instanceof?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как работает метод Object.create()?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как объекты преобразовываются в примитивы?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Знаешь ли что такое event loop?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое и как работоают ES модули?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>В чем разница между ES и commonjs модулями?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Можем ли мы поменять переменную в модуле извне?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как мы можем эмулировать модули не используя ES modules/require?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>что такое iife?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>В чем смысл оборачивания всего содержимого JavaScript-файла в функцию?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое и как работает Promise?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>как увидеть какой статус у промиса</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>какие методы есть у промисов?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>что будет, если в промисе вызвать несколько резолвов подряд?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>В чём разница между макро- и микро- тасками</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>что такое async/await</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое Callback Hell?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>В чём отличия между setTimeOut и setInterval</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое сборщик мусора?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Можем ли мы повлиять на сборку мусора?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как мы будем через JS анимировать что либо?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Расскажи про реквест анимашн фрейм</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Зачем нужны сборщики во фронтенде?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Как ты понимаешь что код написан хорошо?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Зачем нужен REST?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое ООП?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Чем ООП в JS отличается от ООП в других языках?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>В чем заключается отличие классов в JS от классов в других языках?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Какие еще знаешь парадигмы программирования?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Чем описание класса отличается от экземпляра класса?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое SOLID?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое CQRS?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое GRASP?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое DRY, KISS?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Пишешь ли тесты и что о них знаешь?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое полифил (polyfill)?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое временная мёртвая зона (temporal dead zone)?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Плюсы и минусы BFF (Backend for Frontend)</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+  <details><summary>Что такое Babel и для чего он используется?</summary>
+
+  &nbsp;
+
+  Прочитать:
+
+  &nbsp;
+
+  </details>
+
+
+  ## JavaScript в браузере
+
+  -   Что такое DOM?
+  -   Пропадет ли DOM если мы отключим JS?
+  -   Что такое всплытие событий и какие у него есть фазы?
+  -   Что такое делегирование событий?
+  -   В чем отличие .getElementsByClassName от .querySelectrorAll?
+  -   Как понять что DOM загружен?
+  -   Что за событие DOM Content Loaded?
+  -   Чем отличается событие DOM Content Loaded от load?
+  -   Сталкивался ли ты c shadow dom?
+  -   Разница между event.target и event.currentTarget?
+  -   Разница между HTMLCollection и NodeList?
+  -   Как динамически добавить элемент на HTML-страницу?
+  -   Какие есть способы добавить обработчик события на DOM-элемент?
+  -   Сколько аргументов принимает addEventListener?
+  -   Как удалить обработчик события с DOM-элемента?
+  -   Почему нам нужно отписываться от обработчиков?
+  -   Утечки памяти, что это такое и почему плохо?
+  -   Как происходит процесс утечки?
+  -   Как исправить утечку памяти?
+  -   Способы фокусировки на элементе?
+  -   Как закрыть модалку по клику вне нее?
+  -   Как выполнить действие когда произошел скролл до нужного места?
+  -   Как определить что элемент во вьюпорте?
+  -   Как оптимизировать частый вызов обработчиков?
+  -   Методы оптимизации скролла
+  -   что такое и зачем throttling
+  -   что такое и зачем debouncing
+  -   Что такое и зачем нужен Ajax?
+  -   Приватные поля в браузере
+  -   Разница между JSON и XML?
+  -   В чем опасность работы с innerHTML?
 
 ## React
 
