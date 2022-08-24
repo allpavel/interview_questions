@@ -1886,6 +1886,9 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Области видимости](https://doka.guide/js/closures/)
+2. [A Simple Explanation of Scope in JavaScript](https://dmitripavlutin.com/javascript-scope/)
+
 &nbsp;
 
   </details>
@@ -1895,6 +1898,12 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [Базовые операторы, математика](https://learn.javascript.ru/operators)
+2. [Операторы сравнения](https://learn.javascript.ru/comparison)
+3. [Логические операторы](https://learn.javascript.ru/logical-operators)
+4. [Оператор нулевого слияния](https://learn.javascript.ru/nullish-coalescing-operator)
+5. [Тернарный оператор](https://doka.guide/js/ternary-operator/)
 
 &nbsp;
 
@@ -1906,6 +1915,9 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Термины: «унарный», «бинарный», «операнд»](https://learn.javascript.ru/operators#terminy-unarnyy-binarnyy-operand)
+2. [Тернарный оператор](https://doka.guide/js/ternary-operator/)
+
 &nbsp;
 
   </details>
@@ -1915,6 +1927,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [Операторы сравнения](https://learn.javascript.ru/comparison)
+2. [Understanding Comparison and Logical Operators in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-comparison-and-logical-operators-in-javascript)
 
 &nbsp;
 
@@ -1926,25 +1941,22 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
-&nbsp;
-
-  </details>
-
-  <details><summary>Чем отличается null и undefined?</summary>
-
-&nbsp;
-
-Прочитать:
+1. [Строгое сравнение](https://learn.javascript.ru/comparison#strogoe-sravnenie)
+2. [Строгое и нестрогое равенство](https://doka.guide/js/typecasting/#strogoe-i-nestrogoe-ravenstvo)
 
 &nbsp;
 
   </details>
 
-  <details><summary>В чем есть особенность у логических операторы?</summary>
+<details><summary>В чем есть особенность логических операторов?</summary>
 
 &nbsp;
 
 Прочитать:
+
+1. [Логические операторы](https://learn.javascript.ru/logical-operators)
+2. [Логические операторы](https://doka.guide/js/logic-operators/)
+3. [Understanding Comparison and Logical Operators in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-comparison-and-logical-operators-in-javascript)
 
 &nbsp;
 
@@ -1956,6 +1968,9 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [&&](https://learn.javascript.ru/logical-operators#i)
+2. [И, &&](https://doka.guide/js/logic-operators/#i)
+
 &nbsp;
 
   </details>
@@ -1966,15 +1981,8 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
-&nbsp;
-
-  </details>
-
-  <details><summary>Особенности оператора &&</summary>
-
-&nbsp;
-
-Прочитать:
+1. [Логическое преобразование](https://learn.javascript.ru/type-conversions#logicheskoe-preobrazovanie)
+2. [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
 
 &nbsp;
 
@@ -1985,6 +1993,10 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [use strict](https://doka.guide/js/use-strict/)
+2. [Зачем в JavaScript нужен строгий режим?](https://habr.com/ru/company/ruvds/blog/477284/)
+3. [JavaScript Use Strict Statement: A Guide to Use the Strict Mode](https://www.positioniseverything.net/javascript-use-strict/)
 
 &nbsp;
 
