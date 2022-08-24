@@ -1784,6 +1784,9 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Типы данных](https://learn.javascript.ru/types)
+2. [Data types](https://javascript.info/types)
+
 &nbsp;
 
   </details>
@@ -1793,6 +1796,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [null & undefined](https://learn.javascript.ru/types#znachenie-null)
+2. [What is the difference between null and undefined in JavaScript?](https://stackoverflow.com/questions/5076944/what-is-the-difference-between-null-and-undefined-in-javascript)
 
 &nbsp;
 
@@ -1804,15 +1810,23 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Хранение по ссылке и по значению](https://doka.guide/js/ref-type-vs-value-type/)
+2. [Копирование объектов и ссылки](https://learn.javascript.ru/object-copy)
+3. [Mutable and immutable in JavaScript](https://blog.devgenius.io/mutable-and-immutable-in-javascript-78a3cbc6187c)
+
 &nbsp;
 
   </details>
 
-  <details><summary>Какие есть типы переменных?</summary>
+<details><summary>Какие есть типы переменных?</summary>
 
 &nbsp;
 
 Прочитать:
+
+1. [Переменные](https://learn.javascript.ru/variables)
+2. [Устаревшее ключевое слово "var"](https://learn.javascript.ru/var)
+3. [Переменные const, let и var](https://doka.guide/js/var-let/)
 
 &nbsp;
 
@@ -1822,7 +1836,7 @@ alt это обязательный атрибут. Текст в alt назыв
 
 &nbsp;
 
-Прочитать:
+Прочитать: 1.[const](https://doka.guide/js/const/)
 
 &nbsp;
 
@@ -1834,6 +1848,10 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Разбираемся с “поднятием” (hoisting) в JavaScript](https://medium.com/@stasonmars/%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D1%81-%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%D0%BC-hoisting-%D0%B2-javascript-7d2d27bc51f1)
+2. [What is Hoisting in JavaScript?](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/)
+3. [Understanding Hoisting in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)
+
 &nbsp;
 
   </details>
@@ -1844,6 +1862,8 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [NaN в JavaScript](https://webformyself.com/nan-v-javascript/)
+
 &nbsp;
 
   </details>
@@ -1853,6 +1873,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [Why does typeof NaN return 'number'?](https://stackoverflow.com/questions/2801601/why-does-typeof-nan-return-number)
 
 &nbsp;
 
