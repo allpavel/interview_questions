@@ -2008,6 +2008,11 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Set](https://doka.guide/js/set/)
+2. [Map](https://doka.guide/js/map/)
+3. [Map and Set](https://javascript.info/map-set)
+4. [Understanding Map and Set Objects in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-map-and-set-objects-in-javascript)
+
 &nbsp;
 
   </details>
@@ -2017,6 +2022,11 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [Циклы while и for](https://learn.javascript.ru/while-for)
+2. [Цикл "for..in"](https://learn.javascript.ru/object#forin)
+3. [for...of](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/for...of)
+4. [Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 &nbsp;
 
@@ -2028,6 +2038,9 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Различия между for...of и for...in](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/for...of#%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%B8%D1%8F_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_for...of_%D0%B8_for...in)
+2. [What is the difference between ( for... in ) and ( for... of ) statements?](https://stackoverflow.com/questions/29285897/what-is-the-difference-between-for-in-and-for-of-statements)
+
 &nbsp;
 
   </details>
@@ -2038,6 +2051,10 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Цикл "for..in"](https://learn.javascript.ru/object#forin)
+2. [hasOwnProperty](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)
+3. [hasOwn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwn)
+
 &nbsp;
 
   </details>
@@ -2047,6 +2064,10 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [Перебираемые объекты](https://learn.javascript.ru/iterable)
+2. [Обход итерируемых объектов](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/for...of#%D0%BE%D0%B1%D1%85%D0%BE%D0%B4_%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D1%85_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2)
+3. [Symbol.iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator)
 
 &nbsp;
 
