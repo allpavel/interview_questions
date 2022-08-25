@@ -2079,6 +2079,8 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Циклы while и for](https://learn.javascript.ru/while-for)
+
 &nbsp;
 
   </details>
@@ -2089,6 +2091,10 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [forEach](https://doka.guide/js/array-foreach/)
+2. [map](https://doka.guide/js/array-map/)
+3. [Difference between forEach and map](https://stackoverflow.com/questions/34426458/javascript-difference-between-foreach-and-map)
+
 &nbsp;
 
   </details>
@@ -2098,6 +2104,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [reduce](https://doka.guide/js/array-reduce/)
+2. [filter](https://doka.guide/js/array-filter/)
 
 &nbsp;
 
