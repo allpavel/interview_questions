@@ -2117,6 +2117,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Array.isArray](https://doka.guide/js/array-isarray/)
+2. [How do I check if a variable is an array in JavaScript?](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
 
 &nbsp;
 
@@ -2127,6 +2129,10 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Методы pop/push, shift/unshift](https://learn.javascript.ru/array#metody-pop-push-shift-unshift)
+2. [Array.prototype.splice](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+3. [Array.prototype.concat](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
+4. [Spread в литералах массива](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_%D0%B2_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D0%BB%D0%B0%D1%85_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%B0)
 
 &nbsp;
 
@@ -2137,6 +2143,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Копирование объектов и ссылки](https://learn.javascript.ru/object-copy)
+2. [What is the most efficient way to deep clone an object in JavaScript?](https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript)
 
 &nbsp;
 
@@ -2147,6 +2155,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Двойное НЕ (!!)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Logical_NOT#%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B5_!!)
+1. [What is the !! (not not) operator in JavaScript?](https://stackoverflow.com/questions/784929/what-is-the-not-not-operator-in-javascript)
 
 &nbsp;
 
