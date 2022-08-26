@@ -2167,6 +2167,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Спред-синтаксис](https://doka.guide/js/spread/)
+2. [Остаточные параметры](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Rest_parameters)
+3. [JavaScript Rest vs Spread Operator – What’s the Difference?](https://www.freecodecamp.org/news/javascript-rest-vs-spread-operators)
 
 &nbsp;
 
@@ -2177,6 +2180,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Дата и время](https://learn.javascript.ru/date)
+2. [Everything You Need to Know About Date in JavaScript](https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/)
 
 &nbsp;
 
@@ -2187,6 +2192,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Date.now](https://learn.javascript.ru/date#date-now)
+2. [An Introduction to performance.now()](https://blog.bitsrc.io/a-very-quick-introduction-to-performance-now-c95493e77d06)
 
 &nbsp;
 
