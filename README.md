@@ -2204,6 +2204,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Function Expression в сравнении с Function Declaration](https://learn.javascript.ru/function-expressions#function-expression-v-sravnenii-s-function-declaration)
+2. [Don't Confuse Function Expressions and Function Declarations in JavaScript](https://dmitripavlutin.com/javascript-function-expressions-and-declarations/)
 
 &nbsp;
 
@@ -2214,6 +2216,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [«Чистые» и «нечистые» функции в JavaScript](https://frontend-stuff.com/blog/pure-and-impure-functions-in-js/)
+2. [What Is a Pure Function in JavaScript?](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/)
 
 &nbsp;
 
@@ -2224,6 +2228,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Функции высшего порядка в JavaScript](https://medium.com/webbdev/func-1afa4a8220a7)
+2. [What are Higher-Order Functions in JavaScript?](https://dmitripavlutin.com/javascript-higher-order-functions/)
 
 &nbsp;
 
