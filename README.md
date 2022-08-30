@@ -2304,7 +2304,8 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 1. [Привязка контекста к функции](https://learn.javascript.ru/bind)
-2. [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
+2. [Явное указание this: "call", "apply"](https://learn.javascript.ru/call-apply)
+3. [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
 
 &nbsp;
 
@@ -2315,6 +2316,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Привязка контекста к функции](https://learn.javascript.ru/bind)
+2. [Явное указание this: "call", "apply"](https://learn.javascript.ru/call-apply)
+3. [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
 
 &nbsp;
 
@@ -2325,6 +2329,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Повторный bind](https://learn.javascript.ru/bind#povtornyy-bind)
+2. [Bind more arguments of an already bound function in Javascript](https://stackoverflow.com/questions/20925138/bind-more-arguments-of-an-already-bound-function-in-javascript)
 
 &nbsp;
 
