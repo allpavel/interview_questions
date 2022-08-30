@@ -2240,6 +2240,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Переменная "arguments"](https://learn.javascript.ru/rest-parameters-spread-operator#the-arguments-variable)
+2. [The arguments object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
 
 &nbsp;
 
@@ -2250,6 +2252,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Рекурсия и стек](https://learn.javascript.ru/recursion)
+2. [What is Recursion? A Recursive Function Explained with JavaScript Code Examples](https://www.freecodecamp.org/news/what-is-recursion-in-javascript/)
 
 &nbsp;
 
@@ -2260,6 +2264,10 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Замыкания в JavaScript для начинающих](https://habr.com/ru/company/ruvds/blog/424967/)
+2. [Замыкание](https://learn.javascript.ru/closure)
+3. [Понимаем замыкания в JavaScript. Раз и навсегда](https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-javascript-%D1%80%D0%B0%D0%B7-%D0%B8-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-c211805b6898)
+4. [A Simple Explanation of JavaScript Closures](https://dmitripavlutin.com/simple-explanation-of-javascript-closures/)
 
 &nbsp;
 
@@ -2270,6 +2278,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [this](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/this)
+2. [Контекст выполнения и стек вызовов в JavaScript](https://habr.com/ru/company/ruvds/blog/422089/)
+3. [The many faces of `this` in javascript](https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e)
 
 &nbsp;
 
@@ -2280,6 +2291,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Повторяем стрелочные функции](https://learn.javascript.ru/arrow-functions)
+2. [Understanding Arrow Functions in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-arrow-functions-in-javascript)
 
 &nbsp;
 
@@ -2290,6 +2303,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Привязка контекста к функции](https://learn.javascript.ru/bind)
+2. [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
 
 &nbsp;
 
