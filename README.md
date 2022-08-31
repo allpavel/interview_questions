@@ -2341,6 +2341,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Different in "scope" and "context" in this Javascript code](https://stackoverflow.com/questions/14328519/different-in-scope-and-context-in-this-javascript-code)
 
 &nbsp;
 
@@ -2351,6 +2352,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Передача параметров по значению и по ссылке](https://metanit.com/web/javascript/3.7.php)
+2. [Is JavaScript a pass-by-reference or pass-by-value language?](https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language)
 
 &nbsp;
 
@@ -2361,6 +2364,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Каррирование](https://learn.javascript.ru/currying-partials)
+2. [Каррирование функций в JavaScript](https://habr.com/ru/company/ruvds/blog/427295/)
+3. [Understanding JavaScript currying](https://blog.logrocket.com/understanding-javascript-currying/)
 
 &nbsp;
 
