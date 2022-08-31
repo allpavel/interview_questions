@@ -2367,6 +2367,7 @@ alt это обязательный атрибут. Текст в alt назыв
 1. [Каррирование](https://learn.javascript.ru/currying-partials)
 2. [Каррирование функций в JavaScript](https://habr.com/ru/company/ruvds/blog/427295/)
 3. [Understanding JavaScript currying](https://blog.logrocket.com/understanding-javascript-currying/)
+4. [JavaScript Functional Programming Explained: Partial Application and Currying](https://www.digitalocean.com/community/tutorials/javascript-functional-programming-explained-partial-application-and-currying)
 
 &nbsp;
 
@@ -2377,6 +2378,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Частичное применение](https://doka.guide/js/fp/#chastichnoe-primenenie)
+2. [Частичное применение или partial application в JavaScript](https://frontend-stuff.com/blog/partial-application/)
+3. [JavaScript Functional Programming Explained: Partial Application and Currying](https://www.digitalocean.com/community/tutorials/javascript-functional-programming-explained-partial-application-and-currying)
 
 &nbsp;
 
@@ -2387,6 +2391,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Eval: выполнение строки кода](https://learn.javascript.ru/eval)
+2. [Never use eval](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval#never_use_eval!)
 
 &nbsp;
 
@@ -2397,16 +2403,23 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Регулярные выражения](https://learn.javascript.ru/regular-expressions)
+2. [Выразительный JavaScript: Регулярные выражения](https://habr.com/ru/post/242695/)
+3. [A Practical Guide to Regular Expressions (RegEx) In JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4)
+4. [Regular Expressions](https://eloquentjavascript.net/09_regexp.html)
 
 &nbsp;
 
   </details>
 
-  <details><summary>Что такое цепочка вызовов функций (chaining)?</summary>
+  <details><summary>Что такое цепочка вызовов (chaining)?</summary>
 
 &nbsp;
 
 Прочитать:
+1. [Цепочка вызовов](https://ru.hexlet.io/courses/js-basics/lessons/methods-chain/theory_unit)
+2. [Understanding Method Chaining In Javascript](https://blog.segunolalive.com/posts/understanding-method-chaining-in-javascript/)
+3. [What Method Chaining in JavaScript Is, How It Works and How to Use It](https://blog.alexdevero.com/method-chaining-in-javascript/)
 
 &nbsp;
 
@@ -2417,6 +2430,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Генераторы](https://learn.javascript.ru/generators)
+2. [Углублённое руководство по JavaScript: генераторы](https://habr.com/ru/company/vk/blog/539194/)
+3. [Generators](https://exploringjs.com/es6/ch_generators.html)
 
 &nbsp;
 
@@ -2427,6 +2443,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Объектно-ориентированное программирование в ванильном JavaScript](https://habr.com/ru/company/raiffeisenbank/blog/340584/)
+2. [What is the difference between native objects and host objects?](https://stackoverflow.com/questions/7614317/what-is-the-difference-between-native-objects-and-host-objects)
 
 &nbsp;
 
