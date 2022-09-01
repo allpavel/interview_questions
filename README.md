@@ -2640,16 +2640,24 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome](https://habr.com/ru/post/461401/)
+2. [Событийный цикл: микрозадачи и макрозадачи](https://learn.javascript.ru/event-loop)
+2. [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+4. [Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-the-event-loop-callbacks-promises-and-async-await-in-javascript)
 
 &nbsp;
 
   </details>
 
-  <details><summary>Что такое и как работоают ES модули?</summary>
+  <details><summary>Что такое и как работают ES модули?</summary>
 
 &nbsp;
 
 Прочитать:
+1. [Модули, введение](https://learn.javascript.ru/modules-intro)
+2. [Глубокое погружение в ES-модули в картинках](https://medium.com/web-standards/es-modules-cartoon-dive-71f42c1e851a)
+3. [The JavaScript Modules Handbook – Complete Guide to ES Modules and Module Bundlers](https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/)
+
 
 &nbsp;
 
@@ -2660,6 +2668,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Понимание (всех) «модульных» форматов и инструментов JavaScript](https://habr.com/ru/post/501198/)
+1. [CommonJS vs. ES modules in Node.js](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
 
 &nbsp;
 
@@ -2670,6 +2680,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Своя область видимости переменных](https://learn.javascript.ru/modules-intro#svoya-oblast-vidimosti-peremennyh)
 
 &nbsp;
 
@@ -2680,6 +2691,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [IIFE](https://learn.javascript.ru/closure#iife)
+2. [Brief history of JavaScript Modules](https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde)
 
 &nbsp;
 
@@ -2690,6 +2703,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [IIFE](https://learn.javascript.ru/closure#iife)
+2. [Essential JavaScript: Mastering Immediately-invoked Function Expressions](https://vvkchandra.medium.com/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 
 &nbsp;
 
@@ -2700,6 +2715,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [The Revealing Module Pattern](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/ch09s03.html)
+2. [The Revealing Module Pattern in Javascript](https://gist.github.com/zcaceres/bb0eec99c02dda6aac0e041d0d4d7bf2)
 
 &nbsp;
 
