@@ -2455,6 +2455,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Методы примитивов](https://learn.javascript.ru/primitives-methods)
+2. [What are wrapper objects for primitive values?](https://2ality.com/2022/02/wrapper-objects.html)
+3. [JavaScript Boxing Wrappers](https://javascript.plainenglish.io/javascript-boxing-wrappers-5b5ff9e5f6ab)
 
 &nbsp;
 
@@ -2465,6 +2468,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [JavaScript Boxing Wrappers](https://javascript.plainenglish.io/javascript-boxing-wrappers-5b5ff9e5f6ab)
 
 &nbsp;
 
@@ -2475,6 +2479,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Прототипное наследование](https://learn.javascript.ru/prototype-inheritance)
+2. [Прототипы в JS и малоизвестные факты](https://habr.com/ru/post/518360/)
+2. [Understand Prototypes and Prototypal Inheritance in JavaScript](https://www.telerik.com/blogs/understand-prototypes-prototypal-inheritance-javascript)
 
 &nbsp;
 
@@ -2485,6 +2492,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Prototype](https://learn.javascript.ru/prototype-inheritance#prototype)
+2. [proto](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/proto)
 
 &nbsp;
 
