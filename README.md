@@ -2504,16 +2504,23 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Конструктор, оператор "new"](https://learn.javascript.ru/constructor-new)
+2. [F.prototype](https://learn.javascript.ru/function-prototype)
+2. [new operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new)
+3. [What is the 'new' keyword in JavaScript?](https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript)
 
 &nbsp;
 
   </details>
 
-  <details><summary>Откуда у примитива появляются методы? (.toSting(), etc...)</summary>
+  <details><summary>Откуда у примитива появляются методы (.toSting() и т.д.)?</summary>
 
 &nbsp;
 
 Прочитать:
+1. [Методы примитивов](https://learn.javascript.ru/primitives-methods)
+2. [What are wrapper objects for primitive values?](https://2ality.com/2022/02/wrapper-objects.html)
+3. [JavaScript Boxing Wrappers](https://javascript.plainenglish.io/javascript-boxing-wrappers-5b5ff9e5f6ab)
 
 &nbsp;
 
@@ -2524,6 +2531,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Изменение встроенных прототипов](https://learn.javascript.ru/native-prototypes#native-prototype-change)
+2. [Monkey patching in JavaScript](https://www.audero.it/blog/2016/12/05/monkey-patching-javascript/)
 
 &nbsp;
 
@@ -2534,6 +2543,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Изменение встроенных прототипов](https://learn.javascript.ru/native-prototypes#native-prototype-change)
+2. [Monkey patching in JavaScript](https://www.audero.it/blog/2016/12/05/monkey-patching-javascript/)
 
 &nbsp;
 
@@ -2544,6 +2555,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Array.prototype.length](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+2. [Внутреннее устройство массива](https://learn.javascript.ru/array#vnutrennee-ustroystvo-massiva)
 
 &nbsp;
 
@@ -2554,6 +2567,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Флаги и дескрипторы свойств](https://learn.javascript.ru/property-descriptors)
+2. [Object.defineProperty()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
 
 &nbsp;
 
@@ -2564,6 +2579,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Глобальное запечатывание объекта](https://learn.javascript.ru/property-descriptors#globalnoe-zapechatyvanie-obekta)
+2. [JavaScript Object Immutability](https://blog.bitsrc.io/javascript-object-immutability-1794b49c5255)
+3. [JavaScript object immutability: Object.freeze vs. Object.seal](https://blog.logrocket.com/javascript-object-immutability-object-freeze-vs-object-seal/)
 
 &nbsp;
 
@@ -2574,6 +2592,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Глобальное запечатывание объекта](https://learn.javascript.ru/property-descriptors#globalnoe-zapechatyvanie-obekta)
+2. [JavaScript Object Immutability](https://blog.bitsrc.io/javascript-object-immutability-1794b49c5255)
+3. [JavaScript object immutability: Object.freeze vs. Object.seal](https://blog.logrocket.com/javascript-object-immutability-object-freeze-vs-object-seal/)
 
 &nbsp;
 
@@ -2584,6 +2605,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [What is the difference between typeof and instanceof and when should one be used vs. the other?](https://stackoverflow.com/questions/899574/what-is-the-difference-between-typeof-and-instanceof-and-when-should-one-be-used)
+2. [Type checking in JavaScript: typeof and instanceof operators](https://dmitripavlutin.com/javascript-typeof-instanceof/)
 
 &nbsp;
 
@@ -2594,6 +2617,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Object.create()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
 
 &nbsp;
 
@@ -2604,12 +2628,14 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Преобразование объектов в примитивы](https://learn.javascript.ru/object-toprimitive)
+2. [Converting Object to Primitives in JavaScript](https://www.codingninjas.com/codestudio/library/converting-object-to-primitives-in-javascript)
 
 &nbsp;
 
   </details>
 
-  <details><summary>Знаешь ли что такое event loop?</summary>
+  <details><summary>Что такое event loop?</summary>
 
 &nbsp;
 
