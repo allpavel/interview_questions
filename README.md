@@ -2727,6 +2727,10 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Промисы](https://learn.javascript.ru/promise-basics)
+2. [Promise](https://doka.guide/js/promise/)
+3. [JavaScript Promise Tutorial – How to Resolve or Reject Promises in JS](https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/)
+4. [JavaScript Promises: an introduction](https://web.dev/i18n/en/promises/) 
 
 &nbsp;
 
