@@ -2741,6 +2741,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [How can I synchronously determine a JavaScript Promise's state?](https://stackoverflow.com/questions/30564053/how-can-i-synchronously-determine-a-javascript-promises-state)
 
 &nbsp;
 
@@ -2751,6 +2752,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Promise API](https://learn.javascript.ru/promise-api)
+2. [Static methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise#static_methods)
 
 &nbsp;
 
@@ -2760,7 +2763,7 @@ alt это обязательный атрибут. Текст в alt назыв
 
 &nbsp;
 
-Прочитать:
+Состояние промиса может быть изменено только один раз. Все последующие вызовы resolve и reject будут проигнорированы.
 
 &nbsp;
 
