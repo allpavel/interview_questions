@@ -2774,6 +2774,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Событийный цикл: микрозадачи и макрозадачи](https://learn.javascript.ru/event-loop)
+2. [Difference between microtask and macrotask within an event loop context](https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context)
 
 &nbsp;
 
@@ -2784,6 +2786,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [https://learn.javascript.ru/async-await](Async/await)
+2. [async/await](https://doka.guide/js/async-in-js/#svyazka-async-await)
 
 &nbsp;
 
@@ -2794,6 +2798,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Адская пирамида вызовов](https://learn.javascript.ru/callbacks#adskaya-piramida-vyzovov)
+2. [How to deal with nested callbacks and avoid “callback hell”](https://www.freecodecamp.org/news/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012/)
 
 &nbsp;
 
@@ -2804,6 +2810,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Планирование: setTimeout и setInterval](https://learn.javascript.ru/settimeout-setinterval)
+2. [How To Schedule Tasks With setTimeout() and setInterval() in JavaScript](https://www.digitalocean.com/community/tutorials/js-settimeout-setinterval)
+3. [setTimeout or setInterval?](https://stackoverflow.com/questions/729921/settimeout-or-setinterval)
 
 &nbsp;
 
