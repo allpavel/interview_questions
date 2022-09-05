@@ -2823,6 +2823,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Сборка мусора](https://learn.javascript.ru/garbage-collection)
+2. [Управление памятью](https://developer.mozilla.org/ru/docs/Web/JavaScript/Memory_Management)
+3. [garbage.collect()](https://habr.com/ru/company/oleg-bunin/blog/433318/)
 
 &nbsp;
 
@@ -2833,6 +2836,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [garbage.collect()](https://habr.com/ru/company/oleg-bunin/blog/433318/)
+2. [Can I trigger JavaScript's garbage collection?](https://stackoverflow.com/questions/8032928/can-i-trigger-javascripts-garbage-collection)
+3. [How to request the Garbage Collector in node.js to run?]()
 
 &nbsp;
 
@@ -2843,16 +2849,22 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [JavaScript-анимации](https://learn.javascript.ru/js-animation)
+2. [Как работает JS: анимация средствами CSS и JavaScript](https://habr.com/ru/company/ruvds/blog/354438/)
 
 &nbsp;
 
   </details>
 
-  <details><summary>Расскажи про реквест анимашн фрейм</summary>
+  <details><summary>Расскажи про requestAnimationFrame</summary>
 
 &nbsp;
 
 Прочитать:
+1. [Использование requestAnimationFrame](https://learn.javascript.ru/js-animation#ispolzovanie-requestanimationframe)
+2. [JavaScript: заметка о requestAnimationFrame и requestIdleCallback](https://habr.com/ru/company/timeweb/blog/587908/)
+3. [Window.requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+
 
 &nbsp;
 
