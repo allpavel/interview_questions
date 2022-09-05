@@ -2875,6 +2875,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Системы сборки](https://doka.guide/tools/bundlers/)
+2. [The top latest build tools for JavaScript](https://blog.logrocket.com/the-top-latest-build-tools-for-javascript/)
+3. [JavaScript Bundlers: An in-depth comparative](https://dev.to/underscorecode/javascript-bundlers-an-in-depth-comparative-is-webpack-still-the-best-bundler-in-2021-59jk)
 
 &nbsp;
 
@@ -2885,6 +2888,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+2. [Static analysis in JavaScript](https://blog.logrocket.com/static-analysis-in-javascript-11-tools-to-help-you-catch-errors-before-users-do/)
 
 &nbsp;
 
