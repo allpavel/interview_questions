@@ -2900,6 +2900,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [REST, что же ты такое?](https://habr.com/ru/post/590679/)
+2. [REST vs SOAP](https://habr.com/ru/post/131343/)
+3. [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 
 &nbsp;
 
@@ -2910,6 +2913,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Объектно-ориентированное программирование](https://doka.guide/js/oop/)
+2. [ООП в картинках](https://habr.com/ru/post/463125/)
+3. [Object-oriented programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
 
 &nbsp;
 
@@ -2920,6 +2926,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [ООП в JavaScript](https://doka.guide/js/oop/#oop-v-javascript)
+2. [Объектно-ориентированный JavaScript простыми словами](https://habr.com/ru/post/522380/)
+3. [Знакомство с ООП на примере JavaScript](https://habr.com/ru/company/ruvds/blog/665290/)
 
 &nbsp;
 
@@ -2930,6 +2939,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Как работают классы в JavaScript](https://medium.com/front-stories/%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%82-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B-%D0%B2-javascript-7978c0003f1d)
 
 &nbsp;
 
@@ -2940,6 +2950,8 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+1. [Парадигмы программирования](https://doka.guide/js/programming-paradigms/)
+2. [Programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
 
 &nbsp;
 
@@ -2949,7 +2961,7 @@ alt это обязательный атрибут. Текст в alt назыв
 
 &nbsp;
 
-Прочитать:
+Класс включает описание полей данных, а также методов, которые работают с этими полями данных. Экземпляр — это объект, содержащий данные и поведение, описанные классом. В JavaScript оператор new создает экземпляр класса (const instance = new Class ()).
 
 &nbsp;
 
