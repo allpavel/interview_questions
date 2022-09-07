@@ -3090,6 +3090,10 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Фундаментальная теория тестирования](https://habr.com/ru/post/549054/)
+1. [Автоматическое тестирование c использованием фреймворка Mocha](https://learn.javascript.ru/testing-mocha)
+1. [Лучшие методики тестирования в JavaScript и Node.js](https://habr.com/ru/company/vk/blog/466879/)
+
 &nbsp;
 
   </details>
@@ -3099,6 +3103,10 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [Полифил](https://developer.mozilla.org/ru/docs/Glossary/Polyfill)
+2. [Полифилы](https://learn.javascript.ru/polyfills)
+3. [What is the difference between polyfill and transpiler?](https://stackoverflow.com/questions/31205640/what-is-the-difference-between-polyfill-and-transpiler)
 
 &nbsp;
 
@@ -3110,6 +3118,10 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [ES6: Let, Const и «Временная мёртвая зона» (ВМЗ) изнутри](https://css-live.ru/articles/es6-let-const-i-vremennaya-myortvaya-zona-vmz-iznutri.html)
+2. [What is the Temporal Dead Zone (TDZ) in JavaScript?](https://www.freecodecamp.org/news/what-is-the-temporal-dead-zone/)
+3. [Why is there a “temporal dead zone” in ES6?](https://2ality.com/2015/10/why-tdz.html)
+
 &nbsp;
 
   </details>
@@ -3120,6 +3132,9 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Паттерны Gateway и Backend-for-Frontend](https://doka.guide/tools/gateway-bff/)
+2. [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
+
 &nbsp;
 
   </details>
@@ -3129,6 +3144,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [What is Babel?](https://babeljs.io/docs/en/)
+2. [Understanding the Modern Web Stack: Babel](https://dev.to/alexeagleson/building-a-modern-web-stack-babel-3hfp)
 
 &nbsp;
 
