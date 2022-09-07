@@ -3051,6 +3051,8 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Основы CQRS](https://habr.com/ru/company/simbirsoft/blog/329970/)
+
 &nbsp;
 
   </details>
