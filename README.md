@@ -3052,6 +3052,7 @@ alt это обязательный атрибут. Текст в alt назыв
 Прочитать:
 
 1. [Основы CQRS](https://habr.com/ru/company/simbirsoft/blog/329970/)
+2. [CQRS](https://martinfowler.com/bliki/CQRS.html)
 
 &nbsp;
 
@@ -3063,6 +3064,9 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [GRASP паттерны проектирования](https://habr.com/ru/post/92570/)
+2. [GRASP – General Responsibility Assignment Software Patterns Explained](https://www.kamilgrzybek.com/design/grasp-explained/)
+
 &nbsp;
 
   </details>
@@ -3072,6 +3076,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [Три ключевых принципа ПО, которые вы должны понимать](https://habr.com/ru/post/144611/)
+2. [A Better Definition of the DRY Programming Principle](https://blog.devgenius.io/a-better-definition-of-the-dry-programming-principle-13a3d0af4d40)
 
 &nbsp;
 
