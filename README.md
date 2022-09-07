@@ -2117,6 +2117,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Array.isArray](https://doka.guide/js/array-isarray/)
 2. [How do I check if a variable is an array in JavaScript?](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
 
@@ -2129,6 +2130,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Методы pop/push, shift/unshift](https://learn.javascript.ru/array#metody-pop-push-shift-unshift)
 2. [Array.prototype.splice](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
 3. [Array.prototype.concat](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
@@ -2143,6 +2145,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Копирование объектов и ссылки](https://learn.javascript.ru/object-copy)
 2. [What is the most efficient way to deep clone an object in JavaScript?](https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript)
 
@@ -2155,6 +2158,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Двойное НЕ (!!)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Logical_NOT#%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B5_!!)
 1. [What is the !! (not not) operator in JavaScript?](https://stackoverflow.com/questions/784929/what-is-the-not-not-operator-in-javascript)
 
@@ -2167,6 +2171,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Спред-синтаксис](https://doka.guide/js/spread/)
 2. [Остаточные параметры](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Rest_parameters)
 3. [JavaScript Rest vs Spread Operator – What’s the Difference?](https://www.freecodecamp.org/news/javascript-rest-vs-spread-operators)
@@ -2180,6 +2185,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Дата и время](https://learn.javascript.ru/date)
 2. [Everything You Need to Know About Date in JavaScript](https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/)
 
@@ -2192,6 +2198,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Date.now](https://learn.javascript.ru/date#date-now)
 2. [An Introduction to performance.now()](https://blog.bitsrc.io/a-very-quick-introduction-to-performance-now-c95493e77d06)
 
@@ -2204,6 +2211,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Function Expression в сравнении с Function Declaration](https://learn.javascript.ru/function-expressions#function-expression-v-sravnenii-s-function-declaration)
 2. [Don't Confuse Function Expressions and Function Declarations in JavaScript](https://dmitripavlutin.com/javascript-function-expressions-and-declarations/)
 
@@ -2216,6 +2224,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [«Чистые» и «нечистые» функции в JavaScript](https://frontend-stuff.com/blog/pure-and-impure-functions-in-js/)
 2. [What Is a Pure Function in JavaScript?](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/)
 
@@ -2228,6 +2237,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Функции высшего порядка в JavaScript](https://medium.com/webbdev/func-1afa4a8220a7)
 2. [What are Higher-Order Functions in JavaScript?](https://dmitripavlutin.com/javascript-higher-order-functions/)
 
@@ -2240,6 +2250,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Переменная "arguments"](https://learn.javascript.ru/rest-parameters-spread-operator#the-arguments-variable)
 2. [The arguments object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
 
@@ -2252,6 +2263,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Рекурсия и стек](https://learn.javascript.ru/recursion)
 2. [What is Recursion? A Recursive Function Explained with JavaScript Code Examples](https://www.freecodecamp.org/news/what-is-recursion-in-javascript/)
 
@@ -2264,6 +2276,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Замыкания в JavaScript для начинающих](https://habr.com/ru/company/ruvds/blog/424967/)
 2. [Замыкание](https://learn.javascript.ru/closure)
 3. [Понимаем замыкания в JavaScript. Раз и навсегда](https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-javascript-%D1%80%D0%B0%D0%B7-%D0%B8-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-c211805b6898)
@@ -2278,6 +2291,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [this](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/this)
 2. [Контекст выполнения и стек вызовов в JavaScript](https://habr.com/ru/company/ruvds/blog/422089/)
 3. [The many faces of `this` in javascript](https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e)
@@ -2291,6 +2305,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Повторяем стрелочные функции](https://learn.javascript.ru/arrow-functions)
 2. [Understanding Arrow Functions in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-arrow-functions-in-javascript)
 
@@ -2303,6 +2318,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Привязка контекста к функции](https://learn.javascript.ru/bind)
 2. [Явное указание this: "call", "apply"](https://learn.javascript.ru/call-apply)
 3. [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
@@ -2316,6 +2332,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Привязка контекста к функции](https://learn.javascript.ru/bind)
 2. [Явное указание this: "call", "apply"](https://learn.javascript.ru/call-apply)
 3. [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
@@ -2329,6 +2346,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Повторный bind](https://learn.javascript.ru/bind#povtornyy-bind)
 2. [Bind more arguments of an already bound function in Javascript](https://stackoverflow.com/questions/20925138/bind-more-arguments-of-an-already-bound-function-in-javascript)
 
@@ -2341,6 +2359,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Different in "scope" and "context" in this Javascript code](https://stackoverflow.com/questions/14328519/different-in-scope-and-context-in-this-javascript-code)
 
 &nbsp;
@@ -2352,6 +2371,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Передача параметров по значению и по ссылке](https://metanit.com/web/javascript/3.7.php)
 2. [Is JavaScript a pass-by-reference or pass-by-value language?](https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language)
 
@@ -2364,6 +2384,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Каррирование](https://learn.javascript.ru/currying-partials)
 2. [Каррирование функций в JavaScript](https://habr.com/ru/company/ruvds/blog/427295/)
 3. [Understanding JavaScript currying](https://blog.logrocket.com/understanding-javascript-currying/)
@@ -2378,6 +2399,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Частичное применение](https://doka.guide/js/fp/#chastichnoe-primenenie)
 2. [Частичное применение или partial application в JavaScript](https://frontend-stuff.com/blog/partial-application/)
 3. [JavaScript Functional Programming Explained: Partial Application and Currying](https://www.digitalocean.com/community/tutorials/javascript-functional-programming-explained-partial-application-and-currying)
@@ -2391,6 +2413,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Eval: выполнение строки кода](https://learn.javascript.ru/eval)
 2. [Never use eval](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval#never_use_eval!)
 
@@ -2403,6 +2426,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Регулярные выражения](https://learn.javascript.ru/regular-expressions)
 2. [Выразительный JavaScript: Регулярные выражения](https://habr.com/ru/post/242695/)
 3. [A Practical Guide to Regular Expressions (RegEx) In JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4)
@@ -2417,6 +2441,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Цепочка вызовов](https://ru.hexlet.io/courses/js-basics/lessons/methods-chain/theory_unit)
 2. [Understanding Method Chaining In Javascript](https://blog.segunolalive.com/posts/understanding-method-chaining-in-javascript/)
 3. [What Method Chaining in JavaScript Is, How It Works and How to Use It](https://blog.alexdevero.com/method-chaining-in-javascript/)
@@ -2430,6 +2455,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Генераторы](https://learn.javascript.ru/generators)
 2. [Углублённое руководство по JavaScript: генераторы](https://habr.com/ru/company/vk/blog/539194/)
 3. [Generators](https://exploringjs.com/es6/ch_generators.html)
@@ -2443,6 +2469,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Объектно-ориентированное программирование в ванильном JavaScript](https://habr.com/ru/company/raiffeisenbank/blog/340584/)
 2. [What is the difference between native objects and host objects?](https://stackoverflow.com/questions/7614317/what-is-the-difference-between-native-objects-and-host-objects)
 
@@ -2455,6 +2482,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Методы примитивов](https://learn.javascript.ru/primitives-methods)
 2. [What are wrapper objects for primitive values?](https://2ality.com/2022/02/wrapper-objects.html)
 3. [JavaScript Boxing Wrappers](https://javascript.plainenglish.io/javascript-boxing-wrappers-5b5ff9e5f6ab)
@@ -2468,6 +2496,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [JavaScript Boxing Wrappers](https://javascript.plainenglish.io/javascript-boxing-wrappers-5b5ff9e5f6ab)
 
 &nbsp;
@@ -2479,9 +2508,10 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Прототипное наследование](https://learn.javascript.ru/prototype-inheritance)
 2. [Прототипы в JS и малоизвестные факты](https://habr.com/ru/post/518360/)
-2. [Understand Prototypes and Prototypal Inheritance in JavaScript](https://www.telerik.com/blogs/understand-prototypes-prototypal-inheritance-javascript)
+3. [Understand Prototypes and Prototypal Inheritance in JavaScript](https://www.telerik.com/blogs/understand-prototypes-prototypal-inheritance-javascript)
 
 &nbsp;
 
@@ -2492,6 +2522,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Prototype](https://learn.javascript.ru/prototype-inheritance#prototype)
 2. [proto](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/proto)
 
@@ -2504,10 +2535,11 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Конструктор, оператор "new"](https://learn.javascript.ru/constructor-new)
 2. [F.prototype](https://learn.javascript.ru/function-prototype)
-2. [new operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new)
-3. [What is the 'new' keyword in JavaScript?](https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript)
+3. [new operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new)
+4. [What is the 'new' keyword in JavaScript?](https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript)
 
 &nbsp;
 
@@ -2518,6 +2550,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Методы примитивов](https://learn.javascript.ru/primitives-methods)
 2. [What are wrapper objects for primitive values?](https://2ality.com/2022/02/wrapper-objects.html)
 3. [JavaScript Boxing Wrappers](https://javascript.plainenglish.io/javascript-boxing-wrappers-5b5ff9e5f6ab)
@@ -2531,6 +2564,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Изменение встроенных прототипов](https://learn.javascript.ru/native-prototypes#native-prototype-change)
 2. [Monkey patching in JavaScript](https://www.audero.it/blog/2016/12/05/monkey-patching-javascript/)
 
@@ -2543,6 +2577,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Изменение встроенных прототипов](https://learn.javascript.ru/native-prototypes#native-prototype-change)
 2. [Monkey patching in JavaScript](https://www.audero.it/blog/2016/12/05/monkey-patching-javascript/)
 
@@ -2555,6 +2590,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Array.prototype.length](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
 2. [Внутреннее устройство массива](https://learn.javascript.ru/array#vnutrennee-ustroystvo-massiva)
 
@@ -2567,6 +2603,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Флаги и дескрипторы свойств](https://learn.javascript.ru/property-descriptors)
 2. [Object.defineProperty()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
 
@@ -2579,6 +2616,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Глобальное запечатывание объекта](https://learn.javascript.ru/property-descriptors#globalnoe-zapechatyvanie-obekta)
 2. [JavaScript Object Immutability](https://blog.bitsrc.io/javascript-object-immutability-1794b49c5255)
 3. [JavaScript object immutability: Object.freeze vs. Object.seal](https://blog.logrocket.com/javascript-object-immutability-object-freeze-vs-object-seal/)
@@ -2592,6 +2630,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Глобальное запечатывание объекта](https://learn.javascript.ru/property-descriptors#globalnoe-zapechatyvanie-obekta)
 2. [JavaScript Object Immutability](https://blog.bitsrc.io/javascript-object-immutability-1794b49c5255)
 3. [JavaScript object immutability: Object.freeze vs. Object.seal](https://blog.logrocket.com/javascript-object-immutability-object-freeze-vs-object-seal/)
@@ -2605,6 +2644,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [What is the difference between typeof and instanceof and when should one be used vs. the other?](https://stackoverflow.com/questions/899574/what-is-the-difference-between-typeof-and-instanceof-and-when-should-one-be-used)
 2. [Type checking in JavaScript: typeof and instanceof operators](https://dmitripavlutin.com/javascript-typeof-instanceof/)
 
@@ -2617,6 +2657,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Object.create()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
 
 &nbsp;
@@ -2628,6 +2669,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Преобразование объектов в примитивы](https://learn.javascript.ru/object-toprimitive)
 2. [Converting Object to Primitives in JavaScript](https://www.codingninjas.com/codestudio/library/converting-object-to-primitives-in-javascript)
 
@@ -2640,9 +2682,10 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome](https://habr.com/ru/post/461401/)
 2. [Событийный цикл: микрозадачи и макрозадачи](https://learn.javascript.ru/event-loop)
-2. [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+3. [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 4. [Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-the-event-loop-callbacks-promises-and-async-await-in-javascript)
 
 &nbsp;
@@ -2654,10 +2697,10 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Модули, введение](https://learn.javascript.ru/modules-intro)
 2. [Глубокое погружение в ES-модули в картинках](https://medium.com/web-standards/es-modules-cartoon-dive-71f42c1e851a)
 3. [The JavaScript Modules Handbook – Complete Guide to ES Modules and Module Bundlers](https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/)
-
 
 &nbsp;
 
@@ -2668,6 +2711,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Понимание (всех) «модульных» форматов и инструментов JavaScript](https://habr.com/ru/post/501198/)
 1. [CommonJS vs. ES modules in Node.js](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
 
@@ -2680,6 +2724,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Своя область видимости переменных](https://learn.javascript.ru/modules-intro#svoya-oblast-vidimosti-peremennyh)
 
 &nbsp;
@@ -2691,6 +2736,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [IIFE](https://learn.javascript.ru/closure#iife)
 2. [Brief history of JavaScript Modules](https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde)
 
@@ -2703,6 +2749,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [IIFE](https://learn.javascript.ru/closure#iife)
 2. [Essential JavaScript: Mastering Immediately-invoked Function Expressions](https://vvkchandra.medium.com/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 
@@ -2715,6 +2762,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [The Revealing Module Pattern](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/ch09s03.html)
 2. [The Revealing Module Pattern in Javascript](https://gist.github.com/zcaceres/bb0eec99c02dda6aac0e041d0d4d7bf2)
 
@@ -2727,10 +2775,11 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Промисы](https://learn.javascript.ru/promise-basics)
 2. [Promise](https://doka.guide/js/promise/)
 3. [JavaScript Promise Tutorial – How to Resolve or Reject Promises in JS](https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/)
-4. [JavaScript Promises: an introduction](https://web.dev/i18n/en/promises/) 
+4. [JavaScript Promises: an introduction](https://web.dev/i18n/en/promises/)
 
 &nbsp;
 
@@ -2741,6 +2790,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [How can I synchronously determine a JavaScript Promise's state?](https://stackoverflow.com/questions/30564053/how-can-i-synchronously-determine-a-javascript-promises-state)
 
 &nbsp;
@@ -2752,6 +2802,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Promise API](https://learn.javascript.ru/promise-api)
 2. [Static methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise#static_methods)
 
@@ -2774,6 +2825,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Событийный цикл: микрозадачи и макрозадачи](https://learn.javascript.ru/event-loop)
 2. [Difference between microtask and macrotask within an event loop context](https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context)
 
@@ -2786,6 +2838,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [https://learn.javascript.ru/async-await](Async/await)
 2. [async/await](https://doka.guide/js/async-in-js/#svyazka-async-await)
 
@@ -2798,6 +2851,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Адская пирамида вызовов](https://learn.javascript.ru/callbacks#adskaya-piramida-vyzovov)
 2. [How to deal with nested callbacks and avoid “callback hell”](https://www.freecodecamp.org/news/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012/)
 
@@ -2810,6 +2864,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Планирование: setTimeout и setInterval](https://learn.javascript.ru/settimeout-setinterval)
 2. [How To Schedule Tasks With setTimeout() and setInterval() in JavaScript](https://www.digitalocean.com/community/tutorials/js-settimeout-setinterval)
 3. [setTimeout or setInterval?](https://stackoverflow.com/questions/729921/settimeout-or-setinterval)
@@ -2823,6 +2878,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Сборка мусора](https://learn.javascript.ru/garbage-collection)
 2. [Управление памятью](https://developer.mozilla.org/ru/docs/Web/JavaScript/Memory_Management)
 3. [garbage.collect()](https://habr.com/ru/company/oleg-bunin/blog/433318/)
@@ -2836,6 +2892,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [garbage.collect()](https://habr.com/ru/company/oleg-bunin/blog/433318/)
 2. [Can I trigger JavaScript's garbage collection?](https://stackoverflow.com/questions/8032928/can-i-trigger-javascripts-garbage-collection)
 3. [How to request the Garbage Collector in node.js to run?]()
@@ -2849,6 +2906,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [JavaScript-анимации](https://learn.javascript.ru/js-animation)
 2. [Как работает JS: анимация средствами CSS и JavaScript](https://habr.com/ru/company/ruvds/blog/354438/)
 
@@ -2861,10 +2919,10 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Использование requestAnimationFrame](https://learn.javascript.ru/js-animation#ispolzovanie-requestanimationframe)
 2. [JavaScript: заметка о requestAnimationFrame и requestIdleCallback](https://habr.com/ru/company/timeweb/blog/587908/)
 3. [Window.requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
-
 
 &nbsp;
 
@@ -2875,6 +2933,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Системы сборки](https://doka.guide/tools/bundlers/)
 2. [The top latest build tools for JavaScript](https://blog.logrocket.com/the-top-latest-build-tools-for-javascript/)
 3. [JavaScript Bundlers: An in-depth comparative](https://dev.to/underscorecode/javascript-bundlers-an-in-depth-comparative-is-webpack-still-the-best-bundler-in-2021-59jk)
@@ -2888,6 +2947,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 2. [Static analysis in JavaScript](https://blog.logrocket.com/static-analysis-in-javascript-11-tools-to-help-you-catch-errors-before-users-do/)
 
@@ -2900,6 +2960,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [REST, что же ты такое?](https://habr.com/ru/post/590679/)
 2. [REST vs SOAP](https://habr.com/ru/post/131343/)
 3. [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
@@ -2913,6 +2974,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Объектно-ориентированное программирование](https://doka.guide/js/oop/)
 2. [ООП в картинках](https://habr.com/ru/post/463125/)
 3. [Object-oriented programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
@@ -2926,6 +2988,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [ООП в JavaScript](https://doka.guide/js/oop/#oop-v-javascript)
 2. [Объектно-ориентированный JavaScript простыми словами](https://habr.com/ru/post/522380/)
 3. [Знакомство с ООП на примере JavaScript](https://habr.com/ru/company/ruvds/blog/665290/)
@@ -2939,6 +3002,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Как работают классы в JavaScript](https://medium.com/front-stories/%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%82-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B-%D0%B2-javascript-7978c0003f1d)
 
 &nbsp;
@@ -2950,6 +3014,7 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
 1. [Парадигмы программирования](https://doka.guide/js/programming-paradigms/)
 2. [Programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
 
@@ -2972,6 +3037,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [Принципы SOLID, о которых должен знать каждый разработчик](https://habr.com/ru/company/ruvds/blog/426413/)
+2. [The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
 
 &nbsp;
 
@@ -3059,179 +3127,179 @@ alt это обязательный атрибут. Текст в alt назыв
 
 ## JavaScript в браузере
 
--   Что такое DOM?
--   Пропадет ли DOM если мы отключим JS?
--   Что такое всплытие событий и какие у него есть фазы?
--   Что такое делегирование событий?
--   В чем отличие .getElementsByClassName от .querySelectrorAll?
--   Как понять что DOM загружен?
--   Что за событие DOM Content Loaded?
--   Чем отличается событие DOM Content Loaded от load?
--   Сталкивался ли ты c shadow dom?
--   Разница между event.target и event.currentTarget?
--   Разница между HTMLCollection и NodeList?
--   Как динамически добавить элемент на HTML-страницу?
--   Какие есть способы добавить обработчик события на DOM-элемент?
--   Сколько аргументов принимает addEventListener?
--   Как удалить обработчик события с DOM-элемента?
--   Почему нам нужно отписываться от обработчиков?
--   Утечки памяти, что это такое и почему плохо?
--   Как происходит процесс утечки?
--   Как исправить утечку памяти?
--   Способы фокусировки на элементе?
--   Как закрыть модалку по клику вне нее?
--   Как выполнить действие когда произошел скролл до нужного места?
--   Как определить что элемент во вьюпорте?
--   Как оптимизировать частый вызов обработчиков?
--   Методы оптимизации скролла
--   что такое и зачем throttling
--   что такое и зачем debouncing
--   Что такое и зачем нужен Ajax?
--   Приватные поля в браузере
--   Разница между JSON и XML?
--   В чем опасность работы с innerHTML?
+- Что такое DOM?
+- Пропадет ли DOM если мы отключим JS?
+- Что такое всплытие событий и какие у него есть фазы?
+- Что такое делегирование событий?
+- В чем отличие .getElementsByClassName от .querySelectrorAll?
+- Как понять что DOM загружен?
+- Что за событие DOM Content Loaded?
+- Чем отличается событие DOM Content Loaded от load?
+- Сталкивался ли ты c shadow dom?
+- Разница между event.target и event.currentTarget?
+- Разница между HTMLCollection и NodeList?
+- Как динамически добавить элемент на HTML-страницу?
+- Какие есть способы добавить обработчик события на DOM-элемент?
+- Сколько аргументов принимает addEventListener?
+- Как удалить обработчик события с DOM-элемента?
+- Почему нам нужно отписываться от обработчиков?
+- Утечки памяти, что это такое и почему плохо?
+- Как происходит процесс утечки?
+- Как исправить утечку памяти?
+- Способы фокусировки на элементе?
+- Как закрыть модалку по клику вне нее?
+- Как выполнить действие когда произошел скролл до нужного места?
+- Как определить что элемент во вьюпорте?
+- Как оптимизировать частый вызов обработчиков?
+- Методы оптимизации скролла
+- что такое и зачем throttling
+- что такое и зачем debouncing
+- Что такое и зачем нужен Ajax?
+- Приватные поля в браузере
+- Разница между JSON и XML?
+- В чем опасность работы с innerHTML?
 
 ## React
 
--   Что такое React?
--   Чем SPA отличается от классического сайта?
--   Что такое и зачем нужен virtual DOM?
--   недостатки виртуального dom
--   почему операции над дом деревом дорогие
--   перерисуются ли дочерние компоненты, если перерисовался родительский и почему
--   при перерисовке ветки в виртуальном доме что будет с этой веткой в браузерном доме
--   расскажи про фазу согласования
--   Что Такое JSX?
--   Что такое React Fiber?
--   Что такое строгий режим в React? Его преимущества?
--   Что такое синтетические события в React?
--   Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?
--   Что такое компонент?
--   Разница между элементом и компонентом?
--   Зачем мы разбиваем код на компоненты?
--   Какие есть способы общения между компонентами?
--   В чем разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?
--   Какие методы жизненного цикла компонента существуют в React?
--   Стадии жизненного цикла компонента в React?
--   Что такое PureComponent?
--   Что такое Компонент высшего порядка (Higher-Order Component, HOC)?
--   Что такое компонент-переключатель (Switching Component)?
--   Разница между компонентом и контейнером?
--   в чём разница между пропсами и стейтом
--   Двустороннее и однонаправленное связывание данных?
--   Что такое поднятие состояния вверх (Lifting State Up)?
--   Как работает проп children?
--   Что такое порталы в React?
--   назови основные хуки в реакте
--   назови 3 правила написания хуков
--   почему нельзя использовать хуки в условных выражениях
--   Разница между useEffect() и componentDidMount()?
--   Как реализовать однократное выполнение операции при начальном рендеринге?
--   В чём разница между useEffect и useLayoutEffect?
--   Зачем в setState() нужно передавать функцию?
--   Зачем нам нужен менеджер состояния?
--   Как определить что состояние является глобальным?
--   Почему нельзя использовать контекст в качестве хранилища состояния?
--   Что такое серверный рендеринг (SSR)?
--   В чем заключаются недостатки SSR?
--   Какие есть альтернативы SSR?
--   Что такое двустороннее связывание?
--   Зачем нам нужен механизм двустороннего связывания?
--   Рассажи кратко как сделать бесконечный скролл
--   что такое virtual scroll
--   какой атрибут нужно дополнительно указывать и зачем, когда рендеришь список в реакте
--   какой единственный классовый компонент до сих активно используется
--   что такое Props drilling
--   в каких случаях использовать рефы
--   Что такое flushSync в Реакте
--   Что такое lazy loading?
--   Что такое инверсия наследования (Inheritance Inversion)?
--   Разница между useEffect() и componentDidMount()?
--   Для чего предназначен метод registerServiceWorker() в React?
+- Что такое React?
+- Чем SPA отличается от классического сайта?
+- Что такое и зачем нужен virtual DOM?
+- недостатки виртуального dom
+- почему операции над дом деревом дорогие
+- перерисуются ли дочерние компоненты, если перерисовался родительский и почему
+- при перерисовке ветки в виртуальном доме что будет с этой веткой в браузерном доме
+- расскажи про фазу согласования
+- Что Такое JSX?
+- Что такое React Fiber?
+- Что такое строгий режим в React? Его преимущества?
+- Что такое синтетические события в React?
+- Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?
+- Что такое компонент?
+- Разница между элементом и компонентом?
+- Зачем мы разбиваем код на компоненты?
+- Какие есть способы общения между компонентами?
+- В чем разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?
+- Какие методы жизненного цикла компонента существуют в React?
+- Стадии жизненного цикла компонента в React?
+- Что такое PureComponent?
+- Что такое Компонент высшего порядка (Higher-Order Component, HOC)?
+- Что такое компонент-переключатель (Switching Component)?
+- Разница между компонентом и контейнером?
+- в чём разница между пропсами и стейтом
+- Двустороннее и однонаправленное связывание данных?
+- Что такое поднятие состояния вверх (Lifting State Up)?
+- Как работает проп children?
+- Что такое порталы в React?
+- назови основные хуки в реакте
+- назови 3 правила написания хуков
+- почему нельзя использовать хуки в условных выражениях
+- Разница между useEffect() и componentDidMount()?
+- Как реализовать однократное выполнение операции при начальном рендеринге?
+- В чём разница между useEffect и useLayoutEffect?
+- Зачем в setState() нужно передавать функцию?
+- Зачем нам нужен менеджер состояния?
+- Как определить что состояние является глобальным?
+- Почему нельзя использовать контекст в качестве хранилища состояния?
+- Что такое серверный рендеринг (SSR)?
+- В чем заключаются недостатки SSR?
+- Какие есть альтернативы SSR?
+- Что такое двустороннее связывание?
+- Зачем нам нужен механизм двустороннего связывания?
+- Рассажи кратко как сделать бесконечный скролл
+- что такое virtual scroll
+- какой атрибут нужно дополнительно указывать и зачем, когда рендеришь список в реакте
+- какой единственный классовый компонент до сих активно используется
+- что такое Props drilling
+- в каких случаях использовать рефы
+- Что такое flushSync в Реакте
+- Что такое lazy loading?
+- Что такое инверсия наследования (Inheritance Inversion)?
+- Разница между useEffect() и componentDidMount()?
+- Для чего предназначен метод registerServiceWorker() в React?
 
 ## Web API
 
--   Что такое HTTP?
--   Как работает HTTP?
--   Структура HTTP запроса?
--   Какие методы может иметь HTTP-запрос?
--   В чем принципиальная разница между POST и GET?
--   Можем ли мы закешировать POST запрос?
--   Что такое коды ответа серверы и чем они отличаются друг от друга?
--   Чем отличается http от https?
--   Можем ли мы запустить http2 без https?
--   Почему повсеместно нужен https?
--   Что дает https помимо шифрования?
--   Можем ли мы получить картинку по HTTP?
--   Как мы можем подсказать браузеру подготовиться к загрузке ресурсов?
--   Влияет ли скорость ответа сервера на скорость загрузки сайта?
--   Как браузер понимает что ресурс нужно закешировать?
--   Зачем нужен хеш в названиях файлов?
--   Как браузер понимает что картинка является картинкой?
--   Какими способами мы можем получить картинку с сервера?
--   Каким образом браузер понимает тип содержимого в ответе от API(картинка, текст, etc)?
--   Как браузер понимает что нужно загрузить картинку?
--   Как браузер понимает что нужно отображать именно картинку а не текст?
--   Что такое CORS?
--   Какие способы авторизации ты знаешь?
--   что будет если авторизацию сделать через GET
--   почему форму с паролем нельзя отправить GET запросом
--   Какой будет запрос для подтверждения регистрации пользователя?
--   Что такое JWT?
--   Что такое refresh токен?
--   Как защититься от парсинга?
--   почему картинки загружаются через GET, а не через POST
--   Отличия http2 от http1
--   Протоколы взаимодействия с беком
--   расскажи зачем заголовок Referrer
--   Что такое и чем опасен XSS?
--   Что такое CSRF?
--   что такое csrf токен
--   Как обезопасить себя от потенциально опасного клиентского ввода?
--   Есть ли уязвимость связанная с \_target =blank?
--   Что такое прогрессивная отрисовка?
--   Разница между Progressive Enhancement и Graceful Degradation?
--   Разница между feature detection, feature inference и анализом строки user-agent?
--   Что такое Веб-компоненты и какие технологии в них используются?
--   Способы уменьшения времени загрузки веб-страницы?
--   Что такое Progressive Web Application?
--   что такое сервис воркеры
--   Что такое Web Workers?
--   расскажи про repaint и reflow
--   расскажи про restyle и relayout
--   что такое Layout trashing
--   Что такое Flash Of Unstyled Content?
--   можно ли вставить счётчик в виде картинки
--   как сделать так, чтобы картинка, которая кэшируется обновлялась
--   какие есть способы хранения данных в браузере
--   в чём отличие localStorage от sessionStorage
--   Что такое IndexedDB в браузере?
--   Что мы можем делать с помощью devtools браузера?
--   Что такое HTTP cookie? Для чего они используются?
--   Разница между cookie, sessionStorage и localStorage?
--   Как защитить cookie?
--   Что такое WebSocket? В чем принцип его работы?
--   Что такое безопасные (Secure) и HttpOnly cookies?
--   Что такое Content Security Policy (CSP)?
--   Как работает JSONP?
--   Что такое History API в браузере?
--   Что такое BOM?
--   назвать способы оптимизации загрузки страниц сайта
--   рассказать об инструментах, которые можно использовать для анализа оптимизаций
--   Как мы можем оптимизировать отрисовку?
--   Что такое force layout и почему это плохо?
--   Как работает hot reload?
--   Что такое Веб-компоненты и какие технологии в них используются?
+- Что такое HTTP?
+- Как работает HTTP?
+- Структура HTTP запроса?
+- Какие методы может иметь HTTP-запрос?
+- В чем принципиальная разница между POST и GET?
+- Можем ли мы закешировать POST запрос?
+- Что такое коды ответа серверы и чем они отличаются друг от друга?
+- Чем отличается http от https?
+- Можем ли мы запустить http2 без https?
+- Почему повсеместно нужен https?
+- Что дает https помимо шифрования?
+- Можем ли мы получить картинку по HTTP?
+- Как мы можем подсказать браузеру подготовиться к загрузке ресурсов?
+- Влияет ли скорость ответа сервера на скорость загрузки сайта?
+- Как браузер понимает что ресурс нужно закешировать?
+- Зачем нужен хеш в названиях файлов?
+- Как браузер понимает что картинка является картинкой?
+- Какими способами мы можем получить картинку с сервера?
+- Каким образом браузер понимает тип содержимого в ответе от API(картинка, текст, etc)?
+- Как браузер понимает что нужно загрузить картинку?
+- Как браузер понимает что нужно отображать именно картинку а не текст?
+- Что такое CORS?
+- Какие способы авторизации ты знаешь?
+- что будет если авторизацию сделать через GET
+- почему форму с паролем нельзя отправить GET запросом
+- Какой будет запрос для подтверждения регистрации пользователя?
+- Что такое JWT?
+- Что такое refresh токен?
+- Как защититься от парсинга?
+- почему картинки загружаются через GET, а не через POST
+- Отличия http2 от http1
+- Протоколы взаимодействия с беком
+- расскажи зачем заголовок Referrer
+- Что такое и чем опасен XSS?
+- Что такое CSRF?
+- что такое csrf токен
+- Как обезопасить себя от потенциально опасного клиентского ввода?
+- Есть ли уязвимость связанная с \_target =blank?
+- Что такое прогрессивная отрисовка?
+- Разница между Progressive Enhancement и Graceful Degradation?
+- Разница между feature detection, feature inference и анализом строки user-agent?
+- Что такое Веб-компоненты и какие технологии в них используются?
+- Способы уменьшения времени загрузки веб-страницы?
+- Что такое Progressive Web Application?
+- что такое сервис воркеры
+- Что такое Web Workers?
+- расскажи про repaint и reflow
+- расскажи про restyle и relayout
+- что такое Layout trashing
+- Что такое Flash Of Unstyled Content?
+- можно ли вставить счётчик в виде картинки
+- как сделать так, чтобы картинка, которая кэшируется обновлялась
+- какие есть способы хранения данных в браузере
+- в чём отличие localStorage от sessionStorage
+- Что такое IndexedDB в браузере?
+- Что мы можем делать с помощью devtools браузера?
+- Что такое HTTP cookie? Для чего они используются?
+- Разница между cookie, sessionStorage и localStorage?
+- Как защитить cookie?
+- Что такое WebSocket? В чем принцип его работы?
+- Что такое безопасные (Secure) и HttpOnly cookies?
+- Что такое Content Security Policy (CSP)?
+- Как работает JSONP?
+- Что такое History API в браузере?
+- Что такое BOM?
+- назвать способы оптимизации загрузки страниц сайта
+- рассказать об инструментах, которые можно использовать для анализа оптимизаций
+- Как мы можем оптимизировать отрисовку?
+- Что такое force layout и почему это плохо?
+- Как работает hot reload?
+- Что такое Веб-компоненты и какие технологии в них используются?
 
 ## Git
 
--   Зачем нужна система контроля версий?
--   Что такое gitflow?
--   Что такое merge и rebase, в чем отличие друг от друга?
--   Как наши изменения попадают в ветку?
--   Как можно заставить git что-то забыть?
--   Как можно переименовать коммит?
--   В чем отличие amend от squash?
--   Что такое cherry-pick?
--   Что такое семантические коммиты?
--   Что ты знаешь про semantic version
+- Зачем нужна система контроля версий?
+- Что такое gitflow?
+- Что такое merge и rebase, в чем отличие друг от друга?
+- Как наши изменения попадают в ветку?
+- Как можно заставить git что-то забыть?
+- Как можно переименовать коммит?
+- В чем отличие amend от squash?
+- Что такое cherry-pick?
+- Что такое семантические коммиты?
+- Что ты знаешь про semantic version
