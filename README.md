@@ -3160,6 +3160,9 @@ alt это обязательный атрибут. Текст в alt назыв
 
 Прочитать:
 
+1. [Выразительный JavaScript: Document Object Model (объектная модель документа)](https://habr.com/ru/post/243815/)
+2. [What is the DOM?](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
 &nbsp;
 
 </details>
@@ -3168,17 +3171,20 @@ alt это обязательный атрибут. Текст в alt назыв
 
 &nbsp;
 
-Прочитать:
+DOM — это независящий от платформы и языка программный интерфейс.
 
 &nbsp;
 
 </details>
 
-<details><summary>Что такое всплытие событий и какие у него есть фазы?</summary>
+<details><summary>Что такое всплытие событий и какие есть фазы жизненного цикла событий?</summary>
 
 &nbsp;
 
 Прочитать:
+
+1. [Всплытие и погружение](https://learn.javascript.ru/bubbling-and-capturing)
+2. [Event Bubbling and Event Catching in JavaScript and React – A Beginner's Guide](https://www.freecodecamp.org/news/event-propagation-event-bubbling-event-catching-beginners-guide/)
 
 &nbsp;
 
@@ -3189,6 +3195,9 @@ alt это обязательный атрибут. Текст в alt назыв
 &nbsp;
 
 Прочитать:
+
+1. [Делегирование событий](https://learn.javascript.ru/event-delegation)
+2. [A Simple Explanation of Event Delegation in JavaScript](https://dmitripavlutin.com/javascript-event-delegation/)
 
 &nbsp;
 
