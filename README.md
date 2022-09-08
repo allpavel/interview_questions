@@ -3209,6 +3209,8 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [querySelector and querySelectorAll vs getElementsByClassName and getElementById in JavaScript](https://stackoverflow.com/questions/14377590/queryselector-and-queryselectorall-vs-getelementsbyclassname-and-getelementbyid)
+
 &nbsp;
 
 </details>
@@ -3218,6 +3220,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [Страница: DOMContentLoaded, load, beforeunload, unload](https://learn.javascript.ru/onload-ondomcontentloaded)
 
 &nbsp;
 
@@ -3229,6 +3233,8 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [Страница: DOMContentLoaded, load, beforeunload, unload](https://learn.javascript.ru/onload-ondomcontentloaded)
+
 &nbsp;
 
 </details>
@@ -3238,6 +3244,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [Страница: DOMContentLoaded, load, beforeunload, unload](https://learn.javascript.ru/onload-ondomcontentloaded)
+2. [load и DOMContentLoaded](https://doka.guide/js/event-load-and-domcontentloaded/)
 
 &nbsp;
 
@@ -3249,6 +3258,9 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [Shadow DOM](https://learn.javascript.ru/shadow-dom)
+2. [Shadow DOM v1 - Self-Contained Web Components](https://web.dev/shadowdom-v1/)
+
 &nbsp;
 
 </details>
@@ -3258,6 +3270,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [event.target](https://learn.javascript.ru/bubbling-and-capturing#event-target)
+2. [What is the exact difference between currentTarget property and target property in JavaScript](https://stackoverflow.com/questions/10086427/what-is-the-exact-difference-between-currenttarget-property-and-target-property)
 
 &nbsp;
 
@@ -3269,15 +3284,21 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [В чём разница между HTMLCollection и NodeList](https://ru.hexlet.io/blog/posts/nodelist-htmlcollection)
+2. [HTMLCollection vs NodeList](https://medium.com/@layne_celeste/htmlcollection-vs-nodelist-4b83e3a4fb4b)
+
 &nbsp;
 
 </details>
 
-<details><summary>Как динамически добавить элемент на HTML-страницу?</summary>
+<details><summary>Как добавить элемент на HTML-страницу?</summary>
 
 &nbsp;
 
 Прочитать:
+
+1. [Изменение документа](https://learn.javascript.ru/modifying-document)
+2. [How to Manipulate the DOM - the Ultimate Beginner's Guide](https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/)
 
 &nbsp;
 
@@ -3289,6 +3310,9 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [Обработчики событий](https://learn.javascript.ru/introduction-browser-events#obrabotchiki-sobytiy)
+2. [addEventListener vs onclick](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick)
+
 &nbsp;
 
 </details>
@@ -3298,6 +3322,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [addEventListener](https://learn.javascript.ru/introduction-browser-events#addeventlistener)
+2. [EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
 &nbsp;
 
