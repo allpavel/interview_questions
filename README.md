@@ -3154,37 +3154,315 @@ alt это обязательный атрибут. Текст в alt назыв
 
 ## JavaScript в браузере
 
-- Что такое DOM?
-- Пропадет ли DOM если мы отключим JS?
-- Что такое всплытие событий и какие у него есть фазы?
-- Что такое делегирование событий?
-- В чем отличие .getElementsByClassName от .querySelectrorAll?
-- Как понять что DOM загружен?
-- Что за событие DOM Content Loaded?
-- Чем отличается событие DOM Content Loaded от load?
-- Сталкивался ли ты c shadow dom?
-- Разница между event.target и event.currentTarget?
-- Разница между HTMLCollection и NodeList?
-- Как динамически добавить элемент на HTML-страницу?
-- Какие есть способы добавить обработчик события на DOM-элемент?
-- Сколько аргументов принимает addEventListener?
-- Как удалить обработчик события с DOM-элемента?
-- Почему нам нужно отписываться от обработчиков?
-- Утечки памяти, что это такое и почему плохо?
-- Как происходит процесс утечки?
-- Как исправить утечку памяти?
-- Способы фокусировки на элементе?
-- Как закрыть модалку по клику вне нее?
-- Как выполнить действие когда произошел скролл до нужного места?
-- Как определить что элемент во вьюпорте?
-- Как оптимизировать частый вызов обработчиков?
-- Методы оптимизации скролла
-- что такое и зачем throttling
-- что такое и зачем debouncing
-- Что такое и зачем нужен Ajax?
-- Приватные поля в браузере
-- Разница между JSON и XML?
-- В чем опасность работы с innerHTML?
+<details><summary>Что такое DOM?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Пропадет ли DOM если мы отключим JS?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое всплытие событий и какие у него есть фазы?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое делегирование событий?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>В чем отличие .getElementsByClassName от .querySelectrorAll?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как понять что DOM загружен?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что за событие DOM Content Loaded?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Чем отличается событие DOM Content Loaded от load?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Сталкивался ли ты c shadow dom?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Разница между event.target и event.currentTarget?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Разница между HTMLCollection и NodeList?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как динамически добавить элемент на HTML-страницу?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Какие есть способы добавить обработчик события на DOM-элемент?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Сколько аргументов принимает addEventListener?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как удалить обработчик события с DOM-элемента?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Почему нам нужно отписываться от обработчиков?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Утечки памяти, что это такое и почему плохо?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как происходит процесс утечки?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как исправить утечку памяти?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Способы фокусировки на элементе?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как закрыть модалку по клику вне нее?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как выполнить действие когда произошел скролл до нужного места?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как определить что элемент во вьюпорте?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как оптимизировать частый вызов обработчиков?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Методы оптимизации скролла</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>что такое и зачем throttling</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>что такое и зачем debouncing</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое и зачем нужен Ajax?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Приватные поля в браузере</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Разница между JSON и XML?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>В чем опасность работы с innerHTML?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
 
 ## React
 
