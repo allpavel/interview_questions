@@ -3335,6 +3335,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [removeEventListener()](https://doka.guide/js/element-removeeventlistener/)
+2. [EventTarget.removeEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener)
 
 &nbsp;
 
@@ -3345,6 +3347,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [removeEventListener()](https://doka.guide/js/element-removeeventlistener/#kak-eto-ponyat)
 
 &nbsp;
 
@@ -3355,6 +3358,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [4 вида утечек памяти в JavaScript и как с ними бороться](https://habr.com/ru/post/309318/)
+2. [Eradicating Memory Leaks In Javascript](https://www.lambdatest.com/blog/eradicating-memory-leaks-in-javascript/)
+3. [Memory issues](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#memory_issues)
 
 &nbsp;
 
@@ -3365,6 +3371,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [4 вида утечек памяти в JavaScript и как с ними бороться](https://habr.com/ru/post/309318/)
+2. [Memory issues](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#memory_issues)
 
 &nbsp;
 
@@ -3375,6 +3383,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [4 вида утечек памяти в JavaScript и как с ними бороться](https://habr.com/ru/post/309318/)
+2. [Memory issues](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#memory_issues)
 
 &nbsp;
 
@@ -3385,6 +3395,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [focus()](https://doka.guide/js/element-focus/)
+2. [Включаем фокусировку на любом элементе: tabindex](https://learn.javascript.ru/focus-blur#vklyuchaem-fokusirovku-na-lyubom-elemente-tabindex)
 
 &nbsp;
 
@@ -3395,6 +3407,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Работа с событиями мыши](https://ru.reactjs.org/docs/accessibility.html#mouse-and-pointer-events)
+2. [Detect click outside div using javascript](https://stackoverflow.com/questions/36695438/detect-click-outside-div-using-javascript)
+3. [How do I detect a click outside an element?](https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element?rq=1)
 
 &nbsp;
 
