@@ -3495,16 +3495,22 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [AJAX для новичков](https://habr.com/ru/post/14246/)
+2. [Сетевые запросы](https://learn.javascript.ru/network)
+3. [Ajax](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 
 &nbsp;
 
 </details>
 
-<details><summary>Приватные поля в браузере</summary>
+<details><summary>Приватные поля</summary>
 
 &nbsp;
 
 Прочитать:
+1. [Приватное свойство](https://learn.javascript.ru/private-protected-properties-methods#privatnoe-svoystvo-waterlimit)
+2. [JavaScript: Публичные и приватные поля классов](https://habr.com/ru/post/438202/)
+3. [Private syntax FAQ](https://github.com/tc39/proposal-class-fields/blob/main/PRIVATE_SYNTAX_FAQ.md)
 
 &nbsp;
 
@@ -3515,6 +3521,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [JSON и XML. Что лучше?](https://habr.com/ru/post/31225/)
+2. [JSON и XML](https://webref.ru/dev/json-tutorial/json-vs-xml)
 
 &nbsp;
 
@@ -3525,6 +3533,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [XSS-атаки: Что нужно использовать вместо innerHTML / insertAdjacentHTML?](https://ru.stackoverflow.com/questions/1142971/xss-%D0%B0%D1%82%D0%B0%D0%BA%D0%B8-%D0%A7%D1%82%D0%BE-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BE-innerhtml-insertadjacenthtml)
+2. [What is the Disadvantage of using innerHTML in JavaScript ?](https://www.geeksforgeeks.org/what-is-the-disadvantage-of-using-innerhtml-in-javascript/)
 
 &nbsp;
 
