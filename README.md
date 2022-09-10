@@ -3420,6 +3420,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Intersection Observer API: примеры использования](https://habr.com/ru/post/494670/)
+2. [How can I tell if a DOM element is visible in the current viewport?](https://stackoverflow.com/questions/123999/how-can-i-tell-if-a-dom-element-is-visible-in-the-current-viewport)
+3. [An Explanation of How the Intersection Observer Watches](https://css-tricks.com/an-explanation-of-how-the-intersection-observer-watches/)
+4. [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 
 &nbsp;
 
@@ -3430,6 +3434,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Intersection Observer API: примеры использования](https://habr.com/ru/post/494670/)
+2. [How can I tell if a DOM element is visible in the current viewport?](https://stackoverflow.com/questions/123999/how-can-i-tell-if-a-dom-element-is-visible-in-the-current-viewport)
+3. [An Explanation of How the Intersection Observer Watches](https://css-tricks.com/an-explanation-of-how-the-intersection-observer-watches/)
+4. [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 
 &nbsp;
 
@@ -3440,6 +3448,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Throttle на примере изменения страницы при прокрутке](https://doka.guide/js/throttle/)
+2. [Debounce на примере формы поиска](https://doka.guide/js/debounce/)
+3. [Difference Between throttling and debouncing a function](https://stackoverflow.com/questions/25991367/difference-between-throttling-and-debouncing-a-function)
 
 &nbsp;
 
@@ -3450,6 +3461,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Throttle на примере изменения страницы при прокрутке](https://doka.guide/js/throttle/)
+2. [Virtual scrolling: Core principles and basic implementation in React](https://blog.logrocket.com/virtual-scrolling-core-principles-and-basic-implementation-in-react/)
 
 &nbsp;
 
@@ -3460,6 +3473,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Throttle на примере изменения страницы при прокрутке](https://doka.guide/js/throttle/)
 
 &nbsp;
 
@@ -3470,6 +3484,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Debounce на примере формы поиска](https://doka.guide/js/debounce/)
 
 &nbsp;
 
