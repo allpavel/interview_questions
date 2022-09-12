@@ -3694,6 +3694,9 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [Строгий режим](https://ru.reactjs.org/docs/strict-mode.html)
+2. [Does strict mode work differently with React 18?](https://stackoverflow.com/questions/72112028/does-strict-mode-work-differently-with-react-18)
+
 &nbsp;
 
 </details>
@@ -3703,6 +3706,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [SyntheticEvent](https://ru.reactjs.org/docs/events.html)
 
 &nbsp;
 
@@ -3714,6 +3719,9 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [Условный рендеринг](https://ru.reactjs.org/docs/conditional-rendering.html)
+2. [React conditional rendering: 9 methods with examples](https://blog.logrocket.com/react-conditional-rendering-9-methods/)
+
 &nbsp;
 
 </details>
@@ -3723,6 +3731,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [Компоненты и пропсы](https://ru.reactjs.org/docs/components-and-props.html)
 
 &nbsp;
 
@@ -3734,6 +3744,8 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [React Element vs Component](https://www.robinwieruch.de/react-element-component/)
+
 &nbsp;
 
 </details>
@@ -3743,6 +3755,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [When to break up a component into multiple components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
 
 &nbsp;
 
@@ -4108,7 +4122,7 @@ DOM — это независящий от платформы и языка пр
 
 </details>
 
--<details><summaryВто такое инверсия наследования (Inheritance Inversion)?</summary>
+<details><summary>Вто такое инверсия наследования (Inheritance Inversion)?</summary>
 
 &nbsp;
 
