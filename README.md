@@ -3631,6 +3631,10 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+2. [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
+3. [A Visual Guide to React Rendering - It Always Re-renders](https://alexsidorenko.com/blog/react-render-always-rerenders/)
+
 &nbsp;
 
 </details>
@@ -3640,6 +3644,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [Understanding Reconciliation: React Rendering Phases](https://dev.to/thee_divide/reconciliation-react-rendering-phases-56g2)
 
 &nbsp;
 
@@ -3651,6 +3657,8 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [Fiber изнутри: Погружение в новый алгоритм согласования React](https://habr.com/ru/post/662549/)
+
 &nbsp;
 
 </details>
@@ -3661,6 +3669,9 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [Знакомство с JSX](https://ru.reactjs.org/docs/introducing-jsx.html)
+2. [You don’t need React to use JSX](https://adostes.medium.com/you-dont-need-react-to-use-jsx-b78dd2a95c27)
+
 &nbsp;
 
 </details>
@@ -3670,6 +3681,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [Fiber изнутри: Погружение в новый алгоритм согласования React](https://habr.com/ru/post/662549/)
 
 &nbsp;
 
