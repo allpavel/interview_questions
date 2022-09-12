@@ -3565,6 +3565,9 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [Зачем фронтендерам React, если есть JavaScript](https://htmlacademy.ru/blog/articles/react-js#:~:text=%D0%98%D1%82%D0%B0%D0%BA%2C%20%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5%20%D1%83%20React%20%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0,JavaScript.%20%D0%A3%20React%20%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F)
+2. [What Is React.js? A Look at the Popular JavaScript Library](https://kinsta.com/knowledgebase/what-is-react-js/)
+
 &nbsp;
 
 </details>
@@ -3574,6 +3577,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [Single-page application](https://en.wikipedia.org/wiki/Single-page_application)
+2. [Single-page application vs. multiple-page application](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
 
 &nbsp;
 
@@ -3585,6 +3591,10 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [Немного о том, как работает виртуальный DOM в React](https://habr.com/ru/company/macloud/blog/558682/)
+2. [What is a virtual DOM in React?](https://blog.logrocket.com/what-virtual-dom-react/)
+3. [Exploring how virtual DOM is implemented in React](https://indepth.dev/posts/1501/exploring-how-virtual-dom-is-implemented-in-react)
+
 &nbsp;
 
 </details>
@@ -3595,6 +3605,9 @@ DOM — это независящий от платформы и языка пр
 
 Прочитать:
 
+1. [Why Virtual DOM is slower](https://medium.com/@hayavuk/why-virtual-dom-is-slower-2d9b964b4c9e)
+2. [Incremental vs Virtual DOM](https://blog.bitsrc.io/incremental-vs-virtual-dom-eb7157e43dca)
+
 &nbsp;
 
 </details>
@@ -3604,6 +3617,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [Why do developers think the DOM is slow?](https://www.reddit.com/r/javascript/comments/6115ay/why_do_developers_think_the_dom_is_slow/)
+2. [But why's the browser DOM still so slow after 10 years of effort?](https://stackoverflow.com/questions/6817093/but-whys-the-browser-dom-still-so-slow-after-10-years-of-effort)
 
 &nbsp;
 
