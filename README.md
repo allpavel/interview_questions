@@ -3335,6 +3335,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [removeEventListener()](https://doka.guide/js/element-removeeventlistener/)
 2. [EventTarget.removeEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener)
 
@@ -3347,6 +3348,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [removeEventListener()](https://doka.guide/js/element-removeeventlistener/#kak-eto-ponyat)
 
 &nbsp;
@@ -3358,6 +3360,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [4 вида утечек памяти в JavaScript и как с ними бороться](https://habr.com/ru/post/309318/)
 2. [Eradicating Memory Leaks In Javascript](https://www.lambdatest.com/blog/eradicating-memory-leaks-in-javascript/)
 3. [Memory issues](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#memory_issues)
@@ -3371,6 +3374,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [4 вида утечек памяти в JavaScript и как с ними бороться](https://habr.com/ru/post/309318/)
 2. [Memory issues](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#memory_issues)
 
@@ -3383,6 +3387,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [4 вида утечек памяти в JavaScript и как с ними бороться](https://habr.com/ru/post/309318/)
 2. [Memory issues](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#memory_issues)
 
@@ -3395,6 +3400,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [focus()](https://doka.guide/js/element-focus/)
 2. [Включаем фокусировку на любом элементе: tabindex](https://learn.javascript.ru/focus-blur#vklyuchaem-fokusirovku-na-lyubom-elemente-tabindex)
 
@@ -3407,6 +3413,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Работа с событиями мыши](https://ru.reactjs.org/docs/accessibility.html#mouse-and-pointer-events)
 2. [Detect click outside div using javascript](https://stackoverflow.com/questions/36695438/detect-click-outside-div-using-javascript)
 3. [How do I detect a click outside an element?](https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element?rq=1)
@@ -3420,6 +3427,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Intersection Observer API: примеры использования](https://habr.com/ru/post/494670/)
 2. [How can I tell if a DOM element is visible in the current viewport?](https://stackoverflow.com/questions/123999/how-can-i-tell-if-a-dom-element-is-visible-in-the-current-viewport)
 3. [An Explanation of How the Intersection Observer Watches](https://css-tricks.com/an-explanation-of-how-the-intersection-observer-watches/)
@@ -3434,6 +3442,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Intersection Observer API: примеры использования](https://habr.com/ru/post/494670/)
 2. [How can I tell if a DOM element is visible in the current viewport?](https://stackoverflow.com/questions/123999/how-can-i-tell-if-a-dom-element-is-visible-in-the-current-viewport)
 3. [An Explanation of How the Intersection Observer Watches](https://css-tricks.com/an-explanation-of-how-the-intersection-observer-watches/)
@@ -3448,6 +3457,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Throttle на примере изменения страницы при прокрутке](https://doka.guide/js/throttle/)
 2. [Debounce на примере формы поиска](https://doka.guide/js/debounce/)
 3. [Difference Between throttling and debouncing a function](https://stackoverflow.com/questions/25991367/difference-between-throttling-and-debouncing-a-function)
@@ -3461,6 +3471,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Throttle на примере изменения страницы при прокрутке](https://doka.guide/js/throttle/)
 2. [Virtual scrolling: Core principles and basic implementation in React](https://blog.logrocket.com/virtual-scrolling-core-principles-and-basic-implementation-in-react/)
 
@@ -3473,6 +3484,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Throttle на примере изменения страницы при прокрутке](https://doka.guide/js/throttle/)
 
 &nbsp;
@@ -3484,6 +3496,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Debounce на примере формы поиска](https://doka.guide/js/debounce/)
 
 &nbsp;
@@ -3495,6 +3508,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [AJAX для новичков](https://habr.com/ru/post/14246/)
 2. [Сетевые запросы](https://learn.javascript.ru/network)
 3. [Ajax](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
@@ -3508,6 +3522,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Приватное свойство](https://learn.javascript.ru/private-protected-properties-methods#privatnoe-svoystvo-waterlimit)
 2. [JavaScript: Публичные и приватные поля классов](https://habr.com/ru/post/438202/)
 3. [Private syntax FAQ](https://github.com/tc39/proposal-class-fields/blob/main/PRIVATE_SYNTAX_FAQ.md)
@@ -3521,6 +3536,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [JSON и XML. Что лучше?](https://habr.com/ru/post/31225/)
 2. [JSON и XML](https://webref.ru/dev/json-tutorial/json-vs-xml)
 
@@ -3533,6 +3549,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [XSS-атаки: Что нужно использовать вместо innerHTML / insertAdjacentHTML?](https://ru.stackoverflow.com/questions/1142971/xss-%D0%B0%D1%82%D0%B0%D0%BA%D0%B8-%D0%A7%D1%82%D0%BE-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BE-innerhtml-insertadjacenthtml)
 2. [What is the Disadvantage of using innerHTML in JavaScript ?](https://www.geeksforgeeks.org/what-is-the-disadvantage-of-using-innerhtml-in-javascript/)
 
@@ -3542,61 +3559,555 @@ DOM — это независящий от платформы и языка пр
 
 ## React
 
-- Что такое React?
-- Чем SPA отличается от классического сайта?
-- Что такое и зачем нужен virtual DOM?
-- недостатки виртуального dom
-- почему операции над дом деревом дорогие
-- перерисуются ли дочерние компоненты, если перерисовался родительский и почему
-- при перерисовке ветки в виртуальном доме что будет с этой веткой в браузерном доме
-- расскажи про фазу согласования
-- Что Такое JSX?
-- Что такое React Fiber?
-- Что такое строгий режим в React? Его преимущества?
-- Что такое синтетические события в React?
-- Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?
-- Что такое компонент?
-- Разница между элементом и компонентом?
-- Зачем мы разбиваем код на компоненты?
-- Какие есть способы общения между компонентами?
-- В чем разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?
-- Какие методы жизненного цикла компонента существуют в React?
-- Стадии жизненного цикла компонента в React?
-- Что такое PureComponent?
-- Что такое Компонент высшего порядка (Higher-Order Component, HOC)?
-- Что такое компонент-переключатель (Switching Component)?
-- Разница между компонентом и контейнером?
-- в чём разница между пропсами и стейтом
-- Двустороннее и однонаправленное связывание данных?
-- Что такое поднятие состояния вверх (Lifting State Up)?
-- Как работает проп children?
-- Что такое порталы в React?
-- назови основные хуки в реакте
-- назови 3 правила написания хуков
-- почему нельзя использовать хуки в условных выражениях
-- Разница между useEffect() и componentDidMount()?
-- Как реализовать однократное выполнение операции при начальном рендеринге?
-- В чём разница между useEffect и useLayoutEffect?
-- Зачем в setState() нужно передавать функцию?
-- Зачем нам нужен менеджер состояния?
-- Как определить что состояние является глобальным?
-- Почему нельзя использовать контекст в качестве хранилища состояния?
-- Что такое серверный рендеринг (SSR)?
-- В чем заключаются недостатки SSR?
-- Какие есть альтернативы SSR?
-- Что такое двустороннее связывание?
-- Зачем нам нужен механизм двустороннего связывания?
-- Рассажи кратко как сделать бесконечный скролл
-- что такое virtual scroll
-- какой атрибут нужно дополнительно указывать и зачем, когда рендеришь список в реакте
-- какой единственный классовый компонент до сих активно используется
-- что такое Props drilling
-- в каких случаях использовать рефы
-- Что такое flushSync в Реакте
-- Что такое lazy loading?
-- Что такое инверсия наследования (Inheritance Inversion)?
-- Разница между useEffect() и componentDidMount()?
-- Для чего предназначен метод registerServiceWorker() в React?
+<details><summary>Что такое React?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Чем SPA отличается от классического сайта?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое и зачем нужен virtual DOM?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>недостатки виртуального dom</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>почему операции над дом деревом дорогие</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>перерисуются ли дочерние компоненты, если перерисовался родительский и почему</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>при перерисовке ветки в виртуальном доме что будет с этой веткой в браузерном доме</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>расскажи про фазу согласования</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что Такое JSX?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое React Fiber?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое строгий режим в React? Его преимущества?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое синтетические события в React?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое компонент?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Разница между элементом и компонентом?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Зачем мы разбиваем код на компоненты?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Какие есть способы общения между компонентами?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>В чем разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Какие методы жизненного цикла компонента существуют в React?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Стадии жизненного цикла компонента в React?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое PureComponent?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое Компонент высшего порядка (Higher-Order Component, HOC)?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое компонент-переключатель (Switching Component)?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Разница между компонентом и контейнером?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>в чём разница между пропсами и стейтом</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Двустороннее и однонаправленное связывание данных?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое поднятие состояния вверх (Lifting State Up)?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как работает проп children?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое порталы в React?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>назови основные хуки в реакте</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>назови 3 правила написания хуков</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>почему нельзя использовать хуки в условных выражениях</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Разница между useEffect() и componentDidMount()?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как реализовать однократное выполнение операции при начальном рендеринге?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>В чём разница между useEffect и useLayoutEffect?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Зачем в setState() нужно передавать функцию?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Зачем нам нужен менеджер состояния?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Как определить что состояние является глобальным?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Почему нельзя использовать контекст в качестве хранилища состояния?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое серверный рендеринг (SSR)?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>В чем заключаются недостатки SSR?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Какие есть альтернативы SSR?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое двустороннее связывание?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Зачем нам нужен механизм двустороннего связывания?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Рассажи кратко как сделать бесконечный скролл</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>что такое virtual scroll</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>какой атрибут нужно дополнительно указывать и зачем, когда рендеришь список в реакте</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>какой единственный классовый компонент до сих активно используется</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>что такое Props drilling</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>в каких случаях использовать рефы</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое flushSync в Реакте</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Что такое lazy loading?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+-<details><summaryВто такое инверсия наследования (Inheritance Inversion)?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Разница между useEffect() и componentDidMount()?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
+
+<details><summary>Для чего предназначен метод registerServiceWorker() в React?</summary>
+
+&nbsp;
+
+Прочитать:
+
+&nbsp;
+
+</details>
 
 ## Web API
 
