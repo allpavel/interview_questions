@@ -3767,6 +3767,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Однонаправленный поток данных](https://ru.reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down)
+2. [Подъём состояния](https://ru.reactjs.org/docs/lifting-state-up.html)
+3. [Перенаправление рефов](https://ru.reactjs.org/docs/forwarding-refs.html)
 
 &nbsp;
 
@@ -3777,6 +3780,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Управляемые компоненты](https://ru.reactjs.org/docs/forms.html#controlled-components)
+2. [Неуправляемые компоненты](https://ru.reactjs.org/docs/uncontrolled-components.html)
 
 &nbsp;
 
@@ -3787,6 +3792,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Жизненный цикл компонента](https://ru.reactjs.org/docs/react-component.html#the-component-lifecycle)
+2. [React 16 Lifecycle Methods: How and When to Use Them](https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282)
 
 &nbsp;
 
@@ -3797,6 +3804,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [События жизненного цикла в React](https://frontend-stuff.com/blog/react-lifecycle-events/)
+2. [The React lifecycle: methods and hooks explained](https://retool.com/blog/the-react-lifecycle-methods-and-hooks-explained/)
 
 &nbsp;
 
