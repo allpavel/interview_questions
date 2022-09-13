@@ -3816,6 +3816,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [React.PureComponent](https://ru.reactjs.org/docs/react-api.html#reactpurecomponent)
+2. [Разбор: как и зачем применять PureComponent в React](https://habr.com/ru/company/redmadrobot/blog/318222/)
 
 &nbsp;
 
@@ -3826,6 +3828,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Компоненты высшего порядка](https://ru.reactjs.org/docs/higher-order-components.html)
+2. [Higher-Order Components In React](https://www.smashingmagazine.com/2020/06/higher-order-components-react/)
 
 &nbsp;
 
@@ -3836,6 +3840,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Multiple conditional renderings in React](https://www.robinwieruch.de/conditional-rendering-react/#multiple-conditional-renderings-in-react)
 
 &nbsp;
 
