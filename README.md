@@ -3846,21 +3846,14 @@ DOM — это независящий от платформы и языка пр
 
 </details>
 
-<details><summary>Разница между компонентом и контейнером?</summary>
-
-&nbsp;
-
-Прочитать:
-
-&nbsp;
-
-</details>
-
 <details><summary>в чём разница между пропсами и стейтом</summary>
 
 &nbsp;
 
 Прочитать:
+1. [Состояние компонента](https://ru.reactjs.org/docs/faq-state.html)
+2. [React Fundamentals: Props vs State](https://kentcdodds.com/blog/props-vs-state)
+3. [What is the difference between state and props in React?](https://stackoverflow.com/questions/27991366/what-is-the-difference-between-state-and-props-in-react)
 
 &nbsp;
 
@@ -3871,6 +3864,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Однонаправленный поток данных](https://ru.reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down)
+2. [Data binding in React](https://stackoverflow.com/questions/42217579/data-binding-in-react)
+3. [ReactJS Data Binding](https://www.geeksforgeeks.org/reactjs-data-binding/)
+4. [Difference between One-way Binding and Two-way Binding](https://www.geeksforgeeks.org/difference-between-one-way-binding-and-two-way-binding/)
 
 &nbsp;
 
@@ -3881,6 +3878,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Подъём состояния](https://ru.reactjs.org/docs/lifting-state-up.html)
+2. [What Is "Lifting State Up" in React?](https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/)
 
 &nbsp;
 
