@@ -3890,6 +3890,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Композиция против наследования](https://ru.reactjs.org/docs/composition-vs-inheritance.html)
+2. [props.children](https://ru.reactjs.org/docs/glossary.html#propschildren)
 
 &nbsp;
 
@@ -3900,6 +3902,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Порталы](https://ru.reactjs.org/docs/portals.html)
+2. [Building a modal in React with React Portals](https://blog.logrocket.com/build-modal-with-react-portals/)
 
 &nbsp;
 
@@ -3910,16 +3914,18 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Хуки](https://ru.reactjs.org/docs/react-api.html#hooks)
 
 &nbsp;
 
 </details>
 
-<details><summary>назови 3 правила написания хуков</summary>
+<details><summary>назови 2 правила написания хуков</summary>
 
 &nbsp;
 
 Прочитать:
+1. [Правила хуков](https://ru.reactjs.org/docs/hooks-rules.html)
 
 &nbsp;
 
@@ -3930,6 +3936,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Объяснение](https://ru.reactjs.org/docs/hooks-rules.html#explanation)
 
 &nbsp;
 
