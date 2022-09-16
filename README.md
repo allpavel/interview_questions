@@ -3947,6 +3947,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Подробное объяснение](https://ru.reactjs.org/docs/hooks-effect.html#detailed-explanation)
+2. [useEffect(fn, []) is not the new componentDidMount()](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/)
 
 &nbsp;
 
@@ -3957,6 +3959,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [useEffect](https://ru.reactjs.org/docs/hooks-reference.html#useeffect)
 
 &nbsp;
 
@@ -3967,6 +3970,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
 
 &nbsp;
 
@@ -3977,6 +3981,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Функциональные обновления](https://ru.reactjs.org/docs/hooks-reference.html#functional-updates)
 
 &nbsp;
 
