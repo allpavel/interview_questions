@@ -4128,6 +4128,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Предохранители](https://ru.reactjs.org/docs/error-boundaries.html)
 
 &nbsp;
 
@@ -4138,6 +4139,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Prop Drilling](https://kentcdodds.com/blog/prop-drilling)
 
 &nbsp;
 
@@ -4148,6 +4150,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Рефы и DOM](https://ru.reactjs.org/docs/refs-and-the-dom.html)
+2. [A complete guide to React refs](https://blog.logrocket.com/complete-guide-react-refs/)
 
 &nbsp;
 
@@ -4158,6 +4162,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [flushSync](https://ru.reactjs.org/docs/react-dom.html#flushsync)
+2. [What does flushSync() do in React?](https://stackoverflow.com/questions/62725935/what-does-flushsync-do-in-react)
 
 &nbsp;
 
