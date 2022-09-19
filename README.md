@@ -4027,6 +4027,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Rendering on the Web](https://web.dev/rendering-on-the-web/)
+2. [Server Side Rendering (SSR) vs. Client Side Rendering (CSR) vs. Pre-Rendering using Static Site Generators (SSG) and client-side hydration](https://medium.com/@prashantramnyc/server-side-rendering-ssr-vs-client-side-rendering-csr-vs-pre-rendering-using-static-site-89f2d05182ef)
 
 &nbsp;
 
@@ -4037,6 +4039,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Server Side Rendering (SSR) vs. Client Side Rendering (CSR) vs. Pre-Rendering using Static Site Generators (SSG) and client-side hydration](https://medium.com/@prashantramnyc/server-side-rendering-ssr-vs-client-side-rendering-csr-vs-pre-rendering-using-static-site-89f2d05182ef)
 
 &nbsp;
 
@@ -4047,6 +4050,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Rendering Patterns](https://www.patterns.dev/posts/#rendering-patterns)
 
 &nbsp;
 
