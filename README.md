@@ -4061,6 +4061,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Однонаправленный поток данных](https://ru.reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down)
+2. [Data binding in React](https://stackoverflow.com/questions/42217579/data-binding-in-react)
+3. [ReactJS Data Binding](https://www.geeksforgeeks.org/reactjs-data-binding/)
+4. [Difference between One-way Binding and Two-way Binding](https://www.geeksforgeeks.org/difference-between-one-way-binding-and-two-way-binding/)
 
 &nbsp;
 
@@ -4071,6 +4075,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Однонаправленный поток данных](https://ru.reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down)
+2. [Data binding in React](https://stackoverflow.com/questions/42217579/data-binding-in-react)
+3. [ReactJS Data Binding](https://www.geeksforgeeks.org/reactjs-data-binding/)
+4. [Difference between One-way Binding and Two-way Binding](https://www.geeksforgeeks.org/difference-between-one-way-binding-and-two-way-binding/)
 
 &nbsp;
 
@@ -4081,6 +4089,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [React: How to implement an infinite scroll
+](https://medium.com/suyeonme/react-how-to-implement-an-infinite-scroll-749003e9896a)
+2. [React Hooks for infinite scroll: An advanced tutorial](https://blog.logrocket.com/react-hooks-infinite-scroll-advanced-tutorial/)
 
 &nbsp;
 
@@ -4091,6 +4102,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Virtual scrolling: Core principles and basic implementation in React](https://blog.logrocket.com/virtual-scrolling-core-principles-and-basic-implementation-in-react/)
+2. [React Virtuoso](https://virtuoso.dev/)
+3. [react-virtualized](https://github.com/bvaughn/react-virtualized)
+4. [react-window](https://github.com/bvaughn/react-window)
 
 &nbsp;
 
@@ -4101,6 +4116,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Списки и ключи](https://ru.reactjs.org/docs/lists-and-keys.html)
+2. [React key attribute: best practices for performant lists](https://www.developerway.com/posts/react-key-attribute)
 
 &nbsp;
 
