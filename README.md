@@ -3992,6 +3992,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [How to Manage State in Your React Apps](https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/)
+2. [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
 
 &nbsp;
 
@@ -4002,6 +4004,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Global vs Local State in React](https://dev.to/fkrasnowski/global-vs-local-state-in-react-lp5)
+2. [How to Manage State in Your React Apps](https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/)
 
 &nbsp;
 
@@ -4012,6 +4016,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 
 &nbsp;
 
