@@ -4089,8 +4089,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
-1. [React: How to implement an infinite scroll
-](https://medium.com/suyeonme/react-how-to-implement-an-infinite-scroll-749003e9896a)
+1. [React: How to implement an infinite scroll](https://medium.com/suyeonme/react-how-to-implement-an-infinite-scroll-749003e9896a)
 2. [React Hooks for infinite scroll: An advanced tutorial](https://blog.logrocket.com/react-hooks-infinite-scroll-advanced-tutorial/)
 
 &nbsp;
@@ -4174,6 +4173,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Разделение кода](https://ru.reactjs.org/docs/code-splitting.html)
 
 &nbsp;
 
@@ -4184,16 +4184,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
-
-&nbsp;
-
-</details>
-
-<details><summary>Разница между useEffect() и componentDidMount()?</summary>
-
-&nbsp;
-
-Прочитать:
+1. [How to develop your React superpowers with the HOC Pattern](https://www.freecodecamp.org/news/how-to-develop-your-react-superpowers-with-the-hoc-pattern-61293651d59/)
+2. [Higher-Order Component in React](https://blog.devgenius.io/higher-order-component-in-react-2bed7b6053f0)
 
 &nbsp;
 
@@ -4204,6 +4196,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [What does registerServiceWorker do in React JS?](https://stackoverflow.com/questions/47953732/what-does-registerserviceworker-do-in-react-js)
 
 &nbsp;
 
