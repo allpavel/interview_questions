@@ -4395,215 +4395,215 @@ DOM — это независящий от платформы и языка пр
   
 </details>
   
-  <details><summary>Как браузер понимает что нужно загрузить картинку?</summary>
+<details><summary>Как браузер понимает что нужно загрузить картинку?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Как браузер понимает что нужно отображать именно картинку а не текст?</summary>
+<details><summary>Как браузер понимает что нужно отображать именно картинку а не текст?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое CORS?</summary>
+<details><summary>Что такое CORS?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Какие способы авторизации ты знаешь?</summary>
+<details><summary>Какие способы авторизации ты знаешь?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>что будет если авторизацию сделать через GET</summary>
+<details><summary>что будет если авторизацию сделать через GET</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>почему форму с паролем нельзя отправить GET запросом</summary>
+<details><summary>почему форму с паролем нельзя отправить GET запросом</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Какой будет запрос для подтверждения регистрации пользователя?</summary>
+<details><summary>Какой будет запрос для подтверждения регистрации пользователя?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое JWT?</summary>
+<details><summary>Что такое JWT?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое refresh токен?</summary>
+<details><summary>Что такое refresh токен?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Как защититься от парсинга?</summary>
+<details><summary>Как защититься от парсинга?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>почему картинки загружаются через GET, а не через POST</summary>
+<details><summary>почему картинки загружаются через GET, а не через POST</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Отличия http2 от http1</summary>
+<details><summary>Отличия http2 от http1</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Протоколы взаимодействия с беком</summary>
+<details><summary>Протоколы взаимодействия с беком</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>расскажи зачем заголовок Referrer</summary>
+<details><summary>расскажи зачем заголовок Referrer</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое и чем опасен XSS?</summary>
+<details><summary>Что такое и чем опасен XSS?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое CSRF?</summary>
+<details><summary>Что такое CSRF?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>что такое csrf токен</summary>
+<details><summary>что такое csrf токен</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Как обезопасить себя от потенциально опасного клиентского ввода?</summary>
+<details><summary>Как обезопасить себя от потенциально опасного клиентского ввода?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Есть ли уязвимость связанная с \_target =blank?</summary>
+<details><summary>Есть ли уязвимость связанная с \_target =blank?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое прогрессивная отрисовка?</summary>
+<details><summary>Что такое прогрессивная отрисовка?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Разница между Progressive Enhancement и Graceful Degradation?</summary>
+<details><summary>Разница между Progressive Enhancement и Graceful Degradation?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
 <details><summary>Разница между feature detection, feature inference и анализом строки user-agent?</summary>
   
@@ -4613,257 +4613,257 @@ DOM — это независящий от платформы и языка пр
   
 &nbsp;
   
-    </details>
+</details>
   
-  <details><summary>Что такое Веб-компоненты и какие технологии в них используются?</summary>
+<details><summary>Что такое Веб-компоненты и какие технологии в них используются?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Способы уменьшения времени загрузки веб-страницы?</summary>
+<details><summary>Способы уменьшения времени загрузки веб-страницы?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое Progressive Web Application?</summary>
+<details><summary>Что такое Progressive Web Application?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>что такое сервис воркеры</summary>
+<details><summary>что такое сервис воркеры</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое Web Workers?</summary>
+<details><summary>Что такое Web Workers?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>расскажи про repaint и reflow</summary>
+<details><summary>расскажи про repaint и reflow</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>расскажи про restyle и relayout</summary>
+<details><summary>расскажи про restyle и relayout</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>что такое Layout trashing</summary>
+<details><summary>что такое Layout trashing</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое Flash Of Unstyled Content?</summary>
+<details><summary>Что такое Flash Of Unstyled Content?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>можно ли вставить счётчик в виде картинки</summary>
+<details><summary>можно ли вставить счётчик в виде картинки</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>как сделать так, чтобы картинка, которая кэшируется обновлялась</summary>
+<details><summary>как сделать так, чтобы картинка, которая кэшируется обновлялась</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>какие есть способы хранения данных в браузере</summary>
+<details><summary>какие есть способы хранения данных в браузере</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>в чём отличие localStorage от sessionStorage</summary>
+<details><summary>в чём отличие localStorage от sessionStorage</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое IndexedDB в браузере?</summary>
+<details><summary>Что такое IndexedDB в браузере?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что мы можем делать с помощью devtools браузера?</summary>
+<details><summary>Что мы можем делать с помощью devtools браузера?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое HTTP cookie? Для чего они используются?</summary>
+<details><summary>Что такое HTTP cookie? Для чего они используются?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Разница между cookie, sessionStorage и localStorage?</summary>
+<details><summary>Разница между cookie, sessionStorage и localStorage?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Как защитить cookie?</summary>
+<details><summary>Как защитить cookie?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое WebSocket? В чем принцип его работы?</summary>
+<details><summary>Что такое WebSocket? В чем принцип его работы?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое безопасные (Secure) и HttpOnly cookies?</summary>
+<details><summary>Что такое безопасные (Secure) и HttpOnly cookies?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое Content Security Policy (CSP)?</summary>
+<details><summary>Что такое Content Security Policy (CSP)?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Как работает JSONP?</summary>
+<details><summary>Как работает JSONP?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое History API в браузере?</summary>
+<details><summary>Что такое History API в браузере?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое BOM?</summary>
+<details><summary>Что такое BOM?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>назвать способы оптимизации загрузки страниц сайта</summary>
+<details><summary>назвать способы оптимизации загрузки страниц сайта</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
 <details><summary>рассказать об инструментах, которые можно использовать для анализа оптимизаций</summary>
   
@@ -4873,57 +4873,147 @@ DOM — это независящий от платформы и языка пр
   
 &nbsp;
   
-    </details>
+</details>
   
-  <details><summary>Как мы можем оптимизировать отрисовку?</summary>
+<details><summary>Как мы можем оптимизировать отрисовку?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое force layout и почему это плохо?</summary>
+<details><summary>Что такое force layout и почему это плохо?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Как работает hot reload?</summary>
+<details><summary>Как работает hot reload?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое Веб-компоненты и какие технологии в них используются?</summary>
+<details><summary>Что такое Веб-компоненты и какие технологии в них используются?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
 ## Git
 
-- Зачем нужна система контроля версий?
-- Что такое gitflow?
-- Что такое merge и rebase, в чем отличие друг от друга?
-- Как наши изменения попадают в ветку?
-- Как можно заставить git что-то забыть?
-- Как можно переименовать коммит?
-- В чем отличие amend от squash?
-- Что такое cherry-pick?
-- Что такое семантические коммиты?
-- Что ты знаешь про semantic version
+<details><summary>Зачем нужна система контроля версий?</summary>
+
+&nbsp;
+  
+Прочитать:
+  
+&nbsp;
+ 
+</details>
+
+<details><summary>Что такое gitflow?</summary>
+
+&nbsp;
+  
+Прочитать:
+  
+&nbsp;
+ 
+</details>
+
+<details><summary>Что такое merge и rebase, в чем отличие друг от друга?</summary>
+
+&nbsp;
+  
+Прочитать:
+  
+&nbsp;
+ 
+</details>
+
+<details><summary>Как наши изменения попадают в ветку?</summary>
+
+&nbsp;
+  
+Прочитать:
+  
+&nbsp;
+ 
+</details>
+
+<details><summary>Как можно заставить git что-то забыть?</summary>
+
+&nbsp;
+  
+Прочитать:
+  
+&nbsp;
+ 
+</details>
+
+<details><summary>Как можно переименовать коммит?</summary>
+
+&nbsp;
+  
+Прочитать:
+  
+&nbsp;
+ 
+</details>
+
+<details><summary>В чем отличие amend от squash?</summary>
+
+&nbsp;
+  
+Прочитать:
+  
+&nbsp;
+ 
+</details>
+
+<details><summary>Что такое cherry-pick?</summary>
+
+&nbsp;
+  
+Прочитать:
+  
+&nbsp;
+ 
+</details>
+
+<details><summary>Что такое семантические коммиты?</summary>
+
+&nbsp;
+  
+Прочитать:
+  
+&nbsp;
+ 
+</details>
+
+<details><summary>Что ты знаешь про semantic version</summary>
+
+&nbsp;
+  
+Прочитать:
+  
+&nbsp;
+ 
+</details>
+
