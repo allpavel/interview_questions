@@ -4204,77 +4204,714 @@ DOM — это независящий от платформы и языка пр
 
 ## Web API
 
-- Что такое HTTP?
-- Как работает HTTP?
-- Структура HTTP запроса?
-- Какие методы может иметь HTTP-запрос?
-- В чем принципиальная разница между POST и GET?
-- Можем ли мы закешировать POST запрос?
-- Что такое коды ответа серверы и чем они отличаются друг от друга?
-- Чем отличается http от https?
-- Можем ли мы запустить http2 без https?
-- Почему повсеместно нужен https?
-- Что дает https помимо шифрования?
-- Можем ли мы получить картинку по HTTP?
-- Как мы можем подсказать браузеру подготовиться к загрузке ресурсов?
-- Влияет ли скорость ответа сервера на скорость загрузки сайта?
-- Как браузер понимает что ресурс нужно закешировать?
-- Зачем нужен хеш в названиях файлов?
-- Как браузер понимает что картинка является картинкой?
-- Какими способами мы можем получить картинку с сервера?
-- Каким образом браузер понимает тип содержимого в ответе от API(картинка, текст, etc)?
-- Как браузер понимает что нужно загрузить картинку?
-- Как браузер понимает что нужно отображать именно картинку а не текст?
-- Что такое CORS?
-- Какие способы авторизации ты знаешь?
-- что будет если авторизацию сделать через GET
-- почему форму с паролем нельзя отправить GET запросом
-- Какой будет запрос для подтверждения регистрации пользователя?
-- Что такое JWT?
-- Что такое refresh токен?
-- Как защититься от парсинга?
-- почему картинки загружаются через GET, а не через POST
-- Отличия http2 от http1
-- Протоколы взаимодействия с беком
-- расскажи зачем заголовок Referrer
-- Что такое и чем опасен XSS?
-- Что такое CSRF?
-- что такое csrf токен
-- Как обезопасить себя от потенциально опасного клиентского ввода?
-- Есть ли уязвимость связанная с \_target =blank?
-- Что такое прогрессивная отрисовка?
-- Разница между Progressive Enhancement и Graceful Degradation?
-- Разница между feature detection, feature inference и анализом строки user-agent?
-- Что такое Веб-компоненты и какие технологии в них используются?
-- Способы уменьшения времени загрузки веб-страницы?
-- Что такое Progressive Web Application?
-- что такое сервис воркеры
-- Что такое Web Workers?
-- расскажи про repaint и reflow
-- расскажи про restyle и relayout
-- что такое Layout trashing
-- Что такое Flash Of Unstyled Content?
-- можно ли вставить счётчик в виде картинки
-- как сделать так, чтобы картинка, которая кэшируется обновлялась
-- какие есть способы хранения данных в браузере
-- в чём отличие localStorage от sessionStorage
-- Что такое IndexedDB в браузере?
-- Что мы можем делать с помощью devtools браузера?
-- Что такое HTTP cookie? Для чего они используются?
-- Разница между cookie, sessionStorage и localStorage?
-- Как защитить cookie?
-- Что такое WebSocket? В чем принцип его работы?
-- Что такое безопасные (Secure) и HttpOnly cookies?
-- Что такое Content Security Policy (CSP)?
-- Как работает JSONP?
-- Что такое History API в браузере?
-- Что такое BOM?
-- назвать способы оптимизации загрузки страниц сайта
-- рассказать об инструментах, которые можно использовать для анализа оптимизаций
-- Как мы можем оптимизировать отрисовку?
-- Что такое force layout и почему это плохо?
-- Как работает hot reload?
-- Что такое Веб-компоненты и какие технологии в них используются?
+    <details><summary>Что такое HTTP?</summary>
+      
+    &nbsp;
+    
+    Прочитать:
+      
+    &nbsp;
+     
+ 
+  </details>
+      
+  <details><summary>Как работает HTTP?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Структура HTTP запроса?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Какие методы может иметь HTTP-запрос?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>В чем принципиальная разница между POST и GET?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Можем ли мы закешировать POST запрос?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое коды ответа серверы и чем они отличаются друг от друга?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Чем отличается http от https?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Можем ли мы запустить http2 без https?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Почему повсеместно нужен https?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что дает https помимо шифрования?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Можем ли мы получить картинку по HTTP?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Как мы можем подсказать браузеру подготовиться к загрузке ресурсов?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Влияет ли скорость ответа сервера на скорость загрузки сайта?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Как браузер понимает что ресурс нужно закешировать?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Зачем нужен хеш в названиях файлов?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Как браузер понимает что картинка является картинкой?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Какими способами мы можем получить картинку с сервера?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+<details><summary>Каким образом браузер понимает тип содержимого в ответе от API(картинка, текст, etc)?</summary>
+  
+&nbsp;
+
+Прочитать:
+  
+&nbsp;
+    <etails>
+  
+  <details><summary>Как браузер понимает что нужно загрузить картинку?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Как браузер понимает что нужно отображать именно картинку а не текст?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое CORS?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Какие способы авторизации ты знаешь?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>что будет если авторизацию сделать через GET</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>почему форму с паролем нельзя отправить GET запросом</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Какой будет запрос для подтверждения регистрации пользователя?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое JWT?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое refresh токен?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Как защититься от парсинга?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>почему картинки загружаются через GET, а не через POST</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Отличия http2 от http1</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Протоколы взаимодействия с беком</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>расскажи зачем заголовок Referrer</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое и чем опасен XSS?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое CSRF?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>что такое csrf токен</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Как обезопасить себя от потенциально опасного клиентского ввода?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Есть ли уязвимость связанная с \_target =blank?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое прогрессивная отрисовка?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Разница между Progressive Enhancement и Graceful Degradation?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+<details><summary>Разница между feature detection, feature inference и анализом строки user-agent?</summary>
+  
+&nbsp;
+
+Прочитать:
+  
+&nbsp;
+    <etails>
+  
+  <details><summary>Что такое Веб-компоненты и какие технологии в них используются?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Способы уменьшения времени загрузки веб-страницы?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое Progressive Web Application?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>что такое сервис воркеры</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое Web Workers?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>расскажи про repaint и reflow</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>расскажи про restyle и relayout</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>что такое Layout trashing</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое Flash Of Unstyled Content?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>можно ли вставить счётчик в виде картинки</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>как сделать так, чтобы картинка, которая кэшируется обновлялась</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>какие есть способы хранения данных в браузере</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>в чём отличие localStorage от sessionStorage</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое IndexedDB в браузере?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что мы можем делать с помощью devtools браузера?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое HTTP cookie? Для чего они используются?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Разница между cookie, sessionStorage и localStorage?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Как защитить cookie?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое WebSocket? В чем принцип его работы?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое безопасные (Secure) и HttpOnly cookies?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое Content Security Policy (CSP)?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Как работает JSONP?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое History API в браузере?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое BOM?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>назвать способы оптимизации загрузки страниц сайта</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+<details><summary>рассказать об инструментах, которые можно использовать для анализа оптимизаций</summary>
+  
+&nbsp;
+
+Прочитать:
+  
+&nbsp;
+    <etails>
+  
+  <details><summary>Как мы можем оптимизировать отрисовку?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое force layout и почему это плохо?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Как работает hot reload?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
+  <details><summary>Что такое Веб-компоненты и какие технологии в них используются?</summary>
+    
+  &nbsp;
+  
+  Прочитать:
+    
+  &nbsp;
+   
+  </details>
+    
 
 ## Git
 
