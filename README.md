@@ -4204,186 +4204,186 @@ DOM — это независящий от платформы и языка пр
 
 ## Web API
 
-    <details><summary>Что такое HTTP?</summary>
+<details><summary>Что такое HTTP?</summary>
       
-    &nbsp;
+&nbsp;
     
-    Прочитать:
+Прочитать:
       
-    &nbsp;
+&nbsp;
      
  
-  </details>
+</details>
       
-  <details><summary>Как работает HTTP?</summary>
+<details><summary>Как работает HTTP?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Структура HTTP запроса?</summary>
+<details><summary>Структура HTTP запроса?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Какие методы может иметь HTTP-запрос?</summary>
+<details><summary>Какие методы может иметь HTTP-запрос?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>В чем принципиальная разница между POST и GET?</summary>
+<details><summary>В чем принципиальная разница между POST и GET?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Можем ли мы закешировать POST запрос?</summary>
+<details><summary>Можем ли мы закешировать POST запрос?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что такое коды ответа серверы и чем они отличаются друг от друга?</summary>
+<details><summary>Что такое коды ответа серверы и чем они отличаются друг от друга?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Чем отличается http от https?</summary>
+<details><summary>Чем отличается http от https?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Можем ли мы запустить http2 без https?</summary>
+<details><summary>Можем ли мы запустить http2 без https?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Почему повсеместно нужен https?</summary>
+<details><summary>Почему повсеместно нужен https?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Что дает https помимо шифрования?</summary>
+<details><summary>Что дает https помимо шифрования?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Можем ли мы получить картинку по HTTP?</summary>
+<details><summary>Можем ли мы получить картинку по HTTP?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Как мы можем подсказать браузеру подготовиться к загрузке ресурсов?</summary>
+<details><summary>Как мы можем подсказать браузеру подготовиться к загрузке ресурсов?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Влияет ли скорость ответа сервера на скорость загрузки сайта?</summary>
+<details><summary>Влияет ли скорость ответа сервера на скорость загрузки сайта?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Как браузер понимает что ресурс нужно закешировать?</summary>
+<details><summary>Как браузер понимает что ресурс нужно закешировать?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Зачем нужен хеш в названиях файлов?</summary>
+<details><summary>Зачем нужен хеш в названиях файлов?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Как браузер понимает что картинка является картинкой?</summary>
+<details><summary>Как браузер понимает что картинка является картинкой?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
-  <details><summary>Какими способами мы можем получить картинку с сервера?</summary>
+<details><summary>Какими способами мы можем получить картинку с сервера?</summary>
     
-  &nbsp;
+&nbsp;
   
-  Прочитать:
+Прочитать:
     
-  &nbsp;
+&nbsp;
    
-  </details>
+</details>
     
 <details><summary>Каким образом браузер понимает тип содержимого в ответе от API(картинка, текст, etc)?</summary>
   
@@ -4392,7 +4392,8 @@ DOM — это независящий от платформы и языка пр
 Прочитать:
   
 &nbsp;
-    <etails>
+  
+</details>
   
   <details><summary>Как браузер понимает что нужно загрузить картинку?</summary>
     
@@ -4611,7 +4612,8 @@ DOM — это независящий от платформы и языка пр
 Прочитать:
   
 &nbsp;
-    <etails>
+  
+    </details>
   
   <details><summary>Что такое Веб-компоненты и какие технологии в них используются?</summary>
     
@@ -4870,7 +4872,8 @@ DOM — это независящий от платформы и языка пр
 Прочитать:
   
 &nbsp;
-    <etails>
+  
+    </details>
   
   <details><summary>Как мы можем оптимизировать отрисовку?</summary>
     
@@ -4912,7 +4915,6 @@ DOM — это независящий от платформы и языка пр
    
   </details>
     
-
 ## Git
 
 - Зачем нужна система контроля версий?
