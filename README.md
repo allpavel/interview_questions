@@ -4209,20 +4209,13 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
     
 Прочитать:
+1. [Протокол HTTP](https://doka.guide/tools/http-protocol/)
+2. [Простым языком об HTTP](https://habr.com/ru/post/215117/)
+3. [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
       
 &nbsp;
      
  
-</details>
-      
-<details><summary>Как работает HTTP?</summary>
-    
-&nbsp;
-  
-Прочитать:
-    
-&nbsp;
-   
 </details>
     
 <details><summary>Структура HTTP запроса?</summary>
@@ -4230,6 +4223,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Структура HTTP-сообщения](https://ru.wikipedia.org/wiki/HTTP#%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_HTTP-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F)
     
 &nbsp;
    
@@ -4240,6 +4234,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Методы HTTP](https://ru.wikipedia.org/wiki/HTTP#%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B)
     
 &nbsp;
    
@@ -4250,6 +4245,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Чем отличаются HTTP-методы GET и POST](https://htmlacademy.ru/blog/php/get-vs-post)
+2. [GET vs. POST](https://www.diffen.com/difference/GET-vs-POST-HTTP-Requests)
     
 &nbsp;
    
@@ -4260,6 +4257,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Is it possible to cache POST methods in HTTP?](https://stackoverflow.com/questions/626057/is-it-possible-to-cache-post-methods-in-http)
     
 &nbsp;
    
@@ -4270,6 +4268,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Список кодов состояния HTTP](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F_HTTP)
     
 &nbsp;
    
