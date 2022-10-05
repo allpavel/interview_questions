@@ -4263,7 +4263,7 @@ DOM — это независящий от платформы и языка пр
    
 </details>
     
-<details><summary>Что такое коды ответа серверы и чем они отличаются друг от друга?</summary>
+<details><summary>Что такое коды ответа сервера и чем они отличаются друг от друга?</summary>
     
 &nbsp;
   
@@ -4279,6 +4279,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Как HTTPS обеспечивает безопасность соединения: что должен знать каждый Web-разработчик](https://habr.com/ru/post/188042/)
+2. [HTTPS](https://en.wikipedia.org/wiki/HTTPS)
+3. [HTTP vs HTTPS – What's the Difference?](https://www.freecodecamp.org/news/http-vs-https/)
     
 &nbsp;
    
@@ -4289,6 +4292,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2#Encryption)
     
 &nbsp;
    
@@ -4299,6 +4303,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Как HTTPS обеспечивает безопасность соединения: что должен знать каждый Web-разработчик](https://habr.com/ru/post/188042/)
+2. [HTTPS](https://en.wikipedia.org/wiki/HTTPS)
     
 &nbsp;
    
@@ -4309,6 +4315,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Google HTTPS Ranking: Why SSL is Good for SEO](Google HTTPS Ranking: Why SSL is Good for SEO)
     
 &nbsp;
    
