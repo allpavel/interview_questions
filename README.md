@@ -4382,21 +4382,12 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [MIME types (IANA media types)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
     
 &nbsp;
    
 </details>
-    
-<details><summary>Какими способами мы можем получить картинку с сервера?</summary>
-    
-&nbsp;
-  
-Прочитать:
-    
-&nbsp;
-   
-</details>
-    
+     
 <details><summary>Каким образом браузер понимает тип содержимого в ответе от API(картинка, текст, etc)?</summary>
   
 &nbsp;
