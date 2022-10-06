@@ -4326,6 +4326,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
     
 &nbsp;
    
@@ -4336,6 +4337,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Preload, prefetch и другие теги](https://habr.com/ru/post/445264/)
     
 &nbsp;
    
@@ -4346,6 +4348,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Время до первого байта: что это такое и почему это важно](https://habr.com/ru/company/ruvds/blog/470868/)
     
 &nbsp;
    
@@ -4356,6 +4359,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [HTTP caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
+2. [A Web Developer’s Guide to Browser Caching](https://medium.com/@codebyamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c)
     
 &nbsp;
    
@@ -4366,6 +4371,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Why is including a hash in a filename better for caching than appending a timestamp as a query parameter?](https://stackoverflow.com/questions/25557631/why-is-including-a-hash-in-a-filename-better-for-caching-than-appending-a-timest)
     
 &nbsp;
    
