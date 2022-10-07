@@ -4382,7 +4382,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
-1. [MIME types (IANA media types)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
+1. [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type)
+2. [MIME types (IANA media types)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
     
 &nbsp;
    
@@ -4393,29 +4394,11 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+1. [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type)
+2. [MIME types (IANA media types)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
   
 &nbsp;
   
-</details>
-  
-<details><summary>Как браузер понимает что нужно загрузить картинку?</summary>
-    
-&nbsp;
-  
-Прочитать:
-    
-&nbsp;
-   
-</details>
-    
-<details><summary>Как браузер понимает что нужно отображать именно картинку а не текст?</summary>
-    
-&nbsp;
-  
-Прочитать:
-    
-&nbsp;
-   
 </details>
     
 <details><summary>Что такое CORS?</summary>
@@ -4423,6 +4406,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [CORS для чайников: история возникновения, как устроен и оптимальные методы работы](https://habr.com/ru/company/macloud/blog/553826/)
+2. [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/ru/docs/Web/HTTP/CORS)
     
 &nbsp;
    
