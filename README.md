@@ -4458,6 +4458,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Пять простых шагов для понимания JSON Web Tokens (JWT)](https://habr.com/ru/post/340146/)
+2. [Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию](https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc)
+3. [Introduction to JSON Web Tokens](https://jwt.io/introduction)
     
 &nbsp;
    
@@ -4468,6 +4471,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Пять простых шагов для понимания JSON Web Tokens (JWT)](https://habr.com/ru/post/340146/)
+2. [Добавляем Refresh Token](https://habr.com/ru/post/466929/)
+3. [Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию](https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc)
+
     
 &nbsp;
    
