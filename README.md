@@ -4490,6 +4490,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [A guide to preventing Webscraping](https://github.com/JonasCz/How-To-Prevent-Scraping)
     
 &nbsp;
    
