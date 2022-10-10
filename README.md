@@ -4418,6 +4418,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Обзор способов и протоколов аутентификации в веб-приложениях](https://habr.com/ru/company/dataart/blog/262817/)
+2. [Аутентификация и авторизация в микросервисных приложениях](https://habr.com/ru/company/dataart/blog/311376/)
     
 &nbsp;
    
@@ -4428,6 +4430,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [HTTP Request Methods](https://www.w3schools.com/tags/ref_httpmethods.asp)
     
 &nbsp;
    
@@ -4438,6 +4441,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [HTTP Request Methods](https://www.w3schools.com/tags/ref_httpmethods.asp)
     
 &nbsp;
    
@@ -4448,6 +4452,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Use of PUT vs PATCH methods in REST API real life scenarios](https://stackoverflow.com/questions/28459418/use-of-put-vs-patch-methods-in-rest-api-real-life-scenarios)
     
 &nbsp;
    
