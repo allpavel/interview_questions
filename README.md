@@ -3767,6 +3767,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Однонаправленный поток данных](https://ru.reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down)
 2. [Подъём состояния](https://ru.reactjs.org/docs/lifting-state-up.html)
 3. [Перенаправление рефов](https://ru.reactjs.org/docs/forwarding-refs.html)
@@ -3780,6 +3781,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Управляемые компоненты](https://ru.reactjs.org/docs/forms.html#controlled-components)
 2. [Неуправляемые компоненты](https://ru.reactjs.org/docs/uncontrolled-components.html)
 
@@ -3792,6 +3794,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Жизненный цикл компонента](https://ru.reactjs.org/docs/react-component.html#the-component-lifecycle)
 2. [React 16 Lifecycle Methods: How and When to Use Them](https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282)
 
@@ -3804,6 +3807,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [События жизненного цикла в React](https://frontend-stuff.com/blog/react-lifecycle-events/)
 2. [The React lifecycle: methods and hooks explained](https://retool.com/blog/the-react-lifecycle-methods-and-hooks-explained/)
 
@@ -3816,6 +3820,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [React.PureComponent](https://ru.reactjs.org/docs/react-api.html#reactpurecomponent)
 2. [Разбор: как и зачем применять PureComponent в React](https://habr.com/ru/company/redmadrobot/blog/318222/)
 
@@ -3828,6 +3833,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Компоненты высшего порядка](https://ru.reactjs.org/docs/higher-order-components.html)
 2. [Higher-Order Components In React](https://www.smashingmagazine.com/2020/06/higher-order-components-react/)
 
@@ -3840,6 +3846,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Multiple conditional renderings in React](https://www.robinwieruch.de/conditional-rendering-react/#multiple-conditional-renderings-in-react)
 
 &nbsp;
@@ -3851,6 +3858,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Состояние компонента](https://ru.reactjs.org/docs/faq-state.html)
 2. [React Fundamentals: Props vs State](https://kentcdodds.com/blog/props-vs-state)
 3. [What is the difference between state and props in React?](https://stackoverflow.com/questions/27991366/what-is-the-difference-between-state-and-props-in-react)
@@ -3864,6 +3872,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Однонаправленный поток данных](https://ru.reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down)
 2. [Data binding in React](https://stackoverflow.com/questions/42217579/data-binding-in-react)
 3. [ReactJS Data Binding](https://www.geeksforgeeks.org/reactjs-data-binding/)
@@ -3878,6 +3887,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Подъём состояния](https://ru.reactjs.org/docs/lifting-state-up.html)
 2. [What Is "Lifting State Up" in React?](https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/)
 
@@ -3890,6 +3900,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Композиция против наследования](https://ru.reactjs.org/docs/composition-vs-inheritance.html)
 2. [props.children](https://ru.reactjs.org/docs/glossary.html#propschildren)
 
@@ -3902,6 +3913,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Порталы](https://ru.reactjs.org/docs/portals.html)
 2. [Building a modal in React with React Portals](https://blog.logrocket.com/build-modal-with-react-portals/)
 
@@ -3914,6 +3926,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Хуки](https://ru.reactjs.org/docs/react-api.html#hooks)
 
 &nbsp;
@@ -3925,6 +3938,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Правила хуков](https://ru.reactjs.org/docs/hooks-rules.html)
 
 &nbsp;
@@ -3936,6 +3950,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Объяснение](https://ru.reactjs.org/docs/hooks-rules.html#explanation)
 
 &nbsp;
@@ -3947,6 +3962,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Подробное объяснение](https://ru.reactjs.org/docs/hooks-effect.html#detailed-explanation)
 2. [useEffect(fn, []) is not the new componentDidMount()](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/)
 
@@ -3959,6 +3975,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [useEffect](https://ru.reactjs.org/docs/hooks-reference.html#useeffect)
 
 &nbsp;
@@ -3970,6 +3987,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
 
 &nbsp;
@@ -3981,6 +3999,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Функциональные обновления](https://ru.reactjs.org/docs/hooks-reference.html#functional-updates)
 
 &nbsp;
@@ -3992,6 +4011,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [How to Manage State in Your React Apps](https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/)
 2. [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
 
@@ -4004,6 +4024,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Global vs Local State in React](https://dev.to/fkrasnowski/global-vs-local-state-in-react-lp5)
 2. [How to Manage State in Your React Apps](https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/)
 
@@ -4016,6 +4037,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 
 &nbsp;
@@ -4027,6 +4049,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Rendering on the Web](https://web.dev/rendering-on-the-web/)
 2. [Server Side Rendering (SSR) vs. Client Side Rendering (CSR) vs. Pre-Rendering using Static Site Generators (SSG) and client-side hydration](https://medium.com/@prashantramnyc/server-side-rendering-ssr-vs-client-side-rendering-csr-vs-pre-rendering-using-static-site-89f2d05182ef)
 
@@ -4039,6 +4062,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Server Side Rendering (SSR) vs. Client Side Rendering (CSR) vs. Pre-Rendering using Static Site Generators (SSG) and client-side hydration](https://medium.com/@prashantramnyc/server-side-rendering-ssr-vs-client-side-rendering-csr-vs-pre-rendering-using-static-site-89f2d05182ef)
 
 &nbsp;
@@ -4050,6 +4074,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Rendering Patterns](https://www.patterns.dev/posts/#rendering-patterns)
 
 &nbsp;
@@ -4061,6 +4086,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Однонаправленный поток данных](https://ru.reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down)
 2. [Data binding in React](https://stackoverflow.com/questions/42217579/data-binding-in-react)
 3. [ReactJS Data Binding](https://www.geeksforgeeks.org/reactjs-data-binding/)
@@ -4075,6 +4101,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Однонаправленный поток данных](https://ru.reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down)
 2. [Data binding in React](https://stackoverflow.com/questions/42217579/data-binding-in-react)
 3. [ReactJS Data Binding](https://www.geeksforgeeks.org/reactjs-data-binding/)
@@ -4089,6 +4116,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [React: How to implement an infinite scroll](https://medium.com/suyeonme/react-how-to-implement-an-infinite-scroll-749003e9896a)
 2. [React Hooks for infinite scroll: An advanced tutorial](https://blog.logrocket.com/react-hooks-infinite-scroll-advanced-tutorial/)
 
@@ -4101,6 +4129,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Virtual scrolling: Core principles and basic implementation in React](https://blog.logrocket.com/virtual-scrolling-core-principles-and-basic-implementation-in-react/)
 2. [React Virtuoso](https://virtuoso.dev/)
 3. [react-virtualized](https://github.com/bvaughn/react-virtualized)
@@ -4115,6 +4144,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Списки и ключи](https://ru.reactjs.org/docs/lists-and-keys.html)
 2. [React key attribute: best practices for performant lists](https://www.developerway.com/posts/react-key-attribute)
 
@@ -4127,6 +4157,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Предохранители](https://ru.reactjs.org/docs/error-boundaries.html)
 
 &nbsp;
@@ -4138,6 +4169,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Prop Drilling](https://kentcdodds.com/blog/prop-drilling)
 
 &nbsp;
@@ -4149,6 +4181,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Рефы и DOM](https://ru.reactjs.org/docs/refs-and-the-dom.html)
 2. [A complete guide to React refs](https://blog.logrocket.com/complete-guide-react-refs/)
 
@@ -4161,6 +4194,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [flushSync](https://ru.reactjs.org/docs/react-dom.html#flushsync)
 2. [What does flushSync() do in React?](https://stackoverflow.com/questions/62725935/what-does-flushsync-do-in-react)
 
@@ -4173,6 +4207,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Разделение кода](https://ru.reactjs.org/docs/code-splitting.html)
 
 &nbsp;
@@ -4184,6 +4219,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [How to develop your React superpowers with the HOC Pattern](https://www.freecodecamp.org/news/how-to-develop-your-react-superpowers-with-the-hoc-pattern-61293651d59/)
 2. [Higher-Order Component in React](https://blog.devgenius.io/higher-order-component-in-react-2bed7b6053f0)
 
@@ -4196,6 +4232,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [What does registerServiceWorker do in React JS?](https://stackoverflow.com/questions/47953732/what-does-registerserviceworker-do-in-react-js)
 
 &nbsp;
@@ -4394,11 +4431,12 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
 1. [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type)
 2. [MIME types (IANA media types)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
-  
+
 &nbsp;
-  
+
 </details>
     
 <details><summary>Что такое CORS?</summary>
@@ -4480,9 +4518,8 @@ DOM — это независящий от платформы и языка пр
 2. [Добавляем Refresh Token](https://habr.com/ru/post/466929/)
 3. [Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию](https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc)
 
-    
 &nbsp;
-   
+
 </details>
     
 <details><summary>Как защититься от парсинга?</summary>
@@ -4511,6 +4548,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Разъяснение http2](https://habr.com/ru/post/221427/)
+1. [HTTP/1.1 vs HTTP/2: What's the Difference?](https://www.digitalocean.com/community/tutorials/http-1-1-vs-http-2-what-s-the-difference)
+2. [What is HTTP/2 – The Ultimate Guide](https://kinsta.com/learn/what-is-http2/)
     
 &nbsp;
    
@@ -4541,6 +4581,11 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Межсайтовый скриптинг](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B8%D0%BD%D0%B3)
+2. [Что такое XSS-уязвимость и как тестировщику не пропустить ее](https://habr.com/ru/post/511318/)
+3. [Cross-site scripting](https://portswigger.net/web-security/cross-site-scripting)
+4. [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
+5. [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
     
 &nbsp;
    
@@ -4551,6 +4596,11 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [CSRF-уязвимости все еще актуальны](https://habr.com/ru/company/oleg-bunin/blog/412855/)
+2. [Cross-site request forgery](https://portswigger.net/web-security/csrf)
+3. [Cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+4. [How to prevent CSRF vulnerabilities](https://portswigger.net/web-security/csrf/preventing)
+5. [XSS vs CSRF](https://portswigger.net/web-security/csrf/xss-vs-csrf)
     
 &nbsp;
    
@@ -4561,6 +4611,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Методы защиты от CSRF-атаки](https://habr.com/ru/post/318748/)
+2. [Bypassing CSRF token validation](https://portswigger.net/web-security/csrf/bypassing-token-validation)
+3. [XSS vs CSRF](https://portswigger.net/web-security/csrf/xss-vs-csrf)
     
 &nbsp;
    
@@ -4571,9 +4624,13 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
-    
+1. [Не пытайтесь обезопасить ввод. Экранируйте вывод](https://vk.com/@greyteam-ne-pytaites-obezopasit-vvod-ekraniruite-vyvod)
+2. [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+3. [SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+4. [Sanitizing User Input](https://happycoding.io/tutorials/java-server/sanitizing-user-input)
+
 &nbsp;
-   
+
 </details>
     
 <details><summary>Есть ли уязвимость связанная с \_target =blank?</summary>
@@ -4611,9 +4668,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
-  
+
 &nbsp;
-  
+
 </details>
   
 <details><summary>Что такое Веб-компоненты и какие технологии в них используются?</summary>
@@ -4871,9 +4928,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
-  
+
 &nbsp;
-  
+
 </details>
   
 <details><summary>Как мы можем оптимизировать отрисовку?</summary>
@@ -4921,100 +4978,99 @@ DOM — это независящий от платформы и языка пр
 <details><summary>Зачем нужна система контроля версий?</summary>
 
 &nbsp;
-  
+
 Прочитать:
-  
+
 &nbsp;
- 
+
 </details>
 
 <details><summary>Что такое gitflow?</summary>
 
 &nbsp;
-  
+
 Прочитать:
-  
+
 &nbsp;
- 
+
 </details>
 
 <details><summary>Что такое merge и rebase, в чем отличие друг от друга?</summary>
 
 &nbsp;
-  
+
 Прочитать:
-  
+
 &nbsp;
- 
+
 </details>
 
 <details><summary>Как наши изменения попадают в ветку?</summary>
 
 &nbsp;
-  
+
 Прочитать:
-  
+
 &nbsp;
- 
+
 </details>
 
 <details><summary>Как можно заставить git что-то забыть?</summary>
 
 &nbsp;
-  
+
 Прочитать:
-  
+
 &nbsp;
- 
+
 </details>
 
 <details><summary>Как можно переименовать коммит?</summary>
 
 &nbsp;
-  
+
 Прочитать:
-  
+
 &nbsp;
- 
+
 </details>
 
 <details><summary>В чем отличие amend от squash?</summary>
 
 &nbsp;
-  
+
 Прочитать:
-  
+
 &nbsp;
- 
+
 </details>
 
 <details><summary>Что такое cherry-pick?</summary>
 
 &nbsp;
-  
+
 Прочитать:
-  
+
 &nbsp;
- 
+
 </details>
 
 <details><summary>Что такое семантические коммиты?</summary>
 
 &nbsp;
-  
+
 Прочитать:
-  
+
 &nbsp;
- 
+
 </details>
 
 <details><summary>Что ты знаешь про semantic version</summary>
 
 &nbsp;
-  
-Прочитать:
-  
-&nbsp;
- 
-</details>
 
+Прочитать:
+
+&nbsp;
+
+</details>
