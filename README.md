@@ -4633,21 +4633,14 @@ DOM — это независящий от платформы и языка пр
 
 </details>
     
-<details><summary>Есть ли уязвимость связанная с \_target =blank?</summary>
+<details><summary>Есть ли уязвимость связанная с target="_blank"?</summary>
     
 &nbsp;
   
 Прочитать:
-    
-&nbsp;
-   
-</details>
-    
-<details><summary>Что такое прогрессивная отрисовка?</summary>
-    
-&nbsp;
-  
-Прочитать:
+1. [Опасный target="_blank"](https://habr.com/ru/post/282880/)
+2. [Web app security. Target="_blank" vulnerability](https://thecodest.co/blog/web-app-security-target-_blank-vulnerability/)
+3. [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
     
 &nbsp;
    
@@ -4658,9 +4651,12 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
-    
+1. [Progressive Enhancement или всё-таки Graceful Degradation](https://habr.com/ru/post/157115/)
+2. [Так ли дорого прогрессивное улучшение?](https://habr.com/ru/post/163877/)
+3. [The power of progressive enhancement](https://medium.com/no-divide/the-power-of-progressive-enhancement-98738766b009)
+
 &nbsp;
-   
+
 </details>
     
 <details><summary>Разница между feature detection, feature inference и анализом строки user-agent?</summary>
@@ -4668,6 +4664,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
 
 Прочитать:
+
+1. [JS: feature detection vs. inference vs. UA string](https://lucybain.com/blog/2014/feature-detection-vs-inference/)
+2. [Feature detection](https://en.wikipedia.org/wiki/Feature_detection_(web_development)
+3. [Browser detection using the user agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
 
 &nbsp;
 
