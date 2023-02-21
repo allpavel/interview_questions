@@ -4731,6 +4731,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Использование Web Workers](https://developer.mozilla.org/ru/docs/Web/API/Web_Workers_API/Using_web_workers)
+2. [The State Of Web Workers In 2021](https://www.smashingmagazine.com/2021/06/web-workers-2021/)
     
 &nbsp;
    
@@ -4741,6 +4743,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Как браузер рисует страницы](https://doka.guide/tools/how-the-browser-creates-pages/)
+2. [Как работают браузеры: принципы работы современных веб-браузеров](https://habr.com/ru/post/174057/)
+3. [What's the difference between reflow and repaint?](https://stackoverflow.com/questions/2549296/whats-the-difference-between-reflow-and-repaint)
     
 &nbsp;
    
@@ -4751,6 +4756,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Как браузер рисует страницы](https://doka.guide/tools/how-the-browser-creates-pages/)
+2. [Как работают браузеры: принципы работы современных веб-браузеров](https://habr.com/ru/post/174057/)
+3. [Rendering: repaint, reflow/relayout, restyle](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
     
 &nbsp;
    
