@@ -4678,6 +4678,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Веб-компоненты](https://learn.javascript.ru/web-components)
+2. [Веб-компоненты: обзор и использование в продакшне](https://habr.com/ru/post/346670/)
+3. [A Complete Introduction to Web Components](https://kinsta.com/blog/web-components/)
     
 &nbsp;
    
@@ -4688,6 +4691,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Приемы для повышения производительности сайта](https://web.dev/fast/)
+2. [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+3. [How We Improved SmashingMag Performance](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/)
     
 &nbsp;
    
@@ -4698,6 +4704,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Прогрессивные веб-приложения](https://web.dev/progressive-web-apps/)
+2. [Прогрессивное веб-приложение](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)
+3. [Learn PWA](https://web.dev/learn/pwa/)
+4. [Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
     
 &nbsp;
    
@@ -4708,6 +4718,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Service Workers. Инструкция по применению](https://habr.com/ru/company/2gis/blog/345552/)
+2. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+3. [Service workers](https://web.dev/learn/pwa/service-workers/)
     
 &nbsp;
    
