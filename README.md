@@ -4759,6 +4759,7 @@ DOM — это независящий от платформы и языка пр
 1. [Как браузер рисует страницы](https://doka.guide/tools/how-the-browser-creates-pages/)
 2. [Как работают браузеры: принципы работы современных веб-браузеров](https://habr.com/ru/post/174057/)
 3. [Rendering: repaint, reflow/relayout, restyle](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
+4. [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
     
 &nbsp;
    
@@ -4769,6 +4770,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Avoid large, complex layouts and layout thrashing](https://web.dev/avoid-large-complex-layouts-and-layout-thrashing/)
+2. [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
+3. [Are layout thrashing, reflow the same meaning in HTML?](https://stackoverflow.com/questions/66450070/are-layout-thrashing-reflow-the-same-meaning-in-html)
     
 &nbsp;
    
@@ -4779,6 +4783,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [What the FOUC is happening: Flash of Unstyled Content](https://dev.to/lyqht/what-the-fouc-is-happening-flash-of-unstyled-content-413j)
+2. [Eliminate flash of unstyled content](https://stackoverflow.com/questions/3221561/eliminate-flash-of-unstyled-content)
     
 &nbsp;
    
@@ -4789,6 +4795,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Web beacon](https://en.wikipedia.org/wiki/Web_beacon)
+2. [How to create a web bug (aka beacon image)](https://simonewebdesign.it/how-to-create-web-bug-aka-beacon-image/)
+3. [Using a Beacon Image for GitHub, Website and Email Analytics](https://www.sitepoint.com/using-beacon-image-github-website-email-analytics/)
+4. [Tracking user activities using web bugs](https://resources.infosecinstitute.com/topic/tracking-user-activities-using-web-bugs/)
     
 &nbsp;
    
@@ -4799,6 +4809,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [How to stop worrying about the image freshness and reduce the image network traffic?](https://tech.deliveryhero.com/how-to-stop-worrying-about-the-image-freshness-and-reduce-the-image-network-traffic/)
     
 &nbsp;
    
