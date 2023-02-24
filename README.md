@@ -4820,6 +4820,12 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Хранение данных в браузере](https://learn.javascript.ru/data-storage)
+2. [localStorage](https://doka.guide/js/local-storage/)
+3. [sessionStorage](https://doka.guide/js/session-storage/)
+4. [cookie](https://doka.guide/js/cookie/)
+5. [Storage for the web](https://web.dev/i18n/en/storage-for-the-web/)
+6. [Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
     
 &nbsp;
    
@@ -4830,6 +4836,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Хранение данных в браузере](https://learn.javascript.ru/data-storage)
+2. [localStorage](https://doka.guide/js/local-storage/)
+3. [sessionStorage](https://doka.guide/js/session-storage/)
     
 &nbsp;
    
@@ -4840,6 +4849,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [IndexedDB](https://learn.javascript.ru/indexeddb)
+2. [Working with IndexedDB](https://web.dev/indexeddb/)
     
 &nbsp;
    
