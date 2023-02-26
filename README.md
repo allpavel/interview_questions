@@ -4939,6 +4939,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Улучшение сетевой безопасности с помощью Content Security Policy](https://habr.com/ru/company/nix/blog/271575/)
+2. [https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
     
 &nbsp;
    
@@ -4949,6 +4951,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [JSONP](https://ru.wikipedia.org/wiki/JSONP)
+2. [What is JSONP, and why was it created?](https://stackoverflow.com/questions/2067472/what-is-jsonp-and-why-was-it-created)
     
 &nbsp;
    
@@ -4959,6 +4963,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [window.history](https://doka.guide/js/window-history/)
+2. [Using the HTML5 History API](https://css-tricks.com/using-the-html5-history-api/)
     
 &nbsp;
    
@@ -4969,26 +4975,21 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Браузерное окружение](https://learn.javascript.ru/browser-environment)
+2. [Браузерное окружение](https://doka.guide/js/bom/)
+3. [JavaScript BOM](https://www.javascripttutorial.net/javascript-bom/)
     
 &nbsp;
    
 </details>
-    
-<details><summary>назвать способы оптимизации загрузки страниц сайта</summary>
-    
-&nbsp;
-  
-Прочитать:
-    
-&nbsp;
-   
-</details>
-    
+      
 <details><summary>рассказать об инструментах, которые можно использовать для анализа оптимизаций</summary>
   
 &nbsp;
 
 Прочитать:
+
+1. [Recommended Performance Testing Tools in 2022](https://www.netguru.com/blog/performance-testing-tools)
 
 &nbsp;
 
@@ -5023,16 +5024,7 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
    
 </details>
-    
-<details><summary>Что такое Веб-компоненты и какие технологии в них используются?</summary>
-    
-&nbsp;
   
-Прочитать:
-    
-&nbsp;
-   
-</details>
     
 ## Git
 
