@@ -4861,16 +4861,20 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Гайд по DevTools](https://practicum.yandex.ru/blog/devtools-instrumenty-razrabotchika/)
+2. [The Beginner’s Guide to Chrome Developer Tools](https://nira.com/chrome-developer-tools/)
     
 &nbsp;
    
 </details>
     
-<details><summary>Что такое HTTP cookie? Для чего они используются?</summary>
+<details><summary>Что такое cookie? Для чего они используются?</summary>
     
 &nbsp;
   
 Прочитать:
+1. [Cookie](https://learn.javascript.ru/cookie)
+2. [Using HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
     
 &nbsp;
    
@@ -4881,6 +4885,12 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Хранение данных в браузере](https://learn.javascript.ru/data-storage)
+2. [localStorage](https://doka.guide/js/local-storage/)
+3. [sessionStorage](https://doka.guide/js/session-storage/)
+4. [cookie](https://doka.guide/js/cookie/)
+5. [Storage for the web](https://web.dev/i18n/en/storage-for-the-web/)
+6. [Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
     
 &nbsp;
    
@@ -4891,6 +4901,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [secure](https://learn.javascript.ru/cookie#secure)
+2. [Web Security: How to Harden your HTTP cookies](https://www.freecodecamp.org/news/web-security-hardening-http-cookies-be8d8d8016e1/)
     
 &nbsp;
    
@@ -4901,6 +4913,10 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [WebSocket](https://learn.javascript.ru/websocket)
+2. [Как работает JS: WebSocket и HTTP/2+SSE](https://habr.com/ru/company/ruvds/blog/342346/)
+3. [WebSocket](https://bettersoftwarewithsid.com/websocket-an-in-depth-beginners-guide)
+4. [The WebSocket API ](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
     
 &nbsp;
    
@@ -4911,9 +4927,11 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
-    
+1. [secure](https://learn.javascript.ru/cookie#secure)
+2. [Web Security: How to Harden your HTTP cookies](https://www.freecodecamp.org/news/web-security-hardening-http-cookies-be8d8d8016e1/)
+
 &nbsp;
-   
+
 </details>
     
 <details><summary>Что такое Content Security Policy (CSP)?</summary>
