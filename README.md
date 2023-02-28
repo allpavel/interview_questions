@@ -5000,6 +5000,8 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Оптимизация производительности фронтенда](https://habr.com/ru/post/517594/)
+2. [Repaints and Reflows: Manipulating the DOM responsibly](https://sites.google.com/site/getsnippet/javascript/dom/repaints-and-reflows-manipulating-the-dom-responsibly)
     
 &nbsp;
    
@@ -5010,6 +5012,9 @@ DOM — это независящий от платформы и языка пр
 &nbsp;
   
 Прочитать:
+1. [Оптимизация производительности фронтенда](https://habr.com/ru/post/517594/)
+2. [CSS Triggers List](https://csstriggers.com/)
+3. [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
     
 &nbsp;
    
@@ -5018,11 +5023,17 @@ DOM — это независящий от платформы и языка пр
 <details><summary>Как работает hot reload?</summary>
     
 &nbsp;
-  
+
+Hot reload just displays the code changes according to new code changes without restarting the app from the start and its effects only on the changed code or change will only apply to a specific component.
+
 Прочитать:
-    
+
+1. [Hot Module Replacement](https://webpack.js.org/concepts/hot-module-replacement/)
+2. [Webpack’s Hot Module Replacement Feature Explained](https://blog.bitsrc.io/webpacks-hot-module-replacement-feature-explained-43c13b169986)
+3. [A Deep Dive into Hot Module Replacement with Webpack](https://blog.nativescript.org/deep-dive-into-hot-module-replacement-with-webpack-part-two-handling-updates/)
+
 &nbsp;
-   
+
 </details>
   
     
