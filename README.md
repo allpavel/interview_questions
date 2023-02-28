@@ -5045,6 +5045,9 @@ Hot reload just displays the code changes according to new code changes without 
 
 Прочитать:
 
+1. [Что такое Git](https://academy.yandex.ru/journal/chto-takoe-git)
+2. [О системе контроля версий](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9)
+
 &nbsp;
 
 </details>
@@ -5054,6 +5057,9 @@ Hot reload just displays the code changes according to new code changes without 
 &nbsp;
 
 Прочитать:
+
+1. [Рабочий процесс Gitflow Workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
+2. [Шпаргалка по git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
 
 &nbsp;
 
@@ -5065,6 +5071,10 @@ Hot reload just displays the code changes according to new code changes without 
 
 Прочитать:
 
+1. [Введение в Git Merge и Git Rebase: зачем и когда их использовать](https://habr.com/ru/post/432420/)
+2. [Git merge](https://www.atlassian.com/ru/git/tutorials/using-branches/git-merge)
+3. [git rebase](https://www.atlassian.com/ru/git/tutorials/rewriting-history/git-rebase)
+
 &nbsp;
 
 </details>
@@ -5074,6 +5084,8 @@ Hot reload just displays the code changes according to new code changes without 
 &nbsp;
 
 Прочитать:
+
+1. [git push](https://www.atlassian.com/ru/git/tutorials/syncing/git-push)
 
 &nbsp;
 
@@ -5085,6 +5097,9 @@ Hot reload just displays the code changes according to new code changes without 
 
 Прочитать:
 
+1. [git reset](https://www.atlassian.com/ru/git/tutorials/undoing-changes/git-reset)
+2. [In plain English, what does "git reset" do?](https://stackoverflow.com/questions/2530060/in-plain-english-what-does-git-reset-do)
+
 &nbsp;
 
 </details>
@@ -5094,6 +5109,9 @@ Hot reload just displays the code changes according to new code changes without 
 &nbsp;
 
 Прочитать:
+
+1. [Переписывание истории](https://www.atlassian.com/ru/git/tutorials/rewriting-history)
+2. [Перезапись истории](https://git-scm.herokuapp.com/book/ru/v2/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-%D0%9F%D0%B5%D1%80%D0%B5%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8)
 
 &nbsp;
 
@@ -5105,6 +5123,9 @@ Hot reload just displays the code changes according to new code changes without 
 
 Прочитать:
 
+1. [Git - Difference between amend and squash commands](https://stackoverflow.com/questions/35044229/git-difference-between-amend-and-squash-commands)
+2. [How do I squash my last N commits together?](https://stackoverflow.com/questions/5189560/how-do-i-squash-my-last-n-commits-together)
+
 &nbsp;
 
 </details>
@@ -5114,6 +5135,9 @@ Hot reload just displays the code changes according to new code changes without 
 &nbsp;
 
 Прочитать:
+
+1. [Git Cherry Pick](https://www.atlassian.com/ru/git/tutorials/cherry-pick)
+2. [What does cherry-picking a commit with Git mean?](https://stackoverflow.com/questions/9339429/what-does-cherry-picking-a-commit-with-git-mean)
 
 &nbsp;
 
@@ -5125,6 +5149,10 @@ Hot reload just displays the code changes according to new code changes without 
 
 Прочитать:
 
+1. [Как генерировать осмысленные коммиты. Применяем стандарт Conventional Commits](https://habr.com/ru/company/yandex/blog/431432/)
+2. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+3. [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
 &nbsp;
 
 </details>
@@ -5134,6 +5162,9 @@ Hot reload just displays the code changes according to new code changes without 
 &nbsp;
 
 Прочитать:
+
+1. [v3.14.1592-beta2: все, что вы хотели знать о семантическом версионировании](https://habr.com/ru/company/Voximplant/blog/281593/)
+2. [Semantic Versioning](https://semver.org/)
 
 &nbsp;
 
