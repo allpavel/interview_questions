@@ -1,6 +1,16 @@
 # Вопросы для собеседования на позицию фронтенд разработчик
 
-## Секция 1. Вопросы по HTML
+# Содержание:
+
+1. &nbsp;&nbsp;[Секция 1. Вопросы по HTML](#section1)
+2. &nbsp;&nbsp;[Секция 2. Вопросы по CSS](#section2)
+3. &nbsp;&nbsp;[Секция 3. Вопросы по JavaScript](#section3)
+4. &nbsp;&nbsp;[Секция 4. Вопросы по JavaScript в браузере](#section4)
+5. &nbsp;&nbsp;[Секция 5. Вопросы по React](#section5)
+6. &nbsp;&nbsp;[Секция 6. Вопросы по Web API](#section6)
+7. &nbsp;&nbsp;[Секция 7. Вопросы по Git](#section7)
+
+## Секция 1. Вопросы по HTML<a id="section1"></a>
 
   <details><summary>Что такое и зачем нужен HTML?</summary>
   &nbsp;
@@ -801,7 +811,7 @@ alt это обязательный атрибут. Текст в alt назыв
   
   </details>
 
-## Секция 2. Вопросы по CSS
+## Секция 2. Вопросы по CSS<a id="section2"></a>
 
   <details><summary>Как расшифровывается аббревиатура CSS?</summary>
   
@@ -1776,7 +1786,7 @@ alt это обязательный атрибут. Текст в alt назыв
   
   </details>
 
-## Секция 3. Вопросы по JavaScript
+## Секция 3. Вопросы по JavaScript<a id="section3"></a>
 
   <details><summary>Какие типы данных есть в JS?</summary>
 
@@ -3152,7 +3162,7 @@ alt это обязательный атрибут. Текст в alt назыв
 
   </details>
 
-## JavaScript в браузере
+## Секция 4. JavaScript в браузере<a id="section4"></a>
 
 <details><summary>Что такое DOM?</summary>
 
@@ -3557,7 +3567,7 @@ DOM — это независящий от платформы и языка пр
 
 </details>
 
-## React
+## Секция 5. React<a id="section5"></a>
 
 <details><summary>Что такое React?</summary>
 
@@ -4239,7 +4249,7 @@ DOM — это независящий от платформы и языка пр
 
 </details>
 
-## Web API
+## Секция 6. Web API<a id="section6"></a>
 
 <details><summary>Что такое HTTP?</summary>
       
@@ -5037,7 +5047,7 @@ Hot reload just displays the code changes according to new code changes without 
 </details>
   
     
-## Git
+## Секция 7. Git<a id="section7"></a>
 
 <details><summary>Зачем нужна система контроля версий?</summary>
 
