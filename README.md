@@ -39,6 +39,8 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
   - strict - strict. Парные теги закрываются, атрибуты заворачиваются в кавычки;
   - frameset - при использовании фреймов.
 
+![Doctype schema](doctype_schema.png)
+
 Прочитать:
 
 1. [DOCTYPE: история и варианты применения](https://htmlacademy.ru/blog/articles/doctype)
