@@ -29,7 +29,8 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 &nbsp;
 
 </details>
-  <details><summary>Что такое doctype и зачем он нужен?</summary>
+
+<details><summary>Что такое doctype и зачем он нужен?</summary>
   
   &nbsp;
   
@@ -39,7 +40,7 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
   - strict - strict. Парные теги закрываются, атрибуты заворачиваются в кавычки;
   - frameset - при использовании фреймов.
 
-![Doctype schema](doctype_schema.png)
+![Doctype schema](images/doctype_schema.png)
 
 Расшифровка формулы:
 
@@ -61,7 +62,8 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 &nbsp;
 
 </details>
-  <details><summary>Обязательно ли писать теги head, body и html?</summary>
+
+<details><summary>Обязательно ли писать теги head, body и html?</summary>
 
 &nbsp;
 
@@ -96,7 +98,8 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 &nbsp;
 
 </details>
-  <details><summary>В чем отличие атрибутов от свойств в HTML тегах?</summary>
+
+<details><summary>В чем отличие атрибутов от свойств в HTML тегах?</summary>
 
 &nbsp;
 
@@ -105,11 +108,9 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 1. Имя атрибута (например, id, type, style и т.д.)
 2. Значение атрибута (например, для атрибута type значением может быть "text")
 
-Примеры:
+![Tag attribute](/images/tag_attribute.png)
 
-```
-  <tag_name attribute_name="value">Content</tag_name>
-```
+Примеры:
 
 ```
   <input id="input" type="text">
@@ -134,7 +135,8 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 
 &nbsp;
 
-Мета-теги позволяют передавать поисковым системам дополнительную информацию о страницах, на которых они размещены.
+Мета-теги позволяют передавать поисковым системам дополнительную информацию о страницах, на которых они размещены. За исключением тега `title`, мета-теги не отображаются браузером.
+Метаданные - данные, описывающие данные. Например, `<meta charset="utf-8">` - опеределяет кодировку документа.
 
 Прочитать:
 
