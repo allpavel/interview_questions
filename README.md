@@ -37,7 +37,7 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
   Тег DOCTYPE сообщает браузеру каким языком разметки вы писали свой документ (это может быть HTML, XHTML или XML). DOCTYPE должен находиться на первой строке каждого документа. В HTML5 декларация типа документа выглядит очень просто: `<!DOCTYPE html>`.
   Кроме этого, существуют разные степени строгости синтаксиса:
   - transitional - переходный;
-  - strict - strict. Парные теги закрываются, атрибуты заворачиваются в кавычки;
+  - strict - парные теги закрываются, атрибуты заворачиваются в кавычки;
   - frameset - при использовании фреймов.
 
 ![Doctype schema](images/doctype_schema.png)
@@ -71,7 +71,7 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 Кроме того, например, в [руководстве по стилю HTML](https://google.github.io/styleguide/htmlcssguide.html#HTML_Validity) от Google указано, что в целях оптимизации размера файла можно рассмотреть возможность исключения необязательных тегов:
 
 ```
-<!-- Not recommended -->
+<!-- Стандартный HTML -->
 <!DOCTYPE html>
 <html>
  <head>
@@ -84,7 +84,7 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 ```
 
 ```
-<!-- Recommended -->
+<!-- HTML с пропущенными тегами -->
 <!DOCTYPE html>
 <title>Saving money, saving bytes</title>
 <p>Qed.
@@ -136,7 +136,15 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
 &nbsp;
 
 Мета-теги позволяют передавать поисковым системам дополнительную информацию о страницах, на которых они размещены. За исключением тега `title`, мета-теги не отображаются браузером.
-Метаданные - данные, описывающие данные. Например, `<meta charset="utf-8">` - опеределяет кодировку документа.
+Метаданные - данные, описывающие данные.
+
+Например:
+
+`<meta charset="utf-8">` - опеределяет кодировку документа.
+
+`<meta name="description" content="Awesome description"` - определяет описание веб-страницы.
+
+`<meta name="author" content="Pavel Alloyarov"` - опеределяет автора страницы.
 
 Прочитать:
 
@@ -172,12 +180,21 @@ HTML (от англ. _HyperText Markup Language_ — «язык гипертек
   <meta name="viewport" content="width=device-width, initial-scale=1">
   ```
   
-  Прочитать:
-  1. [Метатег viewport: почему он важен и как его правильно использовать](https://timeweb.com/ru/community/articles/metateg-viewport-pochemu-on-vazhen-i-kak-ego-pravilno-ispolzovat)
-  2. [Viewport meta tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
-  
-  &nbsp;
- 
+  Основные свойства viewport`а:
+  1. ```width``` - определяет ширину viewport`а. Может быть установлен в пикселях (например, ```width=400```) или специальным значением ```device-width```, которое равно 100vw.
+  2. ```height``` - определяет высоту viewport`а. Может быть установлен в пикселях (например, ```height=400```) или специальным значением ```device-height```, которое равно 100vh.
+  3. ```initial-scale``` - определяет коэфициент масштабирования страницы при первичной загрузке.
+  4. ```minimum-scale``` и ```maximum-scale``` - определяют минимальный и максимальный масштаб, соответственно.
+  5. ```user-scalable``` - определяет возможность увеличения или уменьшения масштаба страницы.
+  6. ```interactive-widget``` - определяет эффект, который оказывают виджеты (например, виртуальная клавиатура) на viewport страницы.
+
+Прочитать:
+
+1. [Метатег viewport: почему он важен и как его правильно использовать](https://timeweb.com/ru/community/articles/metateg-viewport-pochemu-on-vazhen-i-kak-ego-pravilno-ispolzovat)
+2. [Viewport meta tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
+
+&nbsp;
+
   </details>
   <details><summary>Что такое html entities?</summary>
     
